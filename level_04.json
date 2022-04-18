@@ -1,0 +1,5056 @@
+[
+  {
+    "num": "1",
+    "word": "abandon",
+    "part": "v.",
+    "ch": "放棄；拋棄",
+    "lv": "4"
+  },
+  {
+    "num": "2",
+    "word": "absolute",
+    "part": "adj.",
+    "ch": "絕對的；完全的",
+    "lv": "4"
+  },
+  {
+    "num": "3",
+    "word": "absorb",
+    "part": "v.",
+    "ch": "吸收；理解（資訊等）",
+    "lv": "4"
+  },
+  {
+    "num": "4",
+    "word": "abstract",
+    "part": "adj.",
+    "ch": "抽象的；理論上的",
+    "lv": "4"
+  },
+  {
+    "num": "5",
+    "word": "academic",
+    "part": "adj.",
+    "ch": "學術的；理論上的",
+    "lv": "4"
+  },
+  {
+    "num": "6",
+    "word": "accent",
+    "part": "n.",
+    "ch": "（民族、地方或個人的）口音；著重",
+    "lv": "4"
+  },
+  {
+    "num": "7",
+    "word": "access",
+    "part": "n.",
+    "ch": "使用；進入",
+    "lv": "4"
+  },
+  {
+    "num": "8",
+    "word": "accidental",
+    "part": "adj.",
+    "ch": "偶然的；意外的",
+    "lv": "4"
+  },
+  {
+    "num": "9",
+    "word": "accompany",
+    "part": "v.",
+    "ch": "隨行；陪伴",
+    "lv": "4"
+  },
+  {
+    "num": "10",
+    "word": "accomplish",
+    "part": "v.",
+    "ch": "完成；達成",
+    "lv": "4"
+  },
+  {
+    "num": "11",
+    "word": "accountant",
+    "part": "n.",
+    "ch": "會計人員；會計師",
+    "lv": "4"
+  },
+  {
+    "num": "12",
+    "word": "accuracy",
+    "part": "n.",
+    "ch": "正確性；精確性",
+    "lv": "4"
+  },
+  {
+    "num": "13",
+    "word": "accurate",
+    "part": "adj.",
+    "ch": "準確的;",
+    "lv": "4"
+  },
+  {
+    "num": "14",
+    "word": "accuse",
+    "part": "v.",
+    "ch": "控告；告發",
+    "lv": "4"
+  },
+  {
+    "num": "15",
+    "word": "acid",
+    "part": "adj.",
+    "ch": "酸的；尖酸刻薄的",
+    "lv": "4"
+  },
+  {
+    "num": "16",
+    "word": "acquaint",
+    "part": "v.",
+    "ch": "使…認識；使…熟知",
+    "lv": "4"
+  },
+  {
+    "num": "17",
+    "word": "acquire",
+    "part": "v.",
+    "ch": "（靠自己的能力、努力或行為而）獲得；得到（某事物）",
+    "lv": "4"
+  },
+  {
+    "num": "18",
+    "word": "acre",
+    "part": "n.",
+    "ch": "英畝",
+    "lv": "4"
+  },
+  {
+    "num": "19",
+    "word": "adapt",
+    "part": "v.",
+    "ch": "適應；習慣",
+    "lv": "4"
+  },
+  {
+    "num": "20",
+    "word": "adjust",
+    "part": "v.",
+    "ch": "適應；調整（改變...以適應）",
+    "lv": "4"
+  },
+  {
+    "num": "21",
+    "word": "adjustment",
+    "part": "n.",
+    "ch": "調整；改變",
+    "lv": "4"
+  },
+  {
+    "num": "22",
+    "word": "admission",
+    "part": "n.",
+    "ch": "允許進入；入場費",
+    "lv": "4"
+  },
+  {
+    "num": "23",
+    "word": "agency",
+    "part": "n.",
+    "ch": "代理；經銷",
+    "lv": "4"
+  },
+  {
+    "num": "24",
+    "word": "agent",
+    "part": "n.",
+    "ch": "代理人；經紀人",
+    "lv": "4"
+  },
+  {
+    "num": "25",
+    "word": "aggressive",
+    "part": "adj.",
+    "ch": "侵略的；攻擊的",
+    "lv": "4"
+  },
+  {
+    "num": "26",
+    "word": "alcohol",
+    "part": "n.",
+    "ch": "含酒精的飲料；酒",
+    "lv": "4"
+  },
+  {
+    "num": "27",
+    "word": "alert",
+    "part": "adj.",
+    "ch": "警覺的；機敏的",
+    "lv": "4"
+  },
+  {
+    "num": "28",
+    "word": "allowance",
+    "part": "n.",
+    "ch": "津貼；零用錢",
+    "lv": "4"
+  },
+  {
+    "num": "29",
+    "word": "amateur",
+    "part": "n.",
+    "ch": "業餘（水平）的（運動員，藝術家等）",
+    "lv": "4"
+  },
+  {
+    "num": "30",
+    "word": "amuse",
+    "part": "v.",
+    "ch": "娛樂；使...高興",
+    "lv": "4"
+  },
+  {
+    "num": "31",
+    "word": "amusement",
+    "part": "n.",
+    "ch": "娛樂；樂趣",
+    "lv": "4"
+  },
+  {
+    "num": "32",
+    "word": "analysis",
+    "part": "n.",
+    "ch": "分析；分解",
+    "lv": "4"
+  },
+  {
+    "num": "33",
+    "word": "analyze",
+    "part": "v.",
+    "ch": "分析；分析研究",
+    "lv": "4"
+  },
+  {
+    "num": "34",
+    "word": "ancestor",
+    "part": "n.",
+    "ch": "祖先；祖宗",
+    "lv": "4"
+  },
+  {
+    "num": "35",
+    "word": "anniversary",
+    "part": "n.",
+    "ch": "紀念日；週年紀念",
+    "lv": "4"
+  },
+  {
+    "num": "36",
+    "word": "annoy",
+    "part": "v.",
+    "ch": "惹惱；打攪",
+    "lv": "4"
+  },
+  {
+    "num": "37",
+    "word": "annual",
+    "part": "adj.",
+    "ch": "年度的；每年的；",
+    "lv": "4"
+  },
+  {
+    "num": "38",
+    "word": "anxiety",
+    "part": "n.",
+    "ch": "憂慮；焦慮",
+    "lv": "4"
+  },
+  {
+    "num": "39",
+    "word": "anxious",
+    "part": "adj.",
+    "ch": "擔心的；不安的",
+    "lv": "4"
+  },
+  {
+    "num": "40",
+    "word": "apologize",
+    "part": "v.",
+    "ch": "道歉；賠罪",
+    "lv": "4"
+  },
+  {
+    "num": "41",
+    "word": "apology",
+    "part": "n.",
+    "ch": "道歉；認錯",
+    "lv": "4"
+  },
+  {
+    "num": "42",
+    "word": "appliance",
+    "part": "n.",
+    "ch": "器具；用具",
+    "lv": "4"
+  },
+  {
+    "num": "43",
+    "word": "applicant",
+    "part": "n.",
+    "ch": "申請人",
+    "lv": "4"
+  },
+  {
+    "num": "44",
+    "word": "application",
+    "part": "n.",
+    "ch": "施用；應用",
+    "lv": "4"
+  },
+  {
+    "num": "45",
+    "word": "appointment",
+    "part": "n.",
+    "ch": "約定；約會",
+    "lv": "4"
+  },
+  {
+    "num": "46",
+    "word": "appoint",
+    "part": "v.",
+    "ch": "約定；指派",
+    "lv": "4"
+  },
+  {
+    "num": "47",
+    "word": "appreciation",
+    "part": "n.",
+    "ch": "鑑識；感激",
+    "lv": "4"
+  },
+  {
+    "num": "48",
+    "word": "appreciate",
+    "part": "v.",
+    "ch": "鑒賞；感激",
+    "lv": "4"
+  },
+  {
+    "num": "49",
+    "word": "appropriate",
+    "part": "adj.",
+    "ch": "適當的；恰當的",
+    "lv": "4"
+  },
+  {
+    "num": "50",
+    "word": "approval",
+    "part": "n.",
+    "ch": "贊成；承認",
+    "lv": "4"
+  },
+  {
+    "num": "51",
+    "word": "arise",
+    "part": "v.",
+    "ch": "起源；發生",
+    "lv": "4"
+  },
+  {
+    "num": "52",
+    "word": "arouse",
+    "part": "v.",
+    "ch": "激起；喚醒",
+    "lv": "4"
+  },
+  {
+    "num": "53",
+    "word": "artificial",
+    "part": "adj.",
+    "ch": "人工的；人為的",
+    "lv": "4"
+  },
+  {
+    "num": "54",
+    "word": "artistic",
+    "part": "adj.",
+    "ch": "有創意的；藝術的",
+    "lv": "4"
+  },
+  {
+    "num": "55",
+    "word": "aspect",
+    "part": "n.",
+    "ch": "外觀；角度",
+    "lv": "4"
+  },
+  {
+    "num": "56",
+    "word": "assemble",
+    "part": "v.",
+    "ch": "集合；裝配",
+    "lv": "4"
+  },
+  {
+    "num": "57",
+    "word": "assign",
+    "part": "v.",
+    "ch": "分配；派給",
+    "lv": "4"
+  },
+  {
+    "num": "58",
+    "word": "assistance",
+    "part": "n.",
+    "ch": "援助；幫助",
+    "lv": "4"
+  },
+  {
+    "num": "59",
+    "word": "associate",
+    "part": "n.",
+    "ch": "同伴；夥伴",
+    "lv": "4"
+  },
+  {
+    "num": "60",
+    "word": "association",
+    "part": "n.",
+    "ch": "關聯；社團",
+    "lv": "4"
+  },
+  {
+    "num": "61",
+    "word": "assume",
+    "part": "v.",
+    "ch": "假定；假裝",
+    "lv": "4"
+  },
+  {
+    "num": "62",
+    "word": "assurance",
+    "part": "n.",
+    "ch": "保證；擔保",
+    "lv": "4"
+  },
+  {
+    "num": "63",
+    "word": "assure",
+    "part": "v.",
+    "ch": "向（人）保證；擔保",
+    "lv": "4"
+  },
+  {
+    "num": "64",
+    "word": "automatic",
+    "part": "adj.",
+    "ch": "自動（裝置）的；無意識的",
+    "lv": "4"
+  },
+  {
+    "num": "65",
+    "word": "atmosphere",
+    "part": "n.",
+    "ch": "大氣；氣氛",
+    "lv": "4"
+  },
+  {
+    "num": "66",
+    "word": "atom",
+    "part": "n.",
+    "ch": "原子；碎片",
+    "lv": "4"
+  },
+  {
+    "num": "67",
+    "word": "atomic",
+    "part": "adj.",
+    "ch": "原子的；極小的",
+    "lv": "4"
+  },
+  {
+    "num": "68",
+    "word": "attach",
+    "part": "v.",
+    "ch": "繫上；附上",
+    "lv": "4"
+  },
+  {
+    "num": "69",
+    "word": "attraction",
+    "part": "n.",
+    "ch": "吸引；魅力",
+    "lv": "4"
+  },
+  {
+    "num": "70",
+    "word": "audio",
+    "part": "adj.",
+    "ch": "聲音的；聽覺的",
+    "lv": "4"
+  },
+  {
+    "num": "71",
+    "word": "authority",
+    "part": "n.",
+    "ch": "權勢；權威",
+    "lv": "4"
+  },
+  {
+    "num": "72",
+    "word": "autobiography",
+    "part": "n.",
+    "ch": "自傳",
+    "lv": "4"
+  },
+  {
+    "num": "73",
+    "word": "await",
+    "part": "v.",
+    "ch": "等候；等待",
+    "lv": "4"
+  },
+  {
+    "num": "74",
+    "word": "ballet",
+    "part": "n.",
+    "ch": "芭蕾舞；芭蕾舞曲",
+    "lv": "4"
+  },
+  {
+    "num": "75",
+    "word": "bankrupt",
+    "part": "adj.",
+    "ch": "破產的",
+    "lv": "4"
+  },
+  {
+    "num": "76",
+    "word": "bargain",
+    "part": "n.",
+    "ch": "交易；特價商品",
+    "lv": "4"
+  },
+  {
+    "num": "77",
+    "word": "barrier",
+    "part": "n.",
+    "ch": "障礙；柵欄",
+    "lv": "4"
+  },
+  {
+    "num": "78",
+    "word": "battery",
+    "part": "n.",
+    "ch": "電池（組）",
+    "lv": "4"
+  },
+  {
+    "num": "79",
+    "word": "behavior",
+    "part": "n.",
+    "ch": "行為；表現",
+    "lv": "4"
+  },
+  {
+    "num": "80",
+    "word": "biology",
+    "part": "n.",
+    "ch": "生物學",
+    "lv": "4"
+  },
+  {
+    "num": "81",
+    "word": "blade",
+    "part": "n.",
+    "ch": "刀鋒；刀身",
+    "lv": "4"
+  },
+  {
+    "num": "82",
+    "word": "blend",
+    "part": "v.",
+    "ch": "混合；攙和",
+    "lv": "4"
+  },
+  {
+    "num": "83",
+    "word": "blessing",
+    "part": "n.",
+    "ch": "祝福；帶來幸福的事物",
+    "lv": "4"
+  },
+  {
+    "num": "84",
+    "word": "blossom",
+    "part": "n.",
+    "ch": "（指可以結果實的）花；全盛期（迅速發展的時期）",
+    "lv": "4"
+  },
+  {
+    "num": "85",
+    "word": "boast",
+    "part": "n.",
+    "ch": "吹牛；自吹自擂",
+    "lv": "4"
+  },
+  {
+    "num": "86",
+    "word": "bounce",
+    "part": "v.",
+    "ch": "彈回；跳上跳下",
+    "lv": "4"
+  },
+  {
+    "num": "87",
+    "word": "brassiere",
+    "part": "bra",
+    "ch": "[brJ`zIr]",
+    "lv": "4"
+  },
+  {
+    "num": "88",
+    "word": "brutal",
+    "part": "adj.",
+    "ch": "殘忍的；嚴酷的",
+    "lv": "4"
+  },
+  {
+    "num": "89",
+    "word": "bulletin",
+    "part": "n.",
+    "ch": "公報；告示",
+    "lv": "4"
+  },
+  {
+    "num": "90",
+    "word": "cabinet",
+    "part": "n.",
+    "ch": "裝飾櫃；內閣",
+    "lv": "4"
+  },
+  {
+    "num": "91",
+    "word": "calculate",
+    "part": "v.",
+    "ch": "推算；估計",
+    "lv": "4"
+  },
+  {
+    "num": "92",
+    "word": "calorie",
+    "part": "n.",
+    "ch": "卡路里；卡（熱量單位）",
+    "lv": "4"
+  },
+  {
+    "num": "93",
+    "word": "campaign",
+    "part": "n.",
+    "ch": "運動；宣傳活動",
+    "lv": "4"
+  },
+  {
+    "num": "94",
+    "word": "candidate",
+    "part": "n.",
+    "ch": "（求職）申請人",
+    "lv": "4"
+  },
+  {
+    "num": "95",
+    "word": "capacity",
+    "part": "n.",
+    "ch": "容納力；能力",
+    "lv": "4"
+  },
+  {
+    "num": "96",
+    "word": "capital",
+    "part": "n.",
+    "ch": "首都；資本",
+    "lv": "4"
+  },
+  {
+    "num": "97",
+    "word": "career",
+    "part": "n.",
+    "ch": "生涯；經歷",
+    "lv": "4"
+  },
+  {
+    "num": "98",
+    "word": "carrier",
+    "part": "n.",
+    "ch": "運送人（媒介）；郵差",
+    "lv": "4"
+  },
+  {
+    "num": "99",
+    "word": "carve",
+    "part": "v.",
+    "ch": "刻…（東西）；開拓",
+    "lv": "4"
+  },
+  {
+    "num": "100",
+    "word": "cease",
+    "part": "v.",
+    "ch": "停止；終止",
+    "lv": "4"
+  },
+  {
+    "num": "101",
+    "word": "celebration",
+    "part": "n.",
+    "ch": "慶祝",
+    "lv": "4"
+  },
+  {
+    "num": "102",
+    "word": "chamber",
+    "part": "n.",
+    "ch": "房間；會議廳",
+    "lv": "4"
+  },
+  {
+    "num": "103",
+    "word": "championship",
+    "part": "n.",
+    "ch": "冠軍的地位；冠軍頭銜",
+    "lv": "4"
+  },
+  {
+    "num": "104",
+    "word": "characteristic",
+    "part": "adj.",
+    "ch": "典型的；獨特的",
+    "lv": "4"
+  },
+  {
+    "num": "105",
+    "word": "charity",
+    "part": "n.",
+    "ch": "（為幫助窮人而建立的）仁慈機構；施捨；仁慈",
+    "lv": "4"
+  },
+  {
+    "num": "106",
+    "word": "cherish",
+    "part": "v.",
+    "ch": "珍視；珍惜",
+    "lv": "4"
+  },
+  {
+    "num": "107",
+    "word": "chore",
+    "part": "n.",
+    "ch": "雜事；零工",
+    "lv": "4"
+  },
+  {
+    "num": "108",
+    "word": "chorus",
+    "part": "n.",
+    "ch": "合唱團；副歌",
+    "lv": "4"
+  },
+  {
+    "num": "109",
+    "word": "cinema",
+    "part": "n.",
+    "ch": "電影；電影事業；【英】電影院",
+    "lv": "4"
+  },
+  {
+    "num": "110",
+    "word": "circulate",
+    "part": "v.",
+    "ch": "循環；流通",
+    "lv": "4"
+  },
+  {
+    "num": "111",
+    "word": "circulation",
+    "part": "n.",
+    "ch": "（血液）循環；流通",
+    "lv": "4"
+  },
+  {
+    "num": "112",
+    "word": "circumstance",
+    "part": "n.",
+    "ch": "狀況；經濟狀況",
+    "lv": "4"
+  },
+  {
+    "num": "113",
+    "word": "civilization",
+    "part": "n.",
+    "ch": "文明生活；文明",
+    "lv": "4"
+  },
+  {
+    "num": "114",
+    "word": "clarify",
+    "part": "v.",
+    "ch": "澄清；清晰",
+    "lv": "4"
+  },
+  {
+    "num": "115",
+    "word": "classification",
+    "part": "n.",
+    "ch": "分類；分等級",
+    "lv": "4"
+  },
+  {
+    "num": "116",
+    "word": "classify",
+    "part": "v.",
+    "ch": "把…分類",
+    "lv": "4"
+  },
+  {
+    "num": "117",
+    "word": "climax",
+    "part": "n.",
+    "ch": "高潮；頂點",
+    "lv": "4"
+  },
+  {
+    "num": "118",
+    "word": "clumsy",
+    "part": "adj.",
+    "ch": "笨拙的",
+    "lv": "4"
+  },
+  {
+    "num": "119",
+    "word": "code",
+    "part": "n.",
+    "ch": "密碼；代號",
+    "lv": "4"
+  },
+  {
+    "num": "120",
+    "word": "collapse",
+    "part": "v.",
+    "ch": "倒塌；塌下",
+    "lv": "4"
+  },
+  {
+    "num": "121",
+    "word": "combination",
+    "part": "n.",
+    "ch": "結（聯）合；密碼鎖",
+    "lv": "4"
+  },
+  {
+    "num": "122",
+    "word": "comedy",
+    "part": "n.",
+    "ch": "喜劇",
+    "lv": "4"
+  },
+  {
+    "num": "123",
+    "word": "comic",
+    "part": "adj.",
+    "ch": "喜劇的；滑稽的",
+    "lv": "4"
+  },
+  {
+    "num": "124",
+    "word": "commander",
+    "part": "n.",
+    "ch": "司令官；指揮官",
+    "lv": "4"
+  },
+  {
+    "num": "125",
+    "word": "comment",
+    "part": "n.",
+    "ch": "評論；批評",
+    "lv": "4"
+  },
+  {
+    "num": "126",
+    "word": "commerce",
+    "part": "n.",
+    "ch": "商業；貿易",
+    "lv": "4"
+  },
+  {
+    "num": "127",
+    "word": "commit",
+    "part": "v.",
+    "ch": "犯（罪）；使承擔責任",
+    "lv": "4"
+  },
+  {
+    "num": "128",
+    "word": "communication",
+    "part": "n.",
+    "ch": "傳達；交流",
+    "lv": "4"
+  },
+  {
+    "num": "129",
+    "word": "community",
+    "part": "n.",
+    "ch": "社區；大眾",
+    "lv": "4"
+  },
+  {
+    "num": "130",
+    "word": "companion",
+    "part": "n.",
+    "ch": "同伴；夥伴",
+    "lv": "4"
+  },
+  {
+    "num": "131",
+    "word": "competition",
+    "part": "n.",
+    "ch": "競爭；比賽",
+    "lv": "4"
+  },
+  {
+    "num": "132",
+    "word": "competitive",
+    "part": "adj.",
+    "ch": "有競爭力的；競爭性",
+    "lv": "4"
+  },
+  {
+    "num": "133",
+    "word": "complicate",
+    "part": "v.",
+    "ch": "使…錯綜；使…混亂",
+    "lv": "4"
+  },
+  {
+    "num": "134",
+    "word": "compose",
+    "part": "v.",
+    "ch": "組成；創作",
+    "lv": "4"
+  },
+  {
+    "num": "135",
+    "word": "composer",
+    "part": "n.",
+    "ch": "作曲家",
+    "lv": "4"
+  },
+  {
+    "num": "136",
+    "word": "composition",
+    "part": "n.",
+    "ch": "構成；組成；寫作",
+    "lv": "4"
+  },
+  {
+    "num": "137",
+    "word": "concentrate",
+    "part": "v.",
+    "ch": "集中；將（液體）濃縮",
+    "lv": "4"
+  },
+  {
+    "num": "138",
+    "word": "concentration",
+    "part": "n.",
+    "ch": "集中；注意力",
+    "lv": "4"
+  },
+  {
+    "num": "139",
+    "word": "concept",
+    "part": "n.",
+    "ch": "想法；構思",
+    "lv": "4"
+  },
+  {
+    "num": "140",
+    "word": "concrete",
+    "part": "adj.",
+    "ch": "現實的；明確的",
+    "lv": "4"
+  },
+  {
+    "num": "141",
+    "word": "conductor",
+    "part": "n.",
+    "ch": "帶領者；指揮",
+    "lv": "4"
+  },
+  {
+    "num": "142",
+    "word": "conference",
+    "part": "n.",
+    "ch": "商量；會議",
+    "lv": "4"
+  },
+  {
+    "num": "143",
+    "word": "confess",
+    "part": "v.",
+    "ch": "承認；懺悔",
+    "lv": "4"
+  },
+  {
+    "num": "144",
+    "word": "confidence",
+    "part": "n.",
+    "ch": "自信；信賴",
+    "lv": "4"
+  },
+  {
+    "num": "145",
+    "word": "confine",
+    "part": "v.",
+    "ch": "限制",
+    "lv": "4"
+  },
+  {
+    "num": "146",
+    "word": "confusion",
+    "part": "n.",
+    "ch": "混亂",
+    "lv": "4"
+  },
+  {
+    "num": "147",
+    "word": "congratulate",
+    "part": "v.",
+    "ch": "祝賀；恭喜",
+    "lv": "4"
+  },
+  {
+    "num": "148",
+    "word": "congress",
+    "part": "n.",
+    "ch": "國會",
+    "lv": "4"
+  },
+  {
+    "num": "149",
+    "word": "conquer",
+    "part": "v.",
+    "ch": "征服；戰勝",
+    "lv": "4"
+  },
+  {
+    "num": "150",
+    "word": "conscience",
+    "part": "n.",
+    "ch": "良心；善惡的觀念",
+    "lv": "4"
+  },
+  {
+    "num": "151",
+    "word": "consequence",
+    "part": "n.",
+    "ch": "結果",
+    "lv": "4"
+  },
+  {
+    "num": "152",
+    "word": "consequently",
+    "part": "adv.",
+    "ch": "因此；所以",
+    "lv": "4"
+  },
+  {
+    "num": "153",
+    "word": "conservative",
+    "part": "adj.",
+    "ch": "保守的；保守主義的",
+    "lv": "4"
+  },
+  {
+    "num": "154",
+    "word": "consist",
+    "part": "v.",
+    "ch": "存於…；由…組成",
+    "lv": "4"
+  },
+  {
+    "num": "155",
+    "word": "consistent",
+    "part": "adj.",
+    "ch": "一致的",
+    "lv": "4"
+  },
+  {
+    "num": "156",
+    "word": "consistently",
+    "part": "adv.",
+    "ch": "前後一致地",
+    "lv": "4"
+  },
+  {
+    "num": "157",
+    "word": "constitute",
+    "part": "v.",
+    "ch": "組成；構成",
+    "lv": "4"
+  },
+  {
+    "num": "158",
+    "word": "constitution",
+    "part": "n.",
+    "ch": "結構；憲法",
+    "lv": "4"
+  },
+  {
+    "num": "159",
+    "word": "construct",
+    "part": "v.",
+    "ch": "建造",
+    "lv": "4"
+  },
+  {
+    "num": "160",
+    "word": "construction",
+    "part": "n.",
+    "ch": "建造；架設；施工",
+    "lv": "4"
+  },
+  {
+    "num": "161",
+    "word": "consult",
+    "part": "v.",
+    "ch": "請求；查閱",
+    "lv": "4"
+  },
+  {
+    "num": "162",
+    "word": "consultant",
+    "part": "n.",
+    "ch": "顧問",
+    "lv": "4"
+  },
+  {
+    "num": "163",
+    "word": "consume",
+    "part": "v.",
+    "ch": "消費；用完",
+    "lv": "4"
+  },
+  {
+    "num": "164",
+    "word": "consumer",
+    "part": "n.",
+    "ch": "消費者",
+    "lv": "4"
+  },
+  {
+    "num": "165",
+    "word": "container",
+    "part": "n.",
+    "ch": "容器",
+    "lv": "4"
+  },
+  {
+    "num": "166",
+    "word": "content",
+    "part": "adj.",
+    "ch": "滿足的",
+    "lv": "4"
+  },
+  {
+    "num": "167",
+    "word": "contest",
+    "part": "n.",
+    "ch": "競賽；比賽",
+    "lv": "4"
+  },
+  {
+    "num": "168",
+    "word": "context",
+    "part": "n.",
+    "ch": "上下文；前後關係",
+    "lv": "4"
+  },
+  {
+    "num": "169",
+    "word": "continually",
+    "part": "adv.",
+    "ch": "持續地；不斷地",
+    "lv": "4"
+  },
+  {
+    "num": "170",
+    "word": "continuous",
+    "part": "adj.",
+    "ch": "連續的；不中斷的",
+    "lv": "4"
+  },
+  {
+    "num": "171",
+    "word": "continuously",
+    "part": "adv.",
+    "ch": "連續性地",
+    "lv": "4"
+  },
+  {
+    "num": "172",
+    "word": "contrary",
+    "part": "adj.",
+    "ch": "反對的；相反的",
+    "lv": "4"
+  },
+  {
+    "num": "173",
+    "word": "contrast",
+    "part": "n.",
+    "ch": "對比；差異",
+    "lv": "4"
+  },
+  {
+    "num": "174",
+    "word": "contribute",
+    "part": "v.",
+    "ch": "捐贈；貢獻",
+    "lv": "4"
+  },
+  {
+    "num": "175",
+    "word": "contribution",
+    "part": "n.",
+    "ch": "貢獻",
+    "lv": "4"
+  },
+  {
+    "num": "176",
+    "word": "convenience",
+    "part": "n.",
+    "ch": "方便；便利",
+    "lv": "4"
+  },
+  {
+    "num": "177",
+    "word": "convention",
+    "part": "n.",
+    "ch": "大會；習俗",
+    "lv": "4"
+  },
+  {
+    "num": "178",
+    "word": "conventional",
+    "part": "adj.",
+    "ch": "傳統的；老套的",
+    "lv": "4"
+  },
+  {
+    "num": "179",
+    "word": "converse",
+    "part": "v.",
+    "ch": "交談（思想、看法或感情）；談話",
+    "lv": "4"
+  },
+  {
+    "num": "180",
+    "word": "convey",
+    "part": "v.",
+    "ch": "傳遞；傳達",
+    "lv": "4"
+  },
+  {
+    "num": "181",
+    "word": "convince",
+    "part": "v.",
+    "ch": "使信服；使確信",
+    "lv": "4"
+  },
+  {
+    "num": "182",
+    "word": "cooperate",
+    "part": "v.",
+    "ch": "合作",
+    "lv": "4"
+  },
+  {
+    "num": "183",
+    "word": "cooperation",
+    "part": "n.",
+    "ch": "合作；協調性",
+    "lv": "4"
+  },
+  {
+    "num": "184",
+    "word": "cooperative",
+    "part": "adj.",
+    "ch": "協力合作的；協同的",
+    "lv": "4"
+  },
+  {
+    "num": "185",
+    "word": "cope",
+    "part": "v.",
+    "ch": "妥善應付",
+    "lv": "4"
+  },
+  {
+    "num": "186",
+    "word": "correspond",
+    "part": "v.",
+    "ch": "一致（符合）；通信",
+    "lv": "4"
+  },
+  {
+    "num": "187",
+    "word": "corresponding",
+    "part": "adj.",
+    "ch": "一致的；對應的",
+    "lv": "4"
+  },
+  {
+    "num": "188",
+    "word": "costume",
+    "part": "n.",
+    "ch": "（某民族…等）服裝；舞台裝",
+    "lv": "4"
+  },
+  {
+    "num": "189",
+    "word": "cottage",
+    "part": "n.",
+    "ch": "農舍；小別墅",
+    "lv": "4"
+  },
+  {
+    "num": "190",
+    "word": "council",
+    "part": "n.",
+    "ch": "會議；協商",
+    "lv": "4"
+  },
+  {
+    "num": "191",
+    "word": "counter",
+    "part": "v.",
+    "ch": "反對；還擊",
+    "lv": "4"
+  },
+  {
+    "num": "192",
+    "word": "courageous",
+    "part": "adj.",
+    "ch": "勇敢的",
+    "lv": "4"
+  },
+  {
+    "num": "193",
+    "word": "courtesy",
+    "part": "n.",
+    "ch": "禮貌",
+    "lv": "4"
+  },
+  {
+    "num": "194",
+    "word": "crack",
+    "part": "n.",
+    "ch": "裂縫；破裂聲",
+    "lv": "4"
+  },
+  {
+    "num": "195",
+    "word": "craft",
+    "part": "n.",
+    "ch": "技能；技巧",
+    "lv": "4"
+  },
+  {
+    "num": "196",
+    "word": "creation",
+    "part": "n.",
+    "ch": "創造；天地萬物",
+    "lv": "4"
+  },
+  {
+    "num": "197",
+    "word": "creativity",
+    "part": "n.",
+    "ch": "創造力",
+    "lv": "4"
+  },
+  {
+    "num": "198",
+    "word": "critic",
+    "part": "n.",
+    "ch": "評論家；批判者",
+    "lv": "4"
+  },
+  {
+    "num": "199",
+    "word": "critical",
+    "part": "adj.",
+    "ch": "吹毛求疵的（愛進行嚴厲批判）；關鍵的（具有轉折點性質的)",
+    "lv": "4"
+  },
+  {
+    "num": "200",
+    "word": "criticism",
+    "part": "n.",
+    "ch": "批評",
+    "lv": "4"
+  },
+  {
+    "num": "201",
+    "word": "criticize",
+    "part": "v.",
+    "ch": "批評；評論",
+    "lv": "4"
+  },
+  {
+    "num": "202",
+    "word": "curiosity",
+    "part": "n.",
+    "ch": "好奇心；珍奇之物",
+    "lv": "4"
+  },
+  {
+    "num": "203",
+    "word": "curve",
+    "part": "n.",
+    "ch": "彎曲",
+    "lv": "4"
+  },
+  {
+    "num": "204",
+    "word": "damn",
+    "part": "v.",
+    "ch": "詛咒；貶責",
+    "lv": "4"
+  },
+  {
+    "num": "205",
+    "word": "deadline",
+    "part": "n.",
+    "ch": "最後期限；截止期限",
+    "lv": "4"
+  },
+  {
+    "num": "206",
+    "word": "declare",
+    "part": "v.",
+    "ch": "宣布；聲稱",
+    "lv": "4"
+  },
+  {
+    "num": "207",
+    "word": "decoration",
+    "part": "n.",
+    "ch": "裝飾；裝飾品",
+    "lv": "4"
+  },
+  {
+    "num": "208",
+    "word": "decrease",
+    "part": "v.",
+    "ch": "降低；減少",
+    "lv": "4"
+  },
+  {
+    "num": "209",
+    "word": "defeat",
+    "part": "n.",
+    "ch": "敗北；失敗",
+    "lv": "4"
+  },
+  {
+    "num": "210",
+    "word": "defend",
+    "part": "v.",
+    "ch": "保護；辯護",
+    "lv": "4"
+  },
+  {
+    "num": "211",
+    "word": "defense",
+    "part": "n.",
+    "ch": "防衛；防守",
+    "lv": "4"
+  },
+  {
+    "num": "212",
+    "word": "definite",
+    "part": "adj.",
+    "ch": "一定的；明確的",
+    "lv": "4"
+  },
+  {
+    "num": "213",
+    "word": "definitely",
+    "part": "adv.",
+    "ch": "明確地；明白地",
+    "lv": "4"
+  },
+  {
+    "num": "214",
+    "word": "delicate",
+    "part": "adj.",
+    "ch": "易碎的；嬌貴的",
+    "lv": "4"
+  },
+  {
+    "num": "215",
+    "word": "delight",
+    "part": "n.",
+    "ch": "快樂；歡喜",
+    "lv": "4"
+  },
+  {
+    "num": "216",
+    "word": "delightful",
+    "part": "adj.",
+    "ch": "愉快的；舒適的",
+    "lv": "4"
+  },
+  {
+    "num": "217",
+    "word": "demand",
+    "part": "n.",
+    "ch": "要求；要求＜做…＞",
+    "lv": "4"
+  },
+  {
+    "num": "218",
+    "word": "demonstrate",
+    "part": "v.",
+    "ch": "證明；示範",
+    "lv": "4"
+  },
+  {
+    "num": "219",
+    "word": "dense",
+    "part": "adj.",
+    "ch": "密集的；濃的",
+    "lv": "4"
+  },
+  {
+    "num": "220",
+    "word": "depart",
+    "part": "v.",
+    "ch": "出發；離開",
+    "lv": "4"
+  },
+  {
+    "num": "221",
+    "word": "departure",
+    "part": "n.",
+    "ch": "出發；動身",
+    "lv": "4"
+  },
+  {
+    "num": "222",
+    "word": "dependent",
+    "part": "adj.",
+    "ch": "依賴的；視…而定",
+    "lv": "4"
+  },
+  {
+    "num": "223",
+    "word": "depress",
+    "part": "v.",
+    "ch": "使抑鬱；使沮喪",
+    "lv": "4"
+  },
+  {
+    "num": "224",
+    "word": "depression",
+    "part": "n.",
+    "ch": "憂鬱；不景氣",
+    "lv": "4"
+  },
+  {
+    "num": "225",
+    "word": "deserve",
+    "part": "v.",
+    "ch": "值得；應得",
+    "lv": "4"
+  },
+  {
+    "num": "226",
+    "word": "desperate",
+    "part": "adj.",
+    "ch": "絕望的；不顧死活的",
+    "lv": "4"
+  },
+  {
+    "num": "227",
+    "word": "desperately",
+    "part": "adv.",
+    "ch": "極度地；絕望地",
+    "lv": "4"
+  },
+  {
+    "num": "228",
+    "word": "despite",
+    "part": "prep.",
+    "ch": "儘管；雖然",
+    "lv": "4"
+  },
+  {
+    "num": "229",
+    "word": "destruction",
+    "part": "n.",
+    "ch": "破壞；消滅",
+    "lv": "4"
+  },
+  {
+    "num": "230",
+    "word": "detective",
+    "part": "n.",
+    "ch": "偵探；刑事（警察）",
+    "lv": "4"
+  },
+  {
+    "num": "231",
+    "word": "determination",
+    "part": "n.",
+    "ch": "決心；確定",
+    "lv": "4"
+  },
+  {
+    "num": "232",
+    "word": "device",
+    "part": "n.",
+    "ch": "精巧的裝置；策略",
+    "lv": "4"
+  },
+  {
+    "num": "233",
+    "word": "devise",
+    "part": "v.",
+    "ch": "想出；設計",
+    "lv": "4"
+  },
+  {
+    "num": "234",
+    "word": "devote",
+    "part": "v.",
+    "ch": "將…奉獻；專心致力於…",
+    "lv": "4"
+  },
+  {
+    "num": "235",
+    "word": "differ",
+    "part": "v.",
+    "ch": "不同；有差異",
+    "lv": "4"
+  },
+  {
+    "num": "236",
+    "word": "digestion",
+    "part": "n.",
+    "ch": "消化",
+    "lv": "4"
+  },
+  {
+    "num": "237",
+    "word": "dignity",
+    "part": "n.",
+    "ch": "尊嚴；莊重",
+    "lv": "4"
+  },
+  {
+    "num": "238",
+    "word": "diligence",
+    "part": "n.",
+    "ch": "勤勉；勤奮",
+    "lv": "4"
+  },
+  {
+    "num": "239",
+    "word": "diploma",
+    "part": "n.",
+    "ch": "學位證書；文憑",
+    "lv": "4"
+  },
+  {
+    "num": "240",
+    "word": "diplomat",
+    "part": "n.",
+    "ch": "外交官",
+    "lv": "4"
+  },
+  {
+    "num": "241",
+    "word": "disadvantage",
+    "part": "n.",
+    "ch": "缺點；不利條件",
+    "lv": "4"
+  },
+  {
+    "num": "242",
+    "word": "disaster",
+    "part": "n.",
+    "ch": "重大的失敗；失敗之舉",
+    "lv": "4"
+  },
+  {
+    "num": "243",
+    "word": "discipline",
+    "part": "n.",
+    "ch": "紀律；教養",
+    "lv": "4"
+  },
+  {
+    "num": "244",
+    "word": "discourage",
+    "part": "v.",
+    "ch": "使失望；使打消念頭",
+    "lv": "4"
+  },
+  {
+    "num": "245",
+    "word": "disguise",
+    "part": "n.",
+    "ch": "偽裝；掩飾",
+    "lv": "4"
+  },
+  {
+    "num": "246",
+    "word": "disgust",
+    "part": "n.",
+    "ch": "作嘔；厭惡",
+    "lv": "4"
+  },
+  {
+    "num": "247",
+    "word": "dismiss",
+    "part": "v.",
+    "ch": "讓…離開；把…打發走",
+    "lv": "4"
+  },
+  {
+    "num": "248",
+    "word": "dispute",
+    "part": "n.",
+    "ch": "爭論；爭執",
+    "lv": "4"
+  },
+  {
+    "num": "249",
+    "word": "distinct",
+    "part": "adj.",
+    "ch": "不同的；清楚的",
+    "lv": "4"
+  },
+  {
+    "num": "250",
+    "word": "distinguish",
+    "part": "v.",
+    "ch": "辨別；使有別於…",
+    "lv": "4"
+  },
+  {
+    "num": "251",
+    "word": "distribute",
+    "part": "v.",
+    "ch": "分送；供應",
+    "lv": "4"
+  },
+  {
+    "num": "252",
+    "word": "district",
+    "part": "n.",
+    "ch": "地方；地區",
+    "lv": "4"
+  },
+  {
+    "num": "253",
+    "word": "disturb",
+    "part": "v.",
+    "ch": "妨礙；打擾",
+    "lv": "4"
+  },
+  {
+    "num": "254",
+    "word": "divine",
+    "part": "adj.",
+    "ch": "神聖的；極好的",
+    "lv": "4"
+  },
+  {
+    "num": "255",
+    "word": "divorce",
+    "part": "n.",
+    "ch": "離婚",
+    "lv": "4"
+  },
+  {
+    "num": "256",
+    "word": "dominant",
+    "part": "adj.",
+    "ch": "支配的；優勢的",
+    "lv": "4"
+  },
+  {
+    "num": "257",
+    "word": "dominate",
+    "part": "v.",
+    "ch": "支配；統治",
+    "lv": "4"
+  },
+  {
+    "num": "258",
+    "word": "dormitory",
+    "part": "n.",
+    "ch": "學生宿舍",
+    "lv": "4"
+  },
+  {
+    "num": "259",
+    "word": "download",
+    "part": "v.",
+    "ch": "下載",
+    "lv": "4"
+  },
+  {
+    "num": "260",
+    "word": "doze",
+    "part": "v.",
+    "ch": "打瞌睡；打盹",
+    "lv": "4"
+  },
+  {
+    "num": "261",
+    "word": "draft",
+    "part": "n.",
+    "ch": "草圖；通風",
+    "lv": "4"
+  },
+  {
+    "num": "262",
+    "word": "drift",
+    "part": "v.",
+    "ch": "漂流",
+    "lv": "4"
+  },
+  {
+    "num": "263",
+    "word": "dye",
+    "part": "n.",
+    "ch": "染料；染色",
+    "lv": "4"
+  },
+  {
+    "num": "264",
+    "word": "dynamic",
+    "part": "adj.",
+    "ch": "動力的；有活力的",
+    "lv": "4"
+  },
+  {
+    "num": "265",
+    "word": "economic",
+    "part": "adj.",
+    "ch": "經濟的；有實用價值的",
+    "lv": "4"
+  },
+  {
+    "num": "266",
+    "word": "economical",
+    "part": "adj.",
+    "ch": "經濟的；節約的",
+    "lv": "4"
+  },
+  {
+    "num": "267",
+    "word": "economics",
+    "part": "n.",
+    "ch": "經濟學",
+    "lv": "4"
+  },
+  {
+    "num": "268",
+    "word": "economy",
+    "part": "n.",
+    "ch": "節約；經濟",
+    "lv": "4"
+  },
+  {
+    "num": "269",
+    "word": "efficiency",
+    "part": "n.",
+    "ch": "效率；效能",
+    "lv": "4"
+  },
+  {
+    "num": "270",
+    "word": "electronics",
+    "part": "n.",
+    "ch": "電子學",
+    "lv": "4"
+  },
+  {
+    "num": "271",
+    "word": "elegant",
+    "part": "adj.",
+    "ch": "精緻的；優美的",
+    "lv": "4"
+  },
+  {
+    "num": "272",
+    "word": "eliminate",
+    "part": "v.",
+    "ch": "消滅；淘汰",
+    "lv": "4"
+  },
+  {
+    "num": "273",
+    "word": "embarrass",
+    "part": "v.",
+    "ch": "使困窘；侷促不安",
+    "lv": "4"
+  },
+  {
+    "num": "274",
+    "word": "emerge",
+    "part": "v.",
+    "ch": "露出；出現",
+    "lv": "4"
+  },
+  {
+    "num": "275",
+    "word": "emotional",
+    "part": "adj.",
+    "ch": "感情上的；訴諸情感的",
+    "lv": "4"
+  },
+  {
+    "num": "276",
+    "word": "emphasis",
+    "part": "n.",
+    "ch": "強調；重音",
+    "lv": "4"
+  },
+  {
+    "num": "277",
+    "word": "empire",
+    "part": "n.",
+    "ch": "帝國；帝政",
+    "lv": "4"
+  },
+  {
+    "num": "278",
+    "word": "encounter",
+    "part": "n.",
+    "ch": "遇見；邂逅",
+    "lv": "4"
+  },
+  {
+    "num": "279",
+    "word": "endure",
+    "part": "v.",
+    "ch": "忍受；持續",
+    "lv": "4"
+  },
+  {
+    "num": "280",
+    "word": "enforce",
+    "part": "v.",
+    "ch": "實施；執行",
+    "lv": "4"
+  },
+  {
+    "num": "281",
+    "word": "enlarge",
+    "part": "v.",
+    "ch": "擴大；放大",
+    "lv": "4"
+  },
+  {
+    "num": "282",
+    "word": "enormous",
+    "part": "adj.",
+    "ch": "巨大的；非凡的",
+    "lv": "4"
+  },
+  {
+    "num": "283",
+    "word": "entertain",
+    "part": "v.",
+    "ch": "使歡樂；使娛樂",
+    "lv": "4"
+  },
+  {
+    "num": "284",
+    "word": "entertainment",
+    "part": "n.",
+    "ch": "娛樂",
+    "lv": "4"
+  },
+  {
+    "num": "285",
+    "word": "enthusiasm",
+    "part": "n.",
+    "ch": "熱情；熱心",
+    "lv": "4"
+  },
+  {
+    "num": "286",
+    "word": "envious",
+    "part": "adj.",
+    "ch": "嫉妒的；羨慕的",
+    "lv": "4"
+  },
+  {
+    "num": "287",
+    "word": "equip",
+    "part": "v.",
+    "ch": "裝備；配備",
+    "lv": "4"
+  },
+  {
+    "num": "288",
+    "word": "equipment",
+    "part": "n.",
+    "ch": "設備；配件",
+    "lv": "4"
+  },
+  {
+    "num": "289",
+    "word": "era",
+    "part": "n.",
+    "ch": "時代；年代",
+    "lv": "4"
+  },
+  {
+    "num": "290",
+    "word": "errand",
+    "part": "n.",
+    "ch": "差事；任務",
+    "lv": "4"
+  },
+  {
+    "num": "291",
+    "word": "escalator",
+    "part": "n.",
+    "ch": "電扶梯",
+    "lv": "4"
+  },
+  {
+    "num": "292",
+    "word": "essay",
+    "part": "n.",
+    "ch": "散文；嘗試",
+    "lv": "4"
+  },
+  {
+    "num": "293",
+    "word": "essential",
+    "part": "adj.",
+    "ch": "不可缺的；必要的",
+    "lv": "4"
+  },
+  {
+    "num": "294",
+    "word": "essentially",
+    "part": "adv.",
+    "ch": "實質上；本來",
+    "lv": "4"
+  },
+  {
+    "num": "295",
+    "word": "establish",
+    "part": "v.",
+    "ch": "設立；奠定",
+    "lv": "4"
+  },
+  {
+    "num": "296",
+    "word": "estimate",
+    "part": "n.",
+    "ch": "估計；評價",
+    "lv": "4"
+  },
+  {
+    "num": "297",
+    "word": "evaluate",
+    "part": "v.",
+    "ch": "評估；估計",
+    "lv": "4"
+  },
+  {
+    "num": "298",
+    "word": "evaluation",
+    "part": "n.",
+    "ch": "評估；評量",
+    "lv": "4"
+  },
+  {
+    "num": "299",
+    "word": "eventual",
+    "part": "adj.",
+    "ch": "最後的；結果的",
+    "lv": "4"
+  },
+  {
+    "num": "300",
+    "word": "evidence",
+    "part": "n.",
+    "ch": "證據；跡象",
+    "lv": "4"
+  },
+  {
+    "num": "301",
+    "word": "evident",
+    "part": "adj.",
+    "ch": "明顯的；明白的",
+    "lv": "4"
+  },
+  {
+    "num": "302",
+    "word": "evidently",
+    "part": "adv.",
+    "ch": "顯然地",
+    "lv": "4"
+  },
+  {
+    "num": "303",
+    "word": "exaggerate",
+    "part": "v.",
+    "ch": "誇張；誇大",
+    "lv": "4"
+  },
+  {
+    "num": "304",
+    "word": "exception",
+    "part": "n.",
+    "ch": "除外；例外",
+    "lv": "4"
+  },
+  {
+    "num": "305",
+    "word": "exhaust",
+    "part": "v.",
+    "ch": "用盡；使…筋疲力盡",
+    "lv": "4"
+  },
+  {
+    "num": "306",
+    "word": "exhibit",
+    "part": "v.",
+    "ch": "陳列；展示",
+    "lv": "4"
+  },
+  {
+    "num": "307",
+    "word": "expand",
+    "part": "v.",
+    "ch": "擴張；發展",
+    "lv": "4"
+  },
+  {
+    "num": "308",
+    "word": "expansion",
+    "part": "n.",
+    "ch": "擴大；擴張",
+    "lv": "4"
+  },
+  {
+    "num": "309",
+    "word": "experimental",
+    "part": "adj.",
+    "ch": "實驗性的；以經驗為依據的",
+    "lv": "4"
+  },
+  {
+    "num": "310",
+    "word": "explanation",
+    "part": "n.",
+    "ch": "說明；解釋",
+    "lv": "4"
+  },
+  {
+    "num": "311",
+    "word": "explore",
+    "part": "v.",
+    "ch": "探測；在…探險",
+    "lv": "4"
+  },
+  {
+    "num": "312",
+    "word": "explosion",
+    "part": "n.",
+    "ch": "爆炸；爆發",
+    "lv": "4"
+  },
+  {
+    "num": "313",
+    "word": "exposure",
+    "part": "n.",
+    "ch": "暴露；曝光",
+    "lv": "4"
+  },
+  {
+    "num": "314",
+    "word": "extend",
+    "part": "v.",
+    "ch": "延長；伸展",
+    "lv": "4"
+  },
+  {
+    "num": "315",
+    "word": "extent",
+    "part": "n.",
+    "ch": "大小；範圍",
+    "lv": "4"
+  },
+  {
+    "num": "316",
+    "word": "facial",
+    "part": "adj.",
+    "ch": "臉的；面部的",
+    "lv": "4"
+  },
+  {
+    "num": "317",
+    "word": "facility",
+    "part": "n.",
+    "ch": "設備；本領",
+    "lv": "4"
+  },
+  {
+    "num": "318",
+    "word": "faithful",
+    "part": "adj.",
+    "ch": "忠實的；忠誠的",
+    "lv": "4"
+  },
+  {
+    "num": "319",
+    "word": "fantastic",
+    "part": "adj.",
+    "ch": "很棒；相當多的",
+    "lv": "4"
+  },
+  {
+    "num": "320",
+    "word": "fatal",
+    "part": "adj.",
+    "ch": "致命的；毀減性的",
+    "lv": "4"
+  },
+  {
+    "num": "321",
+    "word": "favorable",
+    "part": "adj.",
+    "ch": "稱讚的；贊同的",
+    "lv": "4"
+  },
+  {
+    "num": "322",
+    "word": "fetch",
+    "part": "v.",
+    "ch": "拿來；接…去",
+    "lv": "4"
+  },
+  {
+    "num": "323",
+    "word": "fiction",
+    "part": "n.",
+    "ch": "小說",
+    "lv": "4"
+  },
+  {
+    "num": "324",
+    "word": "fierce",
+    "part": "adj.",
+    "ch": "凶猛的；激烈的",
+    "lv": "4"
+  },
+  {
+    "num": "325",
+    "word": "finance",
+    "part": "n.",
+    "ch": "財務；金融",
+    "lv": "4"
+  },
+  {
+    "num": "326",
+    "word": "financial",
+    "part": "adj.",
+    "ch": "財務的；金融界的",
+    "lv": "4"
+  },
+  {
+    "num": "327",
+    "word": "flatter",
+    "part": "v.",
+    "ch": "諂媚；使高興",
+    "lv": "4"
+  },
+  {
+    "num": "328",
+    "word": "flee",
+    "part": "v.",
+    "ch": "逃出；逃離",
+    "lv": "4"
+  },
+  {
+    "num": "329",
+    "word": "flexible",
+    "part": "adj.",
+    "ch": "有彈性的；靈活的",
+    "lv": "4"
+  },
+  {
+    "num": "330",
+    "word": "foam",
+    "part": "n.",
+    "ch": "泡；海綿墊",
+    "lv": "4"
+  },
+  {
+    "num": "331",
+    "word": "forbid",
+    "part": "v.",
+    "ch": "禁止",
+    "lv": "4"
+  },
+  {
+    "num": "332",
+    "word": "formation",
+    "part": "n.",
+    "ch": "構成；形成",
+    "lv": "4"
+  },
+  {
+    "num": "333",
+    "word": "fortunate",
+    "part": "adj.",
+    "ch": "好運的；幸運的",
+    "lv": "4"
+  },
+  {
+    "num": "334",
+    "word": "fortunately",
+    "part": "adv.",
+    "ch": "幸運地；幸虧",
+    "lv": "4"
+  },
+  {
+    "num": "335",
+    "word": "foundation",
+    "part": "n.",
+    "ch": "建立；基礎",
+    "lv": "4"
+  },
+  {
+    "num": "336",
+    "word": "fragrant",
+    "part": "adj.",
+    "ch": "香味的；芳香的",
+    "lv": "4"
+  },
+  {
+    "num": "337",
+    "word": "frame",
+    "part": "n.",
+    "ch": "（建物、車輛、飛機）骨架；人體骨骼",
+    "lv": "4"
+  },
+  {
+    "num": "338",
+    "word": "frequency",
+    "part": "n.",
+    "ch": "頻繁；頻率",
+    "lv": "4"
+  },
+  {
+    "num": "339",
+    "word": "frustration",
+    "part": "n.",
+    "ch": "挫折；失敗",
+    "lv": "4"
+  },
+  {
+    "num": "340",
+    "word": "fuel",
+    "part": "n.",
+    "ch": "燃料",
+    "lv": "4"
+  },
+  {
+    "num": "341",
+    "word": "fulfill",
+    "part": "v.",
+    "ch": "實現；達成",
+    "lv": "4"
+  },
+  {
+    "num": "342",
+    "word": "functional",
+    "part": "adj.",
+    "ch": "機能的；功能的",
+    "lv": "4"
+  },
+  {
+    "num": "343",
+    "word": "fundamental",
+    "part": "adj.",
+    "ch": "基礎的；根本的",
+    "lv": "4"
+  },
+  {
+    "num": "344",
+    "word": "funeral",
+    "part": "n.",
+    "ch": "葬禮",
+    "lv": "4"
+  },
+  {
+    "num": "345",
+    "word": "furious",
+    "part": "adj.",
+    "ch": "狂怒的；猛烈的",
+    "lv": "4"
+  },
+  {
+    "num": "346",
+    "word": "furthermore",
+    "part": "adv.",
+    "ch": "再者；而且",
+    "lv": "4"
+  },
+  {
+    "num": "347",
+    "word": "gallery",
+    "part": "n.",
+    "ch": "畫廊",
+    "lv": "4"
+  },
+  {
+    "num": "348",
+    "word": "gangster",
+    "part": "n.",
+    "ch": "歹徒；匪盜",
+    "lv": "4"
+  },
+  {
+    "num": "349",
+    "word": "gaze",
+    "part": "v.",
+    "ch": "注視；凝視",
+    "lv": "4"
+  },
+  {
+    "num": "350",
+    "word": "gene",
+    "part": "n.",
+    "ch": "基因；遺傳因子",
+    "lv": "4"
+  },
+  {
+    "num": "351",
+    "word": "generation",
+    "part": "n.",
+    "ch": "世代；產生",
+    "lv": "4"
+  },
+  {
+    "num": "352",
+    "word": "generosity",
+    "part": "n.",
+    "ch": "寬宏大量；慷慨",
+    "lv": "4"
+  },
+  {
+    "num": "353",
+    "word": "genius",
+    "part": "n.",
+    "ch": "天才；天賦",
+    "lv": "4"
+  },
+  {
+    "num": "354",
+    "word": "genuine",
+    "part": "adj.",
+    "ch": "純正的；真誠的",
+    "lv": "4"
+  },
+  {
+    "num": "355",
+    "word": "gifted",
+    "part": "adj.",
+    "ch": "有天資的；有天賦的",
+    "lv": "4"
+  },
+  {
+    "num": "356",
+    "word": "globe",
+    "part": "n.",
+    "ch": "地球；地球儀",
+    "lv": "4"
+  },
+  {
+    "num": "357",
+    "word": "goods",
+    "part": "n.",
+    "ch": "商品；貨物",
+    "lv": "4"
+  },
+  {
+    "num": "358",
+    "word": "graceful",
+    "part": "adj.",
+    "ch": "優美的；典雅的",
+    "lv": "4"
+  },
+  {
+    "num": "359",
+    "word": "graduation",
+    "part": "n.",
+    "ch": "畢業",
+    "lv": "4"
+  },
+  {
+    "num": "360",
+    "word": "grateful",
+    "part": "adj.",
+    "ch": "感謝的；感激的",
+    "lv": "4"
+  },
+  {
+    "num": "361",
+    "word": "gratitude",
+    "part": "n.",
+    "ch": "感激之情；感謝",
+    "lv": "4"
+  },
+  {
+    "num": "362",
+    "word": "grave",
+    "part": "n.",
+    "ch": "墳墓",
+    "lv": "4"
+  },
+  {
+    "num": "363",
+    "word": "greasy",
+    "part": "adj.",
+    "ch": "油膩的；油污的",
+    "lv": "4"
+  },
+  {
+    "num": "364",
+    "word": "greeting",
+    "part": "n.",
+    "ch": "問候；招呼",
+    "lv": "4"
+  },
+  {
+    "num": "365",
+    "word": "grief",
+    "part": "n.",
+    "ch": "悲痛；悲傷",
+    "lv": "4"
+  },
+  {
+    "num": "366",
+    "word": "grind",
+    "part": "v.",
+    "ch": "磨碎；磨利",
+    "lv": "4"
+  },
+  {
+    "num": "367",
+    "word": "guarantee",
+    "part": "v.",
+    "ch": "擔保；保證",
+    "lv": "4"
+  },
+  {
+    "num": "368",
+    "word": "guilt",
+    "part": "n.",
+    "ch": "有罪；犯罪",
+    "lv": "4"
+  },
+  {
+    "num": "369",
+    "word": "guilty",
+    "part": "adj.",
+    "ch": "有罪的",
+    "lv": "4"
+  },
+  {
+    "num": "370",
+    "word": "gulf",
+    "part": "n.",
+    "ch": "（意見的）巨大分歧；海灣",
+    "lv": "4"
+  },
+  {
+    "num": "371",
+    "word": "habitual",
+    "part": "adj.",
+    "ch": "習慣的；習以為常的",
+    "lv": "4"
+  },
+  {
+    "num": "372",
+    "word": "harmony",
+    "part": "n.",
+    "ch": "和睦；融洽",
+    "lv": "4"
+  },
+  {
+    "num": "373",
+    "word": "hatred",
+    "part": "n.",
+    "ch": "憎恨；仇恨",
+    "lv": "4"
+  },
+  {
+    "num": "374",
+    "word": "helicopter",
+    "part": "n.",
+    "ch": "直升機",
+    "lv": "4"
+  },
+  {
+    "num": "375",
+    "word": "highly",
+    "part": "adv.",
+    "ch": "高度地；大大地",
+    "lv": "4"
+  },
+  {
+    "num": "376",
+    "word": "horizon",
+    "part": "n.",
+    "ch": "地平線；視野",
+    "lv": "4"
+  },
+  {
+    "num": "377",
+    "word": "host",
+    "part": "n.",
+    "ch": "主人；許多的",
+    "lv": "4"
+  },
+  {
+    "num": "378",
+    "word": "household",
+    "part": "n.",
+    "ch": "家庭；戶",
+    "lv": "4"
+  },
+  {
+    "num": "379",
+    "word": "humanity",
+    "part": "n.",
+    "ch": "人性",
+    "lv": "4"
+  },
+  {
+    "num": "380",
+    "word": "hydrogen",
+    "part": "n.",
+    "ch": "（化學）氫（符號Ｈ）",
+    "lv": "4"
+  },
+  {
+    "num": "381",
+    "word": "iceberg",
+    "part": "n.",
+    "ch": "冰山；浮在海洋上的巨大冰塊",
+    "lv": "4"
+  },
+  {
+    "num": "382",
+    "word": "identification",
+    "part": "n.",
+    "ch": "身分證明；身分確認",
+    "lv": "4"
+  },
+  {
+    "num": "383",
+    "word": "identify",
+    "part": "v.",
+    "ch": "辨識；認同",
+    "lv": "4"
+  },
+  {
+    "num": "384",
+    "word": "idle",
+    "part": "v.",
+    "ch": "（機器）空轉；虛度光陰",
+    "lv": "4"
+  },
+  {
+    "num": "385",
+    "word": "idol",
+    "part": "n.",
+    "ch": "偶像；受崇拜之人",
+    "lv": "4"
+  },
+  {
+    "num": "386",
+    "word": "ignorant",
+    "part": "adj.",
+    "ch": "無知的；不知道的",
+    "lv": "4"
+  },
+  {
+    "num": "387",
+    "word": "illustration",
+    "part": "n.",
+    "ch": "圖解；說明",
+    "lv": "4"
+  },
+  {
+    "num": "388",
+    "word": "imaginative",
+    "part": "adj.",
+    "ch": "有創造力的；有想像力的",
+    "lv": "4"
+  },
+  {
+    "num": "389",
+    "word": "imitate",
+    "part": "adj.",
+    "ch": "模仿",
+    "lv": "4"
+  },
+  {
+    "num": "390",
+    "word": "immigrant",
+    "part": "n.",
+    "ch": "移民",
+    "lv": "4"
+  },
+  {
+    "num": "391",
+    "word": "impact",
+    "part": "n.",
+    "ch": "強烈地衝擊；效果",
+    "lv": "4"
+  },
+  {
+    "num": "392",
+    "word": "imply",
+    "part": "v.",
+    "ch": "暗含；暗指",
+    "lv": "4"
+  },
+  {
+    "num": "393",
+    "word": "impression",
+    "part": "n.",
+    "ch": "印象；效果",
+    "lv": "4"
+  },
+  {
+    "num": "394",
+    "word": "incident",
+    "part": "n.",
+    "ch": "事件；糾紛",
+    "lv": "4"
+  },
+  {
+    "num": "395",
+    "word": "including",
+    "part": "prep.",
+    "ch": "包括；包含",
+    "lv": "4"
+  },
+  {
+    "num": "396",
+    "word": "indication",
+    "part": "n.",
+    "ch": "跡象；指示",
+    "lv": "4"
+  },
+  {
+    "num": "397",
+    "word": "industrialize",
+    "part": "v.",
+    "ch": "使工業化",
+    "lv": "4"
+  },
+  {
+    "num": "398",
+    "word": "infect",
+    "part": "v.",
+    "ch": "傳染；感染",
+    "lv": "4"
+  },
+  {
+    "num": "399",
+    "word": "inflation",
+    "part": "n.",
+    "ch": "通貨膨脹",
+    "lv": "4"
+  },
+  {
+    "num": "400",
+    "word": "influential",
+    "part": "adj.",
+    "ch": "有影響的；有權勢的",
+    "lv": "4"
+  },
+  {
+    "num": "401",
+    "word": "information",
+    "part": "n.",
+    "ch": "訊息；資料",
+    "lv": "4"
+  },
+  {
+    "num": "402",
+    "word": "ingredient",
+    "part": "n.",
+    "ch": "原料；因素",
+    "lv": "4"
+  },
+  {
+    "num": "403",
+    "word": "initial",
+    "part": "adj.",
+    "ch": "開始的；最初的",
+    "lv": "4"
+  },
+  {
+    "num": "404",
+    "word": "innocence",
+    "part": "n.",
+    "ch": "清白；天真",
+    "lv": "4"
+  },
+  {
+    "num": "405",
+    "word": "insert",
+    "part": "v.",
+    "ch": "（將東西、字等）插入；（縫紉中）補",
+    "lv": "4"
+  },
+  {
+    "num": "406",
+    "word": "inspection",
+    "part": "n.",
+    "ch": "檢查；檢驗",
+    "lv": "4"
+  },
+  {
+    "num": "407",
+    "word": "inspiration",
+    "part": "n.",
+    "ch": "靈感；鼓舞人心的人或事物",
+    "lv": "4"
+  },
+  {
+    "num": "408",
+    "word": "inspire",
+    "part": "v.",
+    "ch": "激勵；給予…靈感",
+    "lv": "4"
+  },
+  {
+    "num": "409",
+    "word": "install",
+    "part": "v.",
+    "ch": "安裝；就職",
+    "lv": "4"
+  },
+  {
+    "num": "410",
+    "word": "instruct",
+    "part": "v.",
+    "ch": "教導；通知",
+    "lv": "4"
+  },
+  {
+    "num": "411",
+    "word": "insult",
+    "part": "n.",
+    "ch": "侮辱；侮辱的言語或行為",
+    "lv": "4"
+  },
+  {
+    "num": "412",
+    "word": "insurance",
+    "part": "n.",
+    "ch": "保險；保險契約",
+    "lv": "4"
+  },
+  {
+    "num": "413",
+    "word": "intelligence",
+    "part": "n.",
+    "ch": "智能；理解力",
+    "lv": "4"
+  },
+  {
+    "num": "414",
+    "word": "intelligent",
+    "part": "adj.",
+    "ch": "聰明的；有理解力的",
+    "lv": "4"
+  },
+  {
+    "num": "415",
+    "word": "intend",
+    "part": "v.",
+    "ch": "意圖；打算做…",
+    "lv": "4"
+  },
+  {
+    "num": "416",
+    "word": "intense",
+    "part": "adj.",
+    "ch": "強烈的；熱情的",
+    "lv": "4"
+  },
+  {
+    "num": "417",
+    "word": "intensity",
+    "part": "n.",
+    "ch": "強烈；強度",
+    "lv": "4"
+  },
+  {
+    "num": "418",
+    "word": "intensive",
+    "part": "adj.",
+    "ch": "密集的；特別護理的",
+    "lv": "4"
+  },
+  {
+    "num": "419",
+    "word": "interaction",
+    "part": "n.",
+    "ch": "與人之溝通互動；交互作用",
+    "lv": "4"
+  },
+  {
+    "num": "420",
+    "word": "interfere",
+    "part": "v.",
+    "ch": "干預；干涉",
+    "lv": "4"
+  },
+  {
+    "num": "421",
+    "word": "interpret",
+    "part": "v.",
+    "ch": "解釋；口譯",
+    "lv": "4"
+  },
+  {
+    "num": "422",
+    "word": "interruption",
+    "part": "n.",
+    "ch": "中斷；打岔",
+    "lv": "4"
+  },
+  {
+    "num": "423",
+    "word": "intimate",
+    "part": "adj.",
+    "ch": "親密的；私人的",
+    "lv": "4"
+  },
+  {
+    "num": "424",
+    "word": "intonation",
+    "part": "n.",
+    "ch": "語調",
+    "lv": "4"
+  },
+  {
+    "num": "425",
+    "word": "invade",
+    "part": "v.",
+    "ch": "侵略；湧入",
+    "lv": "4"
+  },
+  {
+    "num": "426",
+    "word": "invasion",
+    "part": "n.",
+    "ch": "侵略；湧入",
+    "lv": "4"
+  },
+  {
+    "num": "427",
+    "word": "invention",
+    "part": "n.",
+    "ch": "發明；創造能力",
+    "lv": "4"
+  },
+  {
+    "num": "428",
+    "word": "invest",
+    "part": "v.",
+    "ch": "投資；花費",
+    "lv": "4"
+  },
+  {
+    "num": "429",
+    "word": "investment",
+    "part": "n.",
+    "ch": "投資；投資的物件",
+    "lv": "4"
+  },
+  {
+    "num": "430",
+    "word": "investigation",
+    "part": "n.",
+    "ch": "調查；審查",
+    "lv": "4"
+  },
+  {
+    "num": "431",
+    "word": "involve",
+    "part": "v.",
+    "ch": "將…捲入.；牽涉",
+    "lv": "4"
+  },
+  {
+    "num": "432",
+    "word": "isolate",
+    "part": "v.",
+    "ch": "使…孤離；使…隔離",
+    "lv": "4"
+  },
+  {
+    "num": "433",
+    "word": "itch",
+    "part": "n.",
+    "ch": "癢；渴望",
+    "lv": "4"
+  },
+  {
+    "num": "434",
+    "word": "junior",
+    "part": "adj.",
+    "ch": "年紀輕的；資淺的",
+    "lv": "4"
+  },
+  {
+    "num": "435",
+    "word": "labor",
+    "part": "n.",
+    "ch": "勞力；辛勞",
+    "lv": "4"
+  },
+  {
+    "num": "436",
+    "word": "laboratory",
+    "part": "n.",
+    "ch": "實驗室；試驗所",
+    "lv": "4"
+  },
+  {
+    "num": "437",
+    "word": "landmark",
+    "part": "n.",
+    "ch": "陸標；（歷史上的）重大事件",
+    "lv": "4"
+  },
+  {
+    "num": "438",
+    "word": "landscape",
+    "part": "n.",
+    "ch": "風景；景色",
+    "lv": "4"
+  },
+  {
+    "num": "439",
+    "word": "lately",
+    "part": "adv.",
+    "ch": "最近；近來",
+    "lv": "4"
+  },
+  {
+    "num": "440",
+    "word": "launch",
+    "part": "v.",
+    "ch": "使〈新建造的船〉下水；發射（火箭、飛彈等）",
+    "lv": "4"
+  },
+  {
+    "num": "441",
+    "word": "lecture",
+    "part": "n.",
+    "ch": "講課；演講",
+    "lv": "4"
+  },
+  {
+    "num": "442",
+    "word": "legend",
+    "part": "n.",
+    "ch": "傳說；傳奇人物",
+    "lv": "4"
+  },
+  {
+    "num": "443",
+    "word": "license",
+    "part": "n.",
+    "ch": "許可證；執照",
+    "lv": "4"
+  },
+  {
+    "num": "444",
+    "word": "limitation",
+    "part": "n.",
+    "ch": "設限；（知識、能力等的）極限",
+    "lv": "4"
+  },
+  {
+    "num": "445",
+    "word": "liquor",
+    "part": "n.",
+    "ch": "烈酒",
+    "lv": "4"
+  },
+  {
+    "num": "446",
+    "word": "literary",
+    "part": "adj.",
+    "ch": "文學的；精通文學的",
+    "lv": "4"
+  },
+  {
+    "num": "447",
+    "word": "literature",
+    "part": "n.",
+    "ch": "文學；文獻",
+    "lv": "4"
+  },
+  {
+    "num": "448",
+    "word": "loan",
+    "part": "n.",
+    "ch": "貸款",
+    "lv": "4"
+  },
+  {
+    "num": "449",
+    "word": "location",
+    "part": "n.",
+    "ch": "地點，位置；（on",
+    "lv": "4"
+  },
+  {
+    "num": "450",
+    "word": "logic",
+    "part": "n.",
+    "ch": "邏輯；道理.",
+    "lv": "4"
+  },
+  {
+    "num": "451",
+    "word": "logical",
+    "part": "adj.",
+    "ch": "邏輯（上）的；有條有理的",
+    "lv": "4"
+  },
+  {
+    "num": "452",
+    "word": "lousy",
+    "part": "adj.",
+    "ch": "非常糟糕的；差勁的",
+    "lv": "4"
+  },
+  {
+    "num": "453",
+    "word": "loyal",
+    "part": "adj.",
+    "ch": "忠實的；忠心的",
+    "lv": "4"
+  },
+  {
+    "num": "454",
+    "word": "loyalty",
+    "part": "n.",
+    "ch": "忠誠；情義",
+    "lv": "4"
+  },
+  {
+    "num": "455",
+    "word": "luxurious",
+    "part": "adj.",
+    "ch": "奢侈的；豪華的",
+    "lv": "4"
+  },
+  {
+    "num": "456",
+    "word": "luxury",
+    "part": "n.",
+    "ch": "奢華；奢侈品",
+    "lv": "4"
+  },
+  {
+    "num": "457",
+    "word": "machinery",
+    "part": "n.",
+    "ch": "機器；（社會、政治等）機關",
+    "lv": "4"
+  },
+  {
+    "num": "458",
+    "word": "madam",
+    "part": "n.",
+    "ch": "夫人，女士，太太（尊稱）",
+    "lv": "4"
+  },
+  {
+    "num": "459",
+    "word": "magnetic",
+    "part": "adj.",
+    "ch": "磁性的；有魅力的",
+    "lv": "4"
+  },
+  {
+    "num": "460",
+    "word": "magnificent",
+    "part": "adj.",
+    "ch": "宏大的；堂皇的；豪華的",
+    "lv": "4"
+  },
+  {
+    "num": "461",
+    "word": "makeup",
+    "part": "n.",
+    "ch": "化妝品；構成",
+    "lv": "4"
+  },
+  {
+    "num": "462",
+    "word": "manual",
+    "part": "adj.",
+    "ch": "手工的；用手操作的",
+    "lv": "4"
+  },
+  {
+    "num": "463",
+    "word": "manufacturer",
+    "part": "n.",
+    "ch": "製造商；廠商",
+    "lv": "4"
+  },
+  {
+    "num": "464",
+    "word": "marathon",
+    "part": "n.",
+    "ch": "馬拉松賽",
+    "lv": "4"
+  },
+  {
+    "num": "465",
+    "word": "margin",
+    "part": "n.",
+    "ch": "（書頁的）邊緣空白處；邊際",
+    "lv": "4"
+  },
+  {
+    "num": "466",
+    "word": "maturity",
+    "part": "n.",
+    "ch": "成熟",
+    "lv": "4"
+  },
+  {
+    "num": "467",
+    "word": "maximum",
+    "part": "adj.",
+    "ch": "最大的；極限的",
+    "lv": "4"
+  },
+  {
+    "num": "468",
+    "word": "mechanic",
+    "part": "n.",
+    "ch": "機匠；技工",
+    "lv": "4"
+  },
+  {
+    "num": "469",
+    "word": "mechanical",
+    "part": "adj.",
+    "ch": "機械式的；機械（上）的",
+    "lv": "4"
+  },
+  {
+    "num": "470",
+    "word": "memorial",
+    "part": "n.",
+    "ch": "紀念物；紀念館",
+    "lv": "4"
+  },
+  {
+    "num": "471",
+    "word": "mercy",
+    "part": "n.",
+    "ch": "慈悲；幸運",
+    "lv": "4"
+  },
+  {
+    "num": "472",
+    "word": "mere",
+    "part": "adj.",
+    "ch": "僅僅；只不過",
+    "lv": "4"
+  },
+  {
+    "num": "473",
+    "word": "merely",
+    "part": "adv.",
+    "ch": "僅僅；只（…而已）",
+    "lv": "4"
+  },
+  {
+    "num": "474",
+    "word": "merit",
+    "part": "n.",
+    "ch": "價值；長處；好處",
+    "lv": "4"
+  },
+  {
+    "num": "475",
+    "word": "mineral",
+    "part": "n.",
+    "ch": "礦物；礦物質",
+    "lv": "4"
+  },
+  {
+    "num": "476",
+    "word": "minimum",
+    "part": "n.",
+    "ch": "最小（限度）；最低限",
+    "lv": "4"
+  },
+  {
+    "num": "477",
+    "word": "minister",
+    "part": "n.",
+    "ch": "部長；牧師",
+    "lv": "4"
+  },
+  {
+    "num": "478",
+    "word": "mischief",
+    "part": "n.",
+    "ch": "淘氣；惡作劇",
+    "lv": "4"
+  },
+  {
+    "num": "479",
+    "word": "miserable",
+    "part": "adj.",
+    "ch": "可憐的；粗陋的",
+    "lv": "4"
+  },
+  {
+    "num": "480",
+    "word": "mislead",
+    "part": "v.",
+    "ch": "誤導；欺騙",
+    "lv": "4"
+  },
+  {
+    "num": "481",
+    "word": "misunderstand",
+    "part": "v.",
+    "ch": "誤會；誤解",
+    "lv": "4"
+  },
+  {
+    "num": "482",
+    "word": "moderate",
+    "part": "adj.",
+    "ch": "適度的；適中的",
+    "lv": "4"
+  },
+  {
+    "num": "483",
+    "word": "modest",
+    "part": "adj.",
+    "ch": "謙虛的；適度的",
+    "lv": "4"
+  },
+  {
+    "num": "484",
+    "word": "monthly",
+    "part": "adj.",
+    "ch": "每月的；按月的",
+    "lv": "4"
+  },
+  {
+    "num": "485",
+    "word": "monument",
+    "part": "n.",
+    "ch": "紀念建築物；紀念碑",
+    "lv": "4"
+  },
+  {
+    "num": "486",
+    "word": "moreover",
+    "part": "adv.",
+    "ch": "此外；再者",
+    "lv": "4"
+  },
+  {
+    "num": "487",
+    "word": "motivate",
+    "part": "v.",
+    "ch": "引起…的動機",
+    "lv": "4"
+  },
+  {
+    "num": "488",
+    "word": "multiple",
+    "part": "adj.",
+    "ch": "多樣的；複式的",
+    "lv": "4"
+  },
+  {
+    "num": "489",
+    "word": "murderer",
+    "part": "n.",
+    "ch": "謀殺者；兇手",
+    "lv": "4"
+  },
+  {
+    "num": "490",
+    "word": "mutual",
+    "part": "adj.",
+    "ch": "相互的；共同的",
+    "lv": "4"
+  },
+  {
+    "num": "491",
+    "word": "mysterious",
+    "part": "adj.",
+    "ch": "神秘的；不可思議的",
+    "lv": "4"
+  },
+  {
+    "num": "492",
+    "word": "namely",
+    "part": "adv.",
+    "ch": "即；就是",
+    "lv": "4"
+  },
+  {
+    "num": "493",
+    "word": "nationality",
+    "part": "n.",
+    "ch": "國籍",
+    "lv": "4"
+  },
+  {
+    "num": "494",
+    "word": "nearsighted",
+    "part": "adj.",
+    "ch": "近視的",
+    "lv": "4"
+  },
+  {
+    "num": "495",
+    "word": "neglect",
+    "part": "v.",
+    "ch": "忽視；輕視",
+    "lv": "4"
+  },
+  {
+    "num": "496",
+    "word": "negotiate",
+    "part": "v.",
+    "ch": "談判；協商",
+    "lv": "4"
+  },
+  {
+    "num": "497",
+    "word": "nevertheless",
+    "part": "adv.",
+    "ch": "依然；然而",
+    "lv": "4"
+  },
+  {
+    "num": "498",
+    "word": "nightmare",
+    "part": "n.",
+    "ch": "噩夢；夢魘",
+    "lv": "4"
+  },
+  {
+    "num": "499",
+    "word": "nuclear",
+    "part": "adj.",
+    "ch": "原子核的；核子的",
+    "lv": "4"
+  },
+  {
+    "num": "500",
+    "word": "numerous",
+    "part": "adj.",
+    "ch": "極多的；許多的",
+    "lv": "4"
+  },
+  {
+    "num": "501",
+    "word": "obedience",
+    "part": "n.",
+    "ch": "服從；順從",
+    "lv": "4"
+  },
+  {
+    "num": "502",
+    "word": "obedient",
+    "part": "adj.",
+    "ch": "服從的；順從的",
+    "lv": "4"
+  },
+  {
+    "num": "503",
+    "word": "objection",
+    "part": "n.",
+    "ch": "反對；異議",
+    "lv": "4"
+  },
+  {
+    "num": "504",
+    "word": "objective",
+    "part": "adj.",
+    "ch": "公正的；客觀的",
+    "lv": "4"
+  },
+  {
+    "num": "505",
+    "word": "obstacle",
+    "part": "n.",
+    "ch": "障礙物；阻礙",
+    "lv": "4"
+  },
+  {
+    "num": "506",
+    "word": "obtain",
+    "part": "v.",
+    "ch": "取得；買到",
+    "lv": "4"
+  },
+  {
+    "num": "507",
+    "word": "occasional",
+    "part": "adj.",
+    "ch": "偶而的",
+    "lv": "4"
+  },
+  {
+    "num": "508",
+    "word": "occupation",
+    "part": "n.",
+    "ch": "職業；工作",
+    "lv": "4"
+  },
+  {
+    "num": "509",
+    "word": "occupy",
+    "part": "v.",
+    "ch": "佔據；居住",
+    "lv": "4"
+  },
+  {
+    "num": "510",
+    "word": "offend",
+    "part": "v.",
+    "ch": "觸怒；冒犯",
+    "lv": "4"
+  },
+  {
+    "num": "511",
+    "word": "opera",
+    "part": "n.",
+    "ch": "歌劇；歌劇的演出",
+    "lv": "4"
+  },
+  {
+    "num": "512",
+    "word": "operation",
+    "part": "n.",
+    "ch": "實施；施行手術",
+    "lv": "4"
+  },
+  {
+    "num": "513",
+    "word": "oppose",
+    "part": "v.",
+    "ch": "反對；對抗",
+    "lv": "4"
+  },
+  {
+    "num": "514",
+    "word": "oral",
+    "part": "adj.",
+    "ch": "口頭的；口述的",
+    "lv": "4"
+  },
+  {
+    "num": "515",
+    "word": "orbit",
+    "part": "n.",
+    "ch": "軌道",
+    "lv": "4"
+  },
+  {
+    "num": "516",
+    "word": "orchestra",
+    "part": "n.",
+    "ch": "管絃樂隊",
+    "lv": "4"
+  },
+  {
+    "num": "517",
+    "word": "organic",
+    "part": "adj.",
+    "ch": "有機的；器官的",
+    "lv": "4"
+  },
+  {
+    "num": "518",
+    "word": "otherwise",
+    "part": "adv.",
+    "ch": "否則；要不然",
+    "lv": "4"
+  },
+  {
+    "num": "519",
+    "word": "outcome",
+    "part": "n.",
+    "ch": "結果",
+    "lv": "4"
+  },
+  {
+    "num": "520",
+    "word": "outstanding",
+    "part": "adj.",
+    "ch": "傑出的",
+    "lv": "4"
+  },
+  {
+    "num": "521",
+    "word": "overcome",
+    "part": "v.",
+    "ch": "戰勝；克服",
+    "lv": "4"
+  },
+  {
+    "num": "522",
+    "word": "overlook",
+    "part": "v.",
+    "ch": "（建築物、場所等）俯瞰；忽略",
+    "lv": "4"
+  },
+  {
+    "num": "523",
+    "word": "overtake",
+    "part": "v.",
+    "ch": "趕上；超車",
+    "lv": "4"
+  },
+  {
+    "num": "524",
+    "word": "oxygen",
+    "part": "n.",
+    "ch": "氧氣",
+    "lv": "4"
+  },
+  {
+    "num": "525",
+    "word": "parachute",
+    "part": "n.",
+    "ch": "降落傘",
+    "lv": "4"
+  },
+  {
+    "num": "526",
+    "word": "paragraph",
+    "part": "n.",
+    "ch": "（文章的）段落；短訊",
+    "lv": "4"
+  },
+  {
+    "num": "527",
+    "word": "partially",
+    "part": "adv.",
+    "ch": "部份地；不公平地",
+    "lv": "4"
+  },
+  {
+    "num": "528",
+    "word": "participation",
+    "part": "n.",
+    "ch": "參與；參加",
+    "lv": "4"
+  },
+  {
+    "num": "529",
+    "word": "peculiar",
+    "part": "adj.",
+    "ch": "獨特的；奇怪的",
+    "lv": "4"
+  },
+  {
+    "num": "530",
+    "word": "peer",
+    "part": "n.",
+    "ch": "同輩；同儕",
+    "lv": "4"
+  },
+  {
+    "num": "531",
+    "word": "penalty",
+    "part": "n.",
+    "ch": "刑罰；罰金；罰款",
+    "lv": "4"
+  },
+  {
+    "num": "532",
+    "word": "percent",
+    "part": "n.",
+    "ch": "百分比；百分中之一分",
+    "lv": "4"
+  },
+  {
+    "num": "533",
+    "word": "percentage",
+    "part": "n.",
+    "ch": "百分比；比率（前面為數字時用percent，其他則用percentage。）",
+    "lv": "4"
+  },
+  {
+    "num": "534",
+    "word": "perfume",
+    "part": "n.",
+    "ch": "香水",
+    "lv": "4"
+  },
+  {
+    "num": "535",
+    "word": "permanent",
+    "part": "adj.",
+    "ch": "永久的；持久的",
+    "lv": "4"
+  },
+  {
+    "num": "536",
+    "word": "persuasion",
+    "part": "n.",
+    "ch": "說服",
+    "lv": "4"
+  },
+  {
+    "num": "537",
+    "word": "persuasive",
+    "part": "adj.",
+    "ch": "有說服力的",
+    "lv": "4"
+  },
+  {
+    "num": "538",
+    "word": "philosopher",
+    "part": "n.",
+    "ch": "哲學家；哲人",
+    "lv": "4"
+  },
+  {
+    "num": "539",
+    "word": "philosophical",
+    "part": "adj.",
+    "ch": "哲學的；達觀的",
+    "lv": "4"
+  },
+  {
+    "num": "540",
+    "word": "philosophy",
+    "part": "n.",
+    "ch": "哲學；人生觀",
+    "lv": "4"
+  },
+  {
+    "num": "541",
+    "word": "physical",
+    "part": "adj.",
+    "ch": "物質世界的；身體的",
+    "lv": "4"
+  },
+  {
+    "num": "542",
+    "word": "physician",
+    "part": "n.",
+    "ch": "內科醫生",
+    "lv": "4"
+  },
+  {
+    "num": "543",
+    "word": "physics",
+    "part": "n.",
+    "ch": "物理學",
+    "lv": "4"
+  },
+  {
+    "num": "544",
+    "word": "pickpocket",
+    "part": "n.",
+    "ch": "扒手",
+    "lv": "4"
+  },
+  {
+    "num": "545",
+    "word": "pioneer",
+    "part": "n.",
+    "ch": "先驅；開拓先鋒",
+    "lv": "4"
+  },
+  {
+    "num": "546",
+    "word": "pirate",
+    "part": "n.",
+    "ch": "海盜；剽竊者",
+    "lv": "4"
+  },
+  {
+    "num": "547",
+    "word": "plentiful",
+    "part": "adj.",
+    "ch": "很多的；豐富的",
+    "lv": "4"
+  },
+  {
+    "num": "548",
+    "word": "plot",
+    "part": "n.",
+    "ch": "陰謀；（小說、劇本的）情節",
+    "lv": "4"
+  },
+  {
+    "num": "549",
+    "word": "poisonous",
+    "part": "adj.",
+    "ch": "有毒的；有害的",
+    "lv": "4"
+  },
+  {
+    "num": "550",
+    "word": "polish",
+    "part": "v.",
+    "ch": "擦亮；潤飾",
+    "lv": "4"
+  },
+  {
+    "num": "551",
+    "word": "pollution",
+    "part": "n.",
+    "ch": "污染",
+    "lv": "4"
+  },
+  {
+    "num": "552",
+    "word": "popularity",
+    "part": "n.",
+    "ch": "普及；名氣",
+    "lv": "4"
+  },
+  {
+    "num": "553",
+    "word": "portray",
+    "part": "v.",
+    "ch": "畫（肖像）；描寫",
+    "lv": "4"
+  },
+  {
+    "num": "554",
+    "word": "possess",
+    "part": "v.",
+    "ch": "擁有；具有；（強烈的感情、惡魔）支配；控制",
+    "lv": "4"
+  },
+  {
+    "num": "555",
+    "word": "possession",
+    "part": "n.",
+    "ch": "所有物；擁有",
+    "lv": "4"
+  },
+  {
+    "num": "556",
+    "word": "precise",
+    "part": "adj.",
+    "ch": "精確的；恰好的",
+    "lv": "4"
+  },
+  {
+    "num": "557",
+    "word": "precisely",
+    "part": "adv.",
+    "ch": "精確地；（用於回答）正是如此",
+    "lv": "4"
+  },
+  {
+    "num": "558",
+    "word": "predict",
+    "part": "v.",
+    "ch": "預告；預言",
+    "lv": "4"
+  },
+  {
+    "num": "559",
+    "word": "presentation",
+    "part": "n.",
+    "ch": "（正式的）發表；（事物…之…）陳列方式",
+    "lv": "4"
+  },
+  {
+    "num": "560",
+    "word": "preservation",
+    "part": "v.",
+    "ch": "保存；保護",
+    "lv": "4"
+  },
+  {
+    "num": "561",
+    "word": "preserve",
+    "part": "v.",
+    "ch": "保存，保護；醃製以保存（食物）",
+    "lv": "4"
+  },
+  {
+    "num": "562",
+    "word": "prevention",
+    "part": "n.",
+    "ch": "防止；預防",
+    "lv": "4"
+  },
+  {
+    "num": "563",
+    "word": "prime",
+    "part": "adj.",
+    "ch": "主要的；最重要的；最好的",
+    "lv": "4"
+  },
+  {
+    "num": "564",
+    "word": "primitive",
+    "part": "adj.",
+    "ch": "原始的；簡陋的",
+    "lv": "4"
+  },
+  {
+    "num": "565",
+    "word": "privacy",
+    "part": "n.",
+    "ch": "私生活；隱私",
+    "lv": "4"
+  },
+  {
+    "num": "566",
+    "word": "privilege",
+    "part": "n.",
+    "ch": "特權；榮幸",
+    "lv": "4"
+  },
+  {
+    "num": "567",
+    "word": "procedure",
+    "part": "n.",
+    "ch": "程序；步驟",
+    "lv": "4"
+  },
+  {
+    "num": "568",
+    "word": "production",
+    "part": "n.",
+    "ch": "產量；生產",
+    "lv": "4"
+  },
+  {
+    "num": "569",
+    "word": "productive",
+    "part": "adj.",
+    "ch": "多產的；產生…的",
+    "lv": "4"
+  },
+  {
+    "num": "570",
+    "word": "profession",
+    "part": "n.",
+    "ch": "職業；行業",
+    "lv": "4"
+  },
+  {
+    "num": "571",
+    "word": "professional",
+    "part": "adj.",
+    "ch": "職業（上）的；專業的",
+    "lv": "4"
+  },
+  {
+    "num": "572",
+    "word": "professor",
+    "part": "n.",
+    "ch": "教授",
+    "lv": "4"
+  },
+  {
+    "num": "573",
+    "word": "profitable",
+    "part": "adj.",
+    "ch": "有利的；可賺錢的；有益的",
+    "lv": "4"
+  },
+  {
+    "num": "574",
+    "word": "prominent",
+    "part": "adj.",
+    "ch": "有名的；卓越的；顯著的；顯眼的",
+    "lv": "4"
+  },
+  {
+    "num": "575",
+    "word": "promising",
+    "part": "adj.",
+    "ch": "有前途的；大有可為的",
+    "lv": "4"
+  },
+  {
+    "num": "576",
+    "word": "promotion",
+    "part": "n.",
+    "ch": "促銷；升遷",
+    "lv": "4"
+  },
+  {
+    "num": "577",
+    "word": "promptly",
+    "part": "adv.",
+    "ch": "敏捷地；即刻地",
+    "lv": "4"
+  },
+  {
+    "num": "578",
+    "word": "pronunciation",
+    "part": "n.",
+    "ch": "發音",
+    "lv": "4"
+  },
+  {
+    "num": "579",
+    "word": "prosper",
+    "part": "v.",
+    "ch": "繁榮；興隆",
+    "lv": "4"
+  },
+  {
+    "num": "580",
+    "word": "prosperous",
+    "part": "adj.",
+    "ch": "繁榮的；興隆的",
+    "lv": "4"
+  },
+  {
+    "num": "581",
+    "word": "protein",
+    "part": "n.",
+    "ch": "蛋白質",
+    "lv": "4"
+  },
+  {
+    "num": "582",
+    "word": "protest",
+    "part": "v.",
+    "ch": "抗議；堅決聲明",
+    "lv": "4"
+  },
+  {
+    "num": "583",
+    "word": "psychological",
+    "part": "adj.",
+    "ch": "心理上的（精神上的）；心理學的",
+    "lv": "4"
+  },
+  {
+    "num": "584",
+    "word": "psychology",
+    "part": "n.",
+    "ch": "心理學；（個人或團體的）心理狀態",
+    "lv": "4"
+  },
+  {
+    "num": "585",
+    "word": "publicity",
+    "part": "n.",
+    "ch": "（公眾的）注意；宣傳",
+    "lv": "4"
+  },
+  {
+    "num": "586",
+    "word": "publish",
+    "part": "v.",
+    "ch": "出版；發表；公佈",
+    "lv": "4"
+  },
+  {
+    "num": "587",
+    "word": "publisher",
+    "part": "n.",
+    "ch": "出版者；發表者",
+    "lv": "4"
+  },
+  {
+    "num": "588",
+    "word": "pursuit",
+    "part": "n.",
+    "ch": "追捕；追求",
+    "lv": "4"
+  },
+  {
+    "num": "589",
+    "word": "realistic",
+    "part": "adj.",
+    "ch": "實際的；寫實的",
+    "lv": "4"
+  },
+  {
+    "num": "590",
+    "word": "rebel",
+    "part": "n.",
+    "ch": "叛徒；反抗者",
+    "lv": "4"
+  },
+  {
+    "num": "591",
+    "word": "recall",
+    "part": "v.",
+    "ch": "回憶；想起",
+    "lv": "4"
+  },
+  {
+    "num": "592",
+    "word": "reception",
+    "part": "n.",
+    "ch": "招待，招待會",
+    "lv": "4"
+  },
+  {
+    "num": "593",
+    "word": "recipe",
+    "part": "n.",
+    "ch": "食譜",
+    "lv": "4"
+  },
+  {
+    "num": "594",
+    "word": "recognition",
+    "part": "n.",
+    "ch": "認出；承認",
+    "lv": "4"
+  },
+  {
+    "num": "595",
+    "word": "recovery",
+    "part": "n.",
+    "ch": "復原，康復；恢復",
+    "lv": "4"
+  },
+  {
+    "num": "596",
+    "word": "recreation",
+    "part": "n.",
+    "ch": "消遣；娛樂",
+    "lv": "4"
+  },
+  {
+    "num": "597",
+    "word": "recycle",
+    "part": "v.",
+    "ch": "將（廢棄物）加以回收再製造",
+    "lv": "4"
+  },
+  {
+    "num": "598",
+    "word": "reduction",
+    "part": "n.",
+    "ch": "減少；折扣",
+    "lv": "4"
+  },
+  {
+    "num": "599",
+    "word": "refer",
+    "part": "v.",
+    "ch": "提及；查閱",
+    "lv": "4"
+  },
+  {
+    "num": "600",
+    "word": "reference",
+    "part": "n.",
+    "ch": "參考書目；參考",
+    "lv": "4"
+  },
+  {
+    "num": "601",
+    "word": "reflect",
+    "part": "v.",
+    "ch": "映射；反映",
+    "lv": "4"
+  },
+  {
+    "num": "602",
+    "word": "reflection",
+    "part": "n.",
+    "ch": "投影（反映）；影像",
+    "lv": "4"
+  },
+  {
+    "num": "603",
+    "word": "reform",
+    "part": "v.",
+    "ch": "改革；矯正",
+    "lv": "4"
+  },
+  {
+    "num": "604",
+    "word": "refresh",
+    "part": "v.",
+    "ch": "使恢復；使振作",
+    "lv": "4"
+  },
+  {
+    "num": "605",
+    "word": "regarding",
+    "part": "prep.",
+    "ch": "關於…；至於…",
+    "lv": "4"
+  },
+  {
+    "num": "606",
+    "word": "register",
+    "part": "v.",
+    "ch": "登記；註冊掛號",
+    "lv": "4"
+  },
+  {
+    "num": "607",
+    "word": "registration",
+    "part": "n.",
+    "ch": "登記；註冊",
+    "lv": "4"
+  },
+  {
+    "num": "608",
+    "word": "regulation",
+    "part": "n.",
+    "ch": "管制；規則",
+    "lv": "4"
+  },
+  {
+    "num": "609",
+    "word": "relative",
+    "part": "n.",
+    "ch": "親屬；親戚",
+    "lv": "4"
+  },
+  {
+    "num": "610",
+    "word": "relieve",
+    "part": "v.",
+    "ch": "救濟；緩和",
+    "lv": "4"
+  },
+  {
+    "num": "611",
+    "word": "reluctant",
+    "part": "adj.",
+    "ch": "不願的；勉強的",
+    "lv": "4"
+  },
+  {
+    "num": "612",
+    "word": "remark",
+    "part": "n.",
+    "ch": "談論；評論；注意",
+    "lv": "4"
+  },
+  {
+    "num": "613",
+    "word": "remedy",
+    "part": "n.",
+    "ch": "療方",
+    "lv": "4"
+  },
+  {
+    "num": "614",
+    "word": "representation",
+    "part": "n.",
+    "ch": "表現；代表",
+    "lv": "4"
+  },
+  {
+    "num": "615",
+    "word": "reputation",
+    "part": "n.",
+    "ch": "名聲（名譽）；名望（聲望）",
+    "lv": "4"
+  },
+  {
+    "num": "616",
+    "word": "rescue",
+    "part": "v.",
+    "ch": "拯救",
+    "lv": "4"
+  },
+  {
+    "num": "617",
+    "word": "research",
+    "part": "n.",
+    "ch": "（學術）研究；學術調查",
+    "lv": "4"
+  },
+  {
+    "num": "618",
+    "word": "resemble",
+    "part": "v.",
+    "ch": "（在…這一點）像…",
+    "lv": "4"
+  },
+  {
+    "num": "619",
+    "word": "reservation",
+    "part": "n.",
+    "ch": "保留",
+    "lv": "4"
+  },
+  {
+    "num": "620",
+    "word": "resign",
+    "part": "v.",
+    "ch": "辭職",
+    "lv": "4"
+  },
+  {
+    "num": "621",
+    "word": "resistance",
+    "part": "n.",
+    "ch": "抵抗力；反感；抗暴",
+    "lv": "4"
+  },
+  {
+    "num": "622",
+    "word": "resolution",
+    "part": "n.",
+    "ch": "決心；堅定",
+    "lv": "4"
+  },
+  {
+    "num": "623",
+    "word": "resolve",
+    "part": "v.",
+    "ch": "決定做…；決議…",
+    "lv": "4"
+  },
+  {
+    "num": "624",
+    "word": "respectable",
+    "part": "adj.",
+    "ch": "高尚可敬的；可觀的",
+    "lv": "4"
+  },
+  {
+    "num": "625",
+    "word": "restore",
+    "part": "v.",
+    "ch": "（使人，物）恢復…；使（人）復職",
+    "lv": "4"
+  },
+  {
+    "num": "626",
+    "word": "restriction",
+    "part": "n.",
+    "ch": "限制；（限定；約束）之物",
+    "lv": "4"
+  },
+  {
+    "num": "627",
+    "word": "retirement",
+    "part": "n.",
+    "ch": "退職；退休",
+    "lv": "4"
+  },
+  {
+    "num": "628",
+    "word": "revenge",
+    "part": "v.",
+    "ch": "復仇",
+    "lv": "4"
+  },
+  {
+    "num": "629",
+    "word": "revise",
+    "part": "v.",
+    "ch": "修正；複習（功課）",
+    "lv": "4"
+  },
+  {
+    "num": "630",
+    "word": "revision",
+    "part": "n.",
+    "ch": "修訂；複習（功課）",
+    "lv": "4"
+  },
+  {
+    "num": "631",
+    "word": "revolution",
+    "part": "n.",
+    "ch": "重大變革；旋轉",
+    "lv": "4"
+  },
+  {
+    "num": "632",
+    "word": "revolutionary",
+    "part": "adj.",
+    "ch": "革命的；革命性的",
+    "lv": "4"
+  },
+  {
+    "num": "633",
+    "word": "reward",
+    "part": "n.",
+    "ch": "獎賞；賞金",
+    "lv": "4"
+  },
+  {
+    "num": "634",
+    "word": "rhyme",
+    "part": "n.",
+    "ch": "韻腳；韻文",
+    "lv": "4"
+  },
+  {
+    "num": "635",
+    "word": "rhythm",
+    "part": "n.",
+    "ch": "節奏（節拍；律動；韻律）",
+    "lv": "4"
+  },
+  {
+    "num": "636",
+    "word": "roughly",
+    "part": "adv.",
+    "ch": "粗魯地；概略地",
+    "lv": "4"
+  },
+  {
+    "num": "637",
+    "word": "route",
+    "part": "n.",
+    "ch": "路線；航線",
+    "lv": "4"
+  },
+  {
+    "num": "638",
+    "word": "ruin",
+    "part": "v.",
+    "ch": "毀滅；破壞",
+    "lv": "4"
+  },
+  {
+    "num": "639",
+    "word": "sacrifice",
+    "part": "v.",
+    "ch": "犧牲",
+    "lv": "4"
+  },
+  {
+    "num": "640",
+    "word": "salesman",
+    "part": "n.",
+    "ch": "推銷員；業務員",
+    "lv": "4"
+  },
+  {
+    "num": "641",
+    "word": "satellite",
+    "part": "n.",
+    "ch": "衛星",
+    "lv": "4"
+  },
+  {
+    "num": "642",
+    "word": "satisfaction",
+    "part": "n.",
+    "ch": "滿意；清償",
+    "lv": "4"
+  },
+  {
+    "num": "643",
+    "word": "scarcely",
+    "part": "adv.",
+    "ch": "幾乎沒有…；ㄧ…就…",
+    "lv": "4"
+  },
+  {
+    "num": "644",
+    "word": "scenery",
+    "part": "n.",
+    "ch": "景色",
+    "lv": "4"
+  },
+  {
+    "num": "645",
+    "word": "senior",
+    "part": "adj.",
+    "ch": "較年長的；資深的",
+    "lv": "4"
+  },
+  {
+    "num": "646",
+    "word": "severe",
+    "part": "adj.",
+    "ch": "嚴厲的；嚴格的；嚴重的",
+    "lv": "4"
+  },
+  {
+    "num": "647",
+    "word": "shelter",
+    "part": "n.",
+    "ch": "避難所；遮蔽物",
+    "lv": "4"
+  },
+  {
+    "num": "648",
+    "word": "shift",
+    "part": "v.",
+    "ch": "移動；轉移",
+    "lv": "4"
+  },
+  {
+    "num": "649",
+    "word": "sightseeing",
+    "part": "n.",
+    "ch": "觀光",
+    "lv": "4"
+  },
+  {
+    "num": "650",
+    "word": "signature",
+    "part": "n.",
+    "ch": "簽名",
+    "lv": "4"
+  },
+  {
+    "num": "651",
+    "word": "significance",
+    "part": "n.",
+    "ch": "意思；重要性",
+    "lv": "4"
+  },
+  {
+    "num": "652",
+    "word": "site",
+    "part": "n.",
+    "ch": "地點；地基",
+    "lv": "4"
+  },
+  {
+    "num": "653",
+    "word": "sketch",
+    "part": "v.",
+    "ch": "素描；寫生",
+    "lv": "4"
+  },
+  {
+    "num": "654",
+    "word": "slightly",
+    "part": "adv.",
+    "ch": "輕微地（稍微）",
+    "lv": "4"
+  },
+  {
+    "num": "655",
+    "word": "sneeze",
+    "part": "v.",
+    "ch": "打噴嚏",
+    "lv": "4"
+  },
+  {
+    "num": "656",
+    "word": "souvenir",
+    "part": "n.",
+    "ch": "紀念品",
+    "lv": "4"
+  },
+  {
+    "num": "657",
+    "word": "species",
+    "part": "n.",
+    "ch": "種類",
+    "lv": "4"
+  },
+  {
+    "num": "658",
+    "word": "spiritual",
+    "part": "adj.",
+    "ch": "精神的；心靈的",
+    "lv": "4"
+  },
+  {
+    "num": "659",
+    "word": "splendid",
+    "part": "adj.",
+    "ch": "華麗的；壯觀的",
+    "lv": "4"
+  },
+  {
+    "num": "660",
+    "word": "split",
+    "part": "v.",
+    "ch": "劈開；分裂",
+    "lv": "4"
+  },
+  {
+    "num": "661",
+    "word": "status",
+    "part": "n.",
+    "ch": "身分；狀態",
+    "lv": "4"
+  },
+  {
+    "num": "662",
+    "word": "stem",
+    "part": "n.",
+    "ch": "葉柄；煙斗柄",
+    "lv": "4"
+  },
+  {
+    "num": "663",
+    "word": "stingy",
+    "part": "adj.",
+    "ch": "吝嗇的；少許的",
+    "lv": "4"
+  },
+  {
+    "num": "664",
+    "word": "strengthen",
+    "part": "v.",
+    "ch": "使…強大（使…堅固；加強；增強）",
+    "lv": "4"
+  },
+  {
+    "num": "665",
+    "word": "strive",
+    "part": "v.",
+    "ch": "追求；努力",
+    "lv": "4"
+  },
+  {
+    "num": "666",
+    "word": "stroke",
+    "part": "n.",
+    "ch": "中風；一擊",
+    "lv": "4"
+  },
+  {
+    "num": "667",
+    "word": "submarine",
+    "part": "n.",
+    "ch": "潛水艇",
+    "lv": "4"
+  },
+  {
+    "num": "668",
+    "word": "suggestion",
+    "part": "n.",
+    "ch": "建議；跡象",
+    "lv": "4"
+  },
+  {
+    "num": "669",
+    "word": "surf",
+    "part": "n.",
+    "ch": "海浪；浪花",
+    "lv": "4"
+  },
+  {
+    "num": "670",
+    "word": "surgeon",
+    "part": "n.",
+    "ch": "外科醫師",
+    "lv": "4"
+  },
+  {
+    "num": "671",
+    "word": "surrender",
+    "part": "v.",
+    "ch": "投降；屈服",
+    "lv": "4"
+  },
+  {
+    "num": "672",
+    "word": "surroundings",
+    "part": "n.",
+    "ch": "周圍環境",
+    "lv": "4"
+  },
+  {
+    "num": "673",
+    "word": "sympathetic",
+    "part": "adj.",
+    "ch": "同情的（體諒的；關懷的）",
+    "lv": "4"
+  },
+  {
+    "num": "674",
+    "word": "sympathy",
+    "part": "n.",
+    "ch": "同情；同情心",
+    "lv": "4"
+  },
+  {
+    "num": "675",
+    "word": "symphony",
+    "part": "n.",
+    "ch": "交響樂曲（交響樂團）；和諧",
+    "lv": "4"
+  },
+  {
+    "num": "676",
+    "word": "technician",
+    "part": "n.",
+    "ch": "技術人員",
+    "lv": "4"
+  },
+  {
+    "num": "677",
+    "word": "tendency",
+    "part": "n.",
+    "ch": "傾向；趨勢",
+    "lv": "4"
+  },
+  {
+    "num": "678",
+    "word": "tension",
+    "part": "n.",
+    "ch": "繃緊的程度；（精神上的）緊張狀態",
+    "lv": "4"
+  },
+  {
+    "num": "679",
+    "word": "terrify",
+    "part": "v.",
+    "ch": "使害怕",
+    "lv": "4"
+  },
+  {
+    "num": "680",
+    "word": "terror",
+    "part": "n.",
+    "ch": "恐怖（很難纏的人）",
+    "lv": "4"
+  },
+  {
+    "num": "681",
+    "word": "theme",
+    "part": "n.",
+    "ch": "主題",
+    "lv": "4"
+  },
+  {
+    "num": "682",
+    "word": "thorough",
+    "part": "adj.",
+    "ch": "完全的；徹底的",
+    "lv": "4"
+  },
+  {
+    "num": "683",
+    "word": "thoroughly",
+    "part": "adv.",
+    "ch": "完全地；徹底地",
+    "lv": "4"
+  },
+  {
+    "num": "684",
+    "word": "tolerant",
+    "part": "adj.",
+    "ch": "寬容的；忍受的",
+    "lv": "4"
+  },
+  {
+    "num": "685",
+    "word": "tough",
+    "part": "adj.",
+    "ch": "堅韌的；不屈不撓的",
+    "lv": "4"
+  },
+  {
+    "num": "686",
+    "word": "tragedy",
+    "part": "n.",
+    "ch": "悲劇；不幸事件；慘事",
+    "lv": "4"
+  },
+  {
+    "num": "687",
+    "word": "tragic",
+    "part": "adj.",
+    "ch": "悲慘的；悲劇的",
+    "lv": "4"
+  },
+  {
+    "num": "688",
+    "word": "transfer",
+    "part": "v.",
+    "ch": "調動；調任",
+    "lv": "4"
+  },
+  {
+    "num": "689",
+    "word": "transform",
+    "part": "v.",
+    "ch": "變成；改變",
+    "lv": "4"
+  },
+  {
+    "num": "690",
+    "word": "translate",
+    "part": "v.",
+    "ch": "翻譯",
+    "lv": "4"
+  },
+  {
+    "num": "691",
+    "word": "translation",
+    "part": "n.",
+    "ch": "翻譯",
+    "lv": "4"
+  },
+  {
+    "num": "692",
+    "word": "transportation",
+    "part": "n.",
+    "ch": "輸送；運輸工具",
+    "lv": "4"
+  },
+  {
+    "num": "693",
+    "word": "tremendous",
+    "part": "adj.",
+    "ch": "驚人的；巨大的",
+    "lv": "4"
+  },
+  {
+    "num": "694",
+    "word": "triumph",
+    "part": "n.",
+    "ch": "勝利；征服",
+    "lv": "4"
+  },
+  {
+    "num": "695",
+    "word": "underpass",
+    "part": "n.",
+    "ch": "地下道",
+    "lv": "4"
+  },
+  {
+    "num": "696",
+    "word": "unique",
+    "part": "adj.",
+    "ch": "獨一無二的；獨有的",
+    "lv": "4"
+  },
+  {
+    "num": "697",
+    "word": "universal",
+    "part": "adj.",
+    "ch": "普遍性的；全體的",
+    "lv": "4"
+  },
+  {
+    "num": "698",
+    "word": "university",
+    "part": "n.",
+    "ch": "大學",
+    "lv": "4"
+  },
+  {
+    "num": "699",
+    "word": "upload",
+    "part": "v.",
+    "ch": "上傳",
+    "lv": "4"
+  },
+  {
+    "num": "700",
+    "word": "urban",
+    "part": "adj.",
+    "ch": "都市的；住在都市的",
+    "lv": "4"
+  },
+  {
+    "num": "701",
+    "word": "urge",
+    "part": "v.",
+    "ch": "驅策；催促",
+    "lv": "4"
+  },
+  {
+    "num": "702",
+    "word": "urgent",
+    "part": "adj.",
+    "ch": "迫切的；緊急的",
+    "lv": "4"
+  },
+  {
+    "num": "703",
+    "word": "usage",
+    "part": "n.",
+    "ch": "用法；慣用語",
+    "lv": "4"
+  },
+  {
+    "num": "704",
+    "word": "vain",
+    "part": "adj.",
+    "ch": "無益的；無價值的",
+    "lv": "4"
+  },
+  {
+    "num": "705",
+    "word": "vast",
+    "part": "adj.",
+    "ch": "廣大的；龐大的",
+    "lv": "4"
+  },
+  {
+    "num": "706",
+    "word": "vessel",
+    "part": "n.",
+    "ch": "容器；脈管",
+    "lv": "4"
+  },
+  {
+    "num": "707",
+    "word": "vinegar",
+    "part": "n.",
+    "ch": "醋；活力",
+    "lv": "4"
+  },
+  {
+    "num": "708",
+    "word": "violate",
+    "part": "v.",
+    "ch": "違反；侵犯",
+    "lv": "4"
+  },
+  {
+    "num": "709",
+    "word": "violation",
+    "part": "n.",
+    "ch": "違反；違背；違犯",
+    "lv": "4"
+  },
+  {
+    "num": "710",
+    "word": "virgin",
+    "part": "n.",
+    "ch": "處女",
+    "lv": "4"
+  },
+  {
+    "num": "711",
+    "word": "virtue",
+    "part": "n.",
+    "ch": "美德；德行",
+    "lv": "4"
+  },
+  {
+    "num": "712",
+    "word": "virus",
+    "part": "n.",
+    "ch": "病毒",
+    "lv": "4"
+  },
+  {
+    "num": "713",
+    "word": "visual",
+    "part": "adj.",
+    "ch": "視覺的（視力的）",
+    "lv": "4"
+  },
+  {
+    "num": "714",
+    "word": "volcano",
+    "part": "n.",
+    "ch": "火山",
+    "lv": "4"
+  },
+  {
+    "num": "715",
+    "word": "voluntary",
+    "part": "adj.",
+    "ch": "自發的；自願的",
+    "lv": "4"
+  },
+  {
+    "num": "716",
+    "word": "volunteer",
+    "part": "n.",
+    "ch": "志願者",
+    "lv": "4"
+  },
+  {
+    "num": "717",
+    "word": "welfare",
+    "part": "n.",
+    "ch": "福利；幸福；社會福利",
+    "lv": "4"
+  },
+  {
+    "num": "718",
+    "word": "wit",
+    "part": "n.",
+    "ch": "智慧；理智；智力；富有機智的人",
+    "lv": "4"
+  },
+  {
+    "num": "719",
+    "word": "withdraw",
+    "part": "v.",
+    "ch": "撤回（抽回）；拉（…移開）",
+    "lv": "4"
+  },
+  {
+    "num": "720",
+    "word": "witness",
+    "part": "n.",
+    "ch": "目擊者；證人",
+    "lv": "4"
+  },
+  {
+    "num": "721",
+    "word": "wreck",
+    "part": "n.",
+    "ch": "嚴重毀損的飛機、車、船",
+    "lv": "4"
+  },
+  {
+    "num": "722",
+    "word": "wrinkle",
+    "part": "n.",
+    "ch": "皺紋；皺摺",
+    "lv": "4"
+  }
+]
