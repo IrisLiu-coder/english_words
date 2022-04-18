@@ -1,0 +1,1941 @@
+[
+  {
+    "num": "1",
+    "word": "abide",
+    "part": "v.",
+    "ch": "忍受；遵守(abide",
+    "lv": "5"
+  },
+  {
+    "num": "2",
+    "word": "abolish",
+    "part": "v.",
+    "ch": "廢除，廢止",
+    "lv": "5"
+  },
+  {
+    "num": "3",
+    "word": "abrupt",
+    "part": "adj.",
+    "ch": "突然的；(語言﹑行為)粗魯的",
+    "lv": "5"
+  },
+  {
+    "num": "4",
+    "word": "abundant",
+    "part": "adj.",
+    "ch": "大量的，豐富的",
+    "lv": "5"
+  },
+  {
+    "num": "5",
+    "word": "academy",
+    "part": "n.",
+    "ch": "學院；學會",
+    "lv": "5"
+  },
+  {
+    "num": "6",
+    "word": "acknowledge",
+    "part": "v.",
+    "ch": "承認",
+    "lv": "5"
+  },
+  {
+    "num": "7",
+    "word": "adolescent",
+    "part": "n.",
+    "ch": "青少年",
+    "lv": "5"
+  },
+  {
+    "num": "8",
+    "word": "adore",
+    "part": "v.",
+    "ch": "崇拜，敬愛",
+    "lv": "5"
+  },
+  {
+    "num": "9",
+    "word": "affection",
+    "part": "n.",
+    "ch": "感情；情愛",
+    "lv": "5"
+  },
+  {
+    "num": "10",
+    "word": "agenda",
+    "part": "n.",
+    "ch": "議程，應辦事項",
+    "lv": "5"
+  },
+  {
+    "num": "11",
+    "word": "agricultural",
+    "part": "adj.",
+    "ch": "農業的；農用的",
+    "lv": "5"
+  },
+  {
+    "num": "12",
+    "word": "allergic",
+    "part": "adj.",
+    "ch": "過敏的",
+    "lv": "5"
+  },
+  {
+    "num": "13",
+    "word": "ally",
+    "part": "n.",
+    "ch": "盟友；同盟國",
+    "lv": "5"
+  },
+  {
+    "num": "14",
+    "word": "alter",
+    "part": "v.",
+    "ch": "改變；修改",
+    "lv": "5"
+  },
+  {
+    "num": "15",
+    "word": "ample",
+    "part": "adj.",
+    "ch": "充裕的；足夠的",
+    "lv": "5"
+  },
+  {
+    "num": "16",
+    "word": "applaud",
+    "part": "v.",
+    "ch": "向…鼓掌、喝采；鼓掌歡迎",
+    "lv": "5"
+  },
+  {
+    "num": "17",
+    "word": "architect",
+    "part": "n.",
+    "ch": "建築師；企劃者",
+    "lv": "5"
+  },
+  {
+    "num": "18",
+    "word": "asset",
+    "part": "n.",
+    "ch": "資產；有價值的物品",
+    "lv": "5"
+  },
+  {
+    "num": "19",
+    "word": "beneficial",
+    "part": "adj.",
+    "ch": "有幫助的；有利益的",
+    "lv": "5"
+  },
+  {
+    "num": "20",
+    "word": "stain",
+    "part": "n.",
+    "ch": "污跡；污漬",
+    "lv": "5"
+  },
+  {
+    "num": "21",
+    "word": "bonus",
+    "part": "n.",
+    "ch": "獎金；紅利",
+    "lv": "5"
+  },
+  {
+    "num": "22",
+    "word": "booth",
+    "part": "n.",
+    "ch": "貨攤；(隔開的)小隔間",
+    "lv": "5"
+  },
+  {
+    "num": "23",
+    "word": "bound",
+    "part": "adj.",
+    "ch": "必然的；正在前往的",
+    "lv": "5"
+  },
+  {
+    "num": "24",
+    "word": "boundary",
+    "part": "n.",
+    "ch": "邊界；界線",
+    "lv": "5"
+  },
+  {
+    "num": "25",
+    "word": "broaden",
+    "part": "v.",
+    "ch": "變寬闊；使寬",
+    "lv": "5"
+  },
+  {
+    "num": "26",
+    "word": "browse",
+    "part": "v.",
+    "ch": "瀏覽",
+    "lv": "5"
+  },
+  {
+    "num": "27",
+    "word": "bureau",
+    "part": "n.",
+    "ch": "(政府機構的)局，處",
+    "lv": "5"
+  },
+  {
+    "num": "28",
+    "word": "category",
+    "part": "n.",
+    "ch": "種類；範疇",
+    "lv": "5"
+  },
+  {
+    "num": "29",
+    "word": "caution",
+    "part": "n.",
+    "ch": "小心；警告",
+    "lv": "5"
+  },
+  {
+    "num": "30",
+    "word": "cautious",
+    "part": "adj.",
+    "ch": "謹慎的；小心的",
+    "lv": "5"
+  },
+  {
+    "num": "31",
+    "word": "celebrity",
+    "part": "n.",
+    "ch": "名人；名聲",
+    "lv": "5"
+  },
+  {
+    "num": "32",
+    "word": "ceremony",
+    "part": "n.",
+    "ch": "儀式；典禮",
+    "lv": "5"
+  },
+  {
+    "num": "33",
+    "word": "certificate",
+    "part": "n.",
+    "ch": "證明；證明書",
+    "lv": "5"
+  },
+  {
+    "num": "34",
+    "word": "chairman",
+    "part": "n.",
+    "ch": "主席；(大學的)系主任",
+    "lv": "5"
+  },
+  {
+    "num": "35",
+    "word": "chubby",
+    "part": "adj.",
+    "ch": "圓胖的；豐滿的",
+    "lv": "5"
+  },
+  {
+    "num": "36",
+    "word": "circuit",
+    "part": "n.",
+    "ch": "環行；巡迴旅行",
+    "lv": "5"
+  },
+  {
+    "num": "37",
+    "word": "cite",
+    "part": "v.",
+    "ch": "引用；表揚",
+    "lv": "5"
+  },
+  {
+    "num": "38",
+    "word": "civic",
+    "part": "adj.",
+    "ch": "公民的；城市的",
+    "lv": "5"
+  },
+  {
+    "num": "39",
+    "word": "cling",
+    "part": "v.",
+    "ch": "黏住；緊握不放",
+    "lv": "5"
+  },
+  {
+    "num": "40",
+    "word": "colleague",
+    "part": "n.",
+    "ch": "同僚；同事",
+    "lv": "5"
+  },
+  {
+    "num": "41",
+    "word": "colonel",
+    "part": "n.",
+    "ch": "上校",
+    "lv": "5"
+  },
+  {
+    "num": "42",
+    "word": "colonial",
+    "part": "adj.",
+    "ch": "殖民地的；殖民的",
+    "lv": "5"
+  },
+  {
+    "num": "43",
+    "word": "combat",
+    "part": "n.",
+    "ch": "戰鬥",
+    "lv": "5"
+  },
+  {
+    "num": "44",
+    "word": "commission",
+    "part": "n.",
+    "ch": "委任；佣金",
+    "lv": "5"
+  },
+  {
+    "num": "45",
+    "word": "commissioner",
+    "part": "n.",
+    "ch": "(政府部門)首長、委員",
+    "lv": "5"
+  },
+  {
+    "num": "46",
+    "word": "commute",
+    "part": "v.",
+    "ch": "通勤",
+    "lv": "5"
+  },
+  {
+    "num": "47",
+    "word": "compassion",
+    "part": "n.",
+    "ch": "同情，憐憫",
+    "lv": "5"
+  },
+  {
+    "num": "48",
+    "word": "compel",
+    "part": "v.",
+    "ch": "強迫；迫使",
+    "lv": "5"
+  },
+  {
+    "num": "49",
+    "word": "comprehend",
+    "part": "v.",
+    "ch": "理解；了解",
+    "lv": "5"
+  },
+  {
+    "num": "50",
+    "word": "compromise",
+    "part": "n.",
+    "ch": "妥協；和解",
+    "lv": "5"
+  },
+  {
+    "num": "51",
+    "word": "compute",
+    "part": "v.",
+    "ch": "計算；估算",
+    "lv": "5"
+  },
+  {
+    "num": "52",
+    "word": "conceal",
+    "part": "v.",
+    "ch": "隱瞞；隱藏",
+    "lv": "5"
+  },
+  {
+    "num": "53",
+    "word": "conceive",
+    "part": "v.",
+    "ch": "想像；思索",
+    "lv": "5"
+  },
+  {
+    "num": "54",
+    "word": "condemn",
+    "part": "v.",
+    "ch": "譴責；責備",
+    "lv": "5"
+  },
+  {
+    "num": "55",
+    "word": "conduct",
+    "part": "v.",
+    "ch": "處理；經營",
+    "lv": "5"
+  },
+  {
+    "num": "56",
+    "word": "confession",
+    "part": "n.",
+    "ch": "承認；坦承",
+    "lv": "5"
+  },
+  {
+    "num": "57",
+    "word": "confront",
+    "part": "v.",
+    "ch": "遭遇；面臨",
+    "lv": "5"
+  },
+  {
+    "num": "58",
+    "word": "consent",
+    "part": "v.",
+    "ch": "同意；答應",
+    "lv": "5"
+  },
+  {
+    "num": "59",
+    "word": "conserve",
+    "part": "v.",
+    "ch": "保存；節省",
+    "lv": "5"
+  },
+  {
+    "num": "60",
+    "word": "console",
+    "part": "v.",
+    "ch": "安慰；撫慰",
+    "lv": "5"
+  },
+  {
+    "num": "61",
+    "word": "constitutional",
+    "part": "adj.",
+    "ch": "符合憲法的；憲法的",
+    "lv": "5"
+  },
+  {
+    "num": "62",
+    "word": "contagious",
+    "part": "adj.",
+    "ch": "傳染性的；會蔓延的",
+    "lv": "5"
+  },
+  {
+    "num": "63",
+    "word": "contaminate",
+    "part": "v.",
+    "ch": "污染；弄髒",
+    "lv": "5"
+  },
+  {
+    "num": "64",
+    "word": "contemporary",
+    "part": "adj.",
+    "ch": "當代的；同時代的",
+    "lv": "5"
+  },
+  {
+    "num": "65",
+    "word": "contend",
+    "part": "v.",
+    "ch": "爭奪；爭論",
+    "lv": "5"
+  },
+  {
+    "num": "66",
+    "word": "convert",
+    "part": "v.",
+    "ch": "轉變；變換",
+    "lv": "5"
+  },
+  {
+    "num": "67",
+    "word": "corporation",
+    "part": "n.",
+    "ch": "財團法人；公司",
+    "lv": "5"
+  },
+  {
+    "num": "68",
+    "word": "coupon",
+    "part": "n.",
+    "ch": "折價券；優待券",
+    "lv": "5"
+  },
+  {
+    "num": "69",
+    "word": "crystal",
+    "part": "adj.",
+    "ch": "水晶的；水晶般的",
+    "lv": "5"
+  },
+  {
+    "num": "70",
+    "word": "cuisine",
+    "part": "n.",
+    "ch": "烹飪；菜餚",
+    "lv": "5"
+  },
+  {
+    "num": "71",
+    "word": "currency",
+    "part": "n.",
+    "ch": "貨幣；通貨",
+    "lv": "5"
+  },
+  {
+    "num": "72",
+    "word": "dazzle",
+    "part": "v.",
+    "ch": "使…目眩眼花；使…眩惑",
+    "lv": "5"
+  },
+  {
+    "num": "73",
+    "word": "deceive",
+    "part": "v.",
+    "ch": "欺騙",
+    "lv": "5"
+  },
+  {
+    "num": "74",
+    "word": "declaration",
+    "part": "n.",
+    "ch": "申報；宣佈",
+    "lv": "5"
+  },
+  {
+    "num": "75",
+    "word": "denial",
+    "part": "n.",
+    "ch": "否認；拒絕",
+    "lv": "5"
+  },
+  {
+    "num": "76",
+    "word": "despair",
+    "part": "n.",
+    "ch": "絕望",
+    "lv": "5"
+  },
+  {
+    "num": "77",
+    "word": "despise",
+    "part": "v.",
+    "ch": "看不起；鄙視",
+    "lv": "5"
+  },
+  {
+    "num": "78",
+    "word": "destination",
+    "part": "n.",
+    "ch": "目的地",
+    "lv": "5"
+  },
+  {
+    "num": "79",
+    "word": "destiny",
+    "part": "n.",
+    "ch": "命運",
+    "lv": "5"
+  },
+  {
+    "num": "80",
+    "word": "destructive",
+    "part": "adj.",
+    "ch": "破壞性的",
+    "lv": "5"
+  },
+  {
+    "num": "81",
+    "word": "devotion",
+    "part": "n.",
+    "ch": "熱愛；摰愛",
+    "lv": "5"
+  },
+  {
+    "num": "82",
+    "word": "disciple",
+    "part": "n.",
+    "ch": "信徒；門徒",
+    "lv": "5"
+  },
+  {
+    "num": "83",
+    "word": "discriminate",
+    "part": "v.",
+    "ch": "辨別；歧視",
+    "lv": "5"
+  },
+  {
+    "num": "84",
+    "word": "dispose",
+    "part": "v.",
+    "ch": "處理；配置",
+    "lv": "5"
+  },
+  {
+    "num": "85",
+    "word": "distinction",
+    "part": "n.",
+    "ch": "區別；差別",
+    "lv": "5"
+  },
+  {
+    "num": "86",
+    "word": "distress",
+    "part": "n.",
+    "ch": "悲痛；苦惱",
+    "lv": "5"
+  },
+  {
+    "num": "87",
+    "word": "document",
+    "part": "n.",
+    "ch": "文件；證件",
+    "lv": "5"
+  },
+  {
+    "num": "88",
+    "word": "dwell",
+    "part": "v.",
+    "ch": "居住；存在於",
+    "lv": "5"
+  },
+  {
+    "num": "89",
+    "word": "ego",
+    "part": "n.",
+    "ch": "自我意識；自我",
+    "lv": "5"
+  },
+  {
+    "num": "90",
+    "word": "elaborate",
+    "part": "adj.",
+    "ch": "用心作成的；精心計畫的",
+    "lv": "5"
+  },
+  {
+    "num": "91",
+    "word": "embrace",
+    "part": "v.",
+    "ch": "擁抱；抱緊",
+    "lv": "5"
+  },
+  {
+    "num": "92",
+    "word": "enroll",
+    "part": "v.",
+    "ch": "登記；使…入學",
+    "lv": "5"
+  },
+  {
+    "num": "93",
+    "word": "enterprise",
+    "part": "n.",
+    "ch": "企業；事業",
+    "lv": "5"
+  },
+  {
+    "num": "94",
+    "word": "enthusiastic",
+    "part": "adj.",
+    "ch": "熱情的；熱心的",
+    "lv": "5"
+  },
+  {
+    "num": "95",
+    "word": "erect",
+    "part": "v.",
+    "ch": "使直立；豎立",
+    "lv": "5"
+  },
+  {
+    "num": "96",
+    "word": "estate",
+    "part": "n.",
+    "ch": "地產；遺產",
+    "lv": "5"
+  },
+  {
+    "num": "97",
+    "word": "esteem",
+    "part": "n.",
+    "ch": "尊重；尊敬",
+    "lv": "5"
+  },
+  {
+    "num": "98",
+    "word": "eternal",
+    "part": "adj.",
+    "ch": "永久的；無休止的",
+    "lv": "5"
+  },
+  {
+    "num": "99",
+    "word": "exaggeration",
+    "part": "n.",
+    "ch": "誇張；誇張的言語",
+    "lv": "5"
+  },
+  {
+    "num": "100",
+    "word": "exceed",
+    "part": "v.",
+    "ch": "超過；勝過",
+    "lv": "5"
+  },
+  {
+    "num": "101",
+    "word": "excess",
+    "part": "n.",
+    "ch": "過多；超過",
+    "lv": "5"
+  },
+  {
+    "num": "102",
+    "word": "exclude",
+    "part": "v.",
+    "ch": "排除；拒絕…於外",
+    "lv": "5"
+  },
+  {
+    "num": "103",
+    "word": "execute",
+    "part": "v.",
+    "ch": "實施；執行",
+    "lv": "5"
+  },
+  {
+    "num": "104",
+    "word": "executive",
+    "part": "n.",
+    "ch": "主管人員",
+    "lv": "5"
+  },
+  {
+    "num": "105",
+    "word": "extension",
+    "part": "n.",
+    "ch": "擴張；延展",
+    "lv": "5"
+  },
+  {
+    "num": "106",
+    "word": "extensive",
+    "part": "adj.",
+    "ch": "廣大的；廣泛的",
+    "lv": "5"
+  },
+  {
+    "num": "107",
+    "word": "external",
+    "part": "adj.",
+    "ch": "外部的；外面的",
+    "lv": "5"
+  },
+  {
+    "num": "108",
+    "word": "extinct",
+    "part": "adj.",
+    "ch": "滅絕的；絕種的",
+    "lv": "5"
+  },
+  {
+    "num": "109",
+    "word": "extraordinary",
+    "part": "adj.",
+    "ch": "特殊的；特別的",
+    "lv": "5"
+  },
+  {
+    "num": "110",
+    "word": "fabric",
+    "part": "n.",
+    "ch": "布料",
+    "lv": "5"
+  },
+  {
+    "num": "111",
+    "word": "fascinate",
+    "part": "v.",
+    "ch": "迷住；吸引",
+    "lv": "5"
+  },
+  {
+    "num": "112",
+    "word": "fianc?",
+    "part": "n.",
+    "ch": "未婚夫",
+    "lv": "5"
+  },
+  {
+    "num": "113",
+    "word": "fluency",
+    "part": "n.",
+    "ch": "流利、流暢",
+    "lv": "5"
+  },
+  {
+    "num": "114",
+    "word": "fraction",
+    "part": "n.",
+    "ch": "小部份；片段",
+    "lv": "5"
+  },
+  {
+    "num": "115",
+    "word": "freight",
+    "part": "n.",
+    "ch": "貨運；貨物",
+    "lv": "5"
+  },
+  {
+    "num": "116",
+    "word": "frontier",
+    "part": "n.",
+    "ch": "國境；邊境",
+    "lv": "5"
+  },
+  {
+    "num": "117",
+    "word": "gathering",
+    "part": "n.",
+    "ch": "集會；聚集",
+    "lv": "5"
+  },
+  {
+    "num": "118",
+    "word": "gorgeous",
+    "part": "adj.",
+    "ch": "豪華的；極好的",
+    "lv": "5"
+  },
+  {
+    "num": "119",
+    "word": "grant",
+    "part": "v.",
+    "ch": "允許；答應",
+    "lv": "5"
+  },
+  {
+    "num": "120",
+    "word": "grip",
+    "part": "v.",
+    "ch": "緊握；緊抓",
+    "lv": "5"
+  },
+  {
+    "num": "121",
+    "word": "gross",
+    "part": "adj.",
+    "ch": "全部的；明顯的",
+    "lv": "5"
+  },
+  {
+    "num": "122",
+    "word": "guideline",
+    "part": "n.",
+    "ch": "指導方針",
+    "lv": "5"
+  },
+  {
+    "num": "123",
+    "word": "handicap",
+    "part": "n.",
+    "ch": "障礙；不利條件",
+    "lv": "5"
+  },
+  {
+    "num": "124",
+    "word": "hence",
+    "part": "adv.",
+    "ch": "因此",
+    "lv": "5"
+  },
+  {
+    "num": "125",
+    "word": "heroic",
+    "part": "adj.",
+    "ch": "英雄的；勇敢的",
+    "lv": "5"
+  },
+  {
+    "num": "126",
+    "word": "housing",
+    "part": "n.",
+    "ch": "住宅；外罩",
+    "lv": "5"
+  },
+  {
+    "num": "127",
+    "word": "impose",
+    "part": "v.",
+    "ch": "課徵；強迫",
+    "lv": "5"
+  },
+  {
+    "num": "128",
+    "word": "impulse",
+    "part": "n.",
+    "ch": "衝動",
+    "lv": "5"
+  },
+  {
+    "num": "129",
+    "word": "index",
+    "part": "n.",
+    "ch": "索引",
+    "lv": "5"
+  },
+  {
+    "num": "130",
+    "word": "indispensable",
+    "part": "adj.",
+    "ch": "不可或缺的",
+    "lv": "5"
+  },
+  {
+    "num": "131",
+    "word": "induce",
+    "part": "v.",
+    "ch": "引發；導致",
+    "lv": "5"
+  },
+  {
+    "num": "132",
+    "word": "inherit",
+    "part": "v.",
+    "ch": "繼承(某事物)；遺傳了(某事物)",
+    "lv": "5"
+  },
+  {
+    "num": "133",
+    "word": "initiate",
+    "part": "v.",
+    "ch": "發起；開始",
+    "lv": "5"
+  },
+  {
+    "num": "134",
+    "word": "inquire",
+    "part": "v.",
+    "ch": "詢問；打聽",
+    "lv": "5"
+  },
+  {
+    "num": "135",
+    "word": "institute",
+    "part": "n.",
+    "ch": "學會；研究機構",
+    "lv": "5"
+  },
+  {
+    "num": "136",
+    "word": "insure",
+    "part": "v.",
+    "ch": "為…投保；接受保險",
+    "lv": "5"
+  },
+  {
+    "num": "137",
+    "word": "interference",
+    "part": "n.",
+    "ch": "干涉；干擾",
+    "lv": "5"
+  },
+  {
+    "num": "138",
+    "word": "interior",
+    "part": "adj.",
+    "ch": "內部的",
+    "lv": "5"
+  },
+  {
+    "num": "139",
+    "word": "interpretation",
+    "part": "n.",
+    "ch": "說明；解釋",
+    "lv": "5"
+  },
+  {
+    "num": "140",
+    "word": "issue",
+    "part": "v.",
+    "ch": "發行；出版",
+    "lv": "5"
+  },
+  {
+    "num": "141",
+    "word": "journalist",
+    "part": "n.",
+    "ch": "新聞記者；報章雜誌工作者",
+    "lv": "5"
+  },
+  {
+    "num": "142",
+    "word": "jury",
+    "part": "n.",
+    "ch": "陪審團",
+    "lv": "5"
+  },
+  {
+    "num": "143",
+    "word": "layer",
+    "part": "n.",
+    "ch": "層",
+    "lv": "5"
+  },
+  {
+    "num": "144",
+    "word": "legislation",
+    "part": "n.",
+    "ch": "立法；制定法律",
+    "lv": "5"
+  },
+  {
+    "num": "145",
+    "word": "lessen",
+    "part": "v.",
+    "ch": "變少；降低",
+    "lv": "5"
+  },
+  {
+    "num": "146",
+    "word": "logo",
+    "part": "n.",
+    "ch": "標誌；商標",
+    "lv": "5"
+  },
+  {
+    "num": "147",
+    "word": "lumber",
+    "part": "n.",
+    "ch": "木材；木料",
+    "lv": "5"
+  },
+  {
+    "num": "148",
+    "word": "mainstream",
+    "part": "n.",
+    "ch": "主流",
+    "lv": "5"
+  },
+  {
+    "num": "149",
+    "word": "maintenance",
+    "part": "n.",
+    "ch": "維持；維修",
+    "lv": "5"
+  },
+  {
+    "num": "150",
+    "word": "mammal",
+    "part": "n.",
+    "ch": "哺乳動物",
+    "lv": "5"
+  },
+  {
+    "num": "151",
+    "word": "marine",
+    "part": "n.",
+    "ch": "海(洋)的",
+    "lv": "5"
+  },
+  {
+    "num": "152",
+    "word": "martial",
+    "part": "adj.",
+    "ch": "軍事的；戰爭的",
+    "lv": "5"
+  },
+  {
+    "num": "153",
+    "word": "massage",
+    "part": "n.",
+    "ch": "按摩",
+    "lv": "5"
+  },
+  {
+    "num": "154",
+    "word": "massive",
+    "part": "adj.",
+    "ch": "大規模的",
+    "lv": "5"
+  },
+  {
+    "num": "155",
+    "word": "masterpiece",
+    "part": "n.",
+    "ch": "傑出的作品；名作",
+    "lv": "5"
+  },
+  {
+    "num": "156",
+    "word": "midst",
+    "part": "n.",
+    "ch": "中央；中間",
+    "lv": "5"
+  },
+  {
+    "num": "157",
+    "word": "mileage",
+    "part": "n.",
+    "ch": "每單位燃料的行駛哩數；總英里數",
+    "lv": "5"
+  },
+  {
+    "num": "158",
+    "word": "mode",
+    "part": "n.",
+    "ch": "方式；模式",
+    "lv": "5"
+  },
+  {
+    "num": "159",
+    "word": "modify",
+    "part": "v.",
+    "ch": "修飾；變更",
+    "lv": "5"
+  },
+  {
+    "num": "160",
+    "word": "mold",
+    "part": "n.",
+    "ch": "鑄模；模子",
+    "lv": "5"
+  },
+  {
+    "num": "161",
+    "word": "motive",
+    "part": "n.",
+    "ch": "主旨；目的",
+    "lv": "5"
+  },
+  {
+    "num": "162",
+    "word": "mutter",
+    "part": "v.",
+    "ch": "喃喃自語；低聲抱怨",
+    "lv": "5"
+  },
+  {
+    "num": "163",
+    "word": "myth",
+    "part": "n.",
+    "ch": "神話；神怪故事",
+    "lv": "5"
+  },
+  {
+    "num": "164",
+    "word": "nominate",
+    "part": "v.",
+    "ch": "提名；指派",
+    "lv": "5"
+  },
+  {
+    "num": "165",
+    "word": "notify",
+    "part": "v.",
+    "ch": "通知；報告",
+    "lv": "5"
+  },
+  {
+    "num": "166",
+    "word": "observer",
+    "part": "n.",
+    "ch": "觀察者",
+    "lv": "5"
+  },
+  {
+    "num": "167",
+    "word": "occurrence",
+    "part": "n.",
+    "ch": "發生的事；事件",
+    "lv": "5"
+  },
+  {
+    "num": "168",
+    "word": "opponent",
+    "part": "n.",
+    "ch": "(比賽；辯論的)對手；反對者",
+    "lv": "5"
+  },
+  {
+    "num": "169",
+    "word": "oriental",
+    "part": "adj.",
+    "ch": "東方的",
+    "lv": "5"
+  },
+  {
+    "num": "170",
+    "word": "output",
+    "part": "n.",
+    "ch": "生產；輸出",
+    "lv": "5"
+  },
+  {
+    "num": "171",
+    "word": "overwhelming",
+    "part": "adj.",
+    "ch": "壓倒性的",
+    "lv": "5"
+  },
+  {
+    "num": "172",
+    "word": "paradox",
+    "part": "n.",
+    "ch": "矛盾的言論",
+    "lv": "5"
+  },
+  {
+    "num": "173",
+    "word": "particle",
+    "part": "n.",
+    "ch": "粒子；微量",
+    "lv": "5"
+  },
+  {
+    "num": "174",
+    "word": "partly",
+    "part": "adv.",
+    "ch": "有些；有幾分",
+    "lv": "5"
+  },
+  {
+    "num": "175",
+    "word": "passionate",
+    "part": "adj.",
+    "ch": "熱情的",
+    "lv": "5"
+  },
+  {
+    "num": "176",
+    "word": "patch",
+    "part": "n.",
+    "ch": "補釘；斑點",
+    "lv": "5"
+  },
+  {
+    "num": "177",
+    "word": "patent",
+    "part": "n.",
+    "ch": "專利；專利品",
+    "lv": "5"
+  },
+  {
+    "num": "178",
+    "word": "patrol",
+    "part": "v.",
+    "ch": "巡視；巡邏",
+    "lv": "5"
+  },
+  {
+    "num": "179",
+    "word": "penetrate",
+    "part": "v.",
+    "ch": "貫穿；識破",
+    "lv": "5"
+  },
+  {
+    "num": "180",
+    "word": "perceive",
+    "part": "v.",
+    "ch": "認為；察覺",
+    "lv": "5"
+  },
+  {
+    "num": "181",
+    "word": "perish",
+    "part": "v.",
+    "ch": "死去；消滅",
+    "lv": "5"
+  },
+  {
+    "num": "182",
+    "word": "persist",
+    "part": "v.",
+    "ch": "堅持；繼續(…生存)",
+    "lv": "5"
+  },
+  {
+    "num": "183",
+    "word": "personnel",
+    "part": "n.",
+    "ch": "人事；員工",
+    "lv": "5"
+  },
+  {
+    "num": "184",
+    "word": "pistol",
+    "part": "n.",
+    "ch": "手槍",
+    "lv": "5"
+  },
+  {
+    "num": "185",
+    "word": "plea",
+    "part": "n.",
+    "ch": "請求；藉口",
+    "lv": "5"
+  },
+  {
+    "num": "186",
+    "word": "plead",
+    "part": "v.",
+    "ch": "請求；以…為理由",
+    "lv": "5"
+  },
+  {
+    "num": "187",
+    "word": "plunge",
+    "part": "v.",
+    "ch": "把…插入；使…投入",
+    "lv": "5"
+  },
+  {
+    "num": "188",
+    "word": "porch",
+    "part": "n.",
+    "ch": "門廊；玄關",
+    "lv": "5"
+  },
+  {
+    "num": "189",
+    "word": "potential",
+    "part": "adj.",
+    "ch": "有充分可能的；有潛力的",
+    "lv": "5"
+  },
+  {
+    "num": "190",
+    "word": "preach",
+    "part": "v.",
+    "ch": "傳教",
+    "lv": "5"
+  },
+  {
+    "num": "191",
+    "word": "precaution",
+    "part": "n.",
+    "ch": "預防",
+    "lv": "5"
+  },
+  {
+    "num": "192",
+    "word": "preference",
+    "part": "n.",
+    "ch": "偏愛；優先權",
+    "lv": "5"
+  },
+  {
+    "num": "193",
+    "word": "prevail",
+    "part": "v.",
+    "ch": "勝過；流行",
+    "lv": "5"
+  },
+  {
+    "num": "194",
+    "word": "prior",
+    "part": "adj.",
+    "ch": "(時間；順序)在前的；優先的",
+    "lv": "5"
+  },
+  {
+    "num": "195",
+    "word": "priority",
+    "part": "n.",
+    "ch": "優先考慮的事",
+    "lv": "5"
+  },
+  {
+    "num": "196",
+    "word": "prolong",
+    "part": "v.",
+    "ch": "拉長；延長",
+    "lv": "5"
+  },
+  {
+    "num": "197",
+    "word": "proportion",
+    "part": "n.",
+    "ch": "比例；均衡",
+    "lv": "5"
+  },
+  {
+    "num": "198",
+    "word": "province",
+    "part": "n.",
+    "ch": "省(州)；領域",
+    "lv": "5"
+  },
+  {
+    "num": "199",
+    "word": "purchase",
+    "part": "n.",
+    "ch": "購買；購買物",
+    "lv": "5"
+  },
+  {
+    "num": "200",
+    "word": "qualify",
+    "part": "v.",
+    "ch": "獲得…資格；使…適任",
+    "lv": "5"
+  },
+  {
+    "num": "201",
+    "word": "rail",
+    "part": "n.",
+    "ch": "橫木；鐵路",
+    "lv": "5"
+  },
+  {
+    "num": "202",
+    "word": "ranch",
+    "part": "n.",
+    "ch": "牧場",
+    "lv": "5"
+  },
+  {
+    "num": "203",
+    "word": "ratio",
+    "part": "n.",
+    "ch": "比率；比例",
+    "lv": "5"
+  },
+  {
+    "num": "204",
+    "word": "realm",
+    "part": "n.",
+    "ch": "領域；範圍",
+    "lv": "5"
+  },
+  {
+    "num": "205",
+    "word": "rear",
+    "part": "adj.",
+    "ch": "後方的",
+    "lv": "5"
+  },
+  {
+    "num": "206",
+    "word": "recommend",
+    "part": "v.",
+    "ch": "推舉；勸導",
+    "lv": "5"
+  },
+  {
+    "num": "207",
+    "word": "repay",
+    "part": "v.",
+    "ch": "償還；報答",
+    "lv": "5"
+  },
+  {
+    "num": "208",
+    "word": "reproduce",
+    "part": "v.",
+    "ch": "複製；使…再生",
+    "lv": "5"
+  },
+  {
+    "num": "209",
+    "word": "residence",
+    "part": "n.",
+    "ch": "住宅(宅邸)；居住",
+    "lv": "5"
+  },
+  {
+    "num": "210",
+    "word": "resident",
+    "part": "n.",
+    "ch": "居住者；居民",
+    "lv": "5"
+  },
+  {
+    "num": "211",
+    "word": "restrain",
+    "part": "v.",
+    "ch": "克制(抑制)；限制",
+    "lv": "5"
+  },
+  {
+    "num": "212",
+    "word": "resume",
+    "part": "v.",
+    "ch": "再繼續；回到",
+    "lv": "5"
+  },
+  {
+    "num": "213",
+    "word": "reverse",
+    "part": "v.",
+    "ch": "調換；翻轉",
+    "lv": "5"
+  },
+  {
+    "num": "214",
+    "word": "ridge",
+    "part": "n.",
+    "ch": "山脊",
+    "lv": "5"
+  },
+  {
+    "num": "215",
+    "word": "rigid",
+    "part": "adj.",
+    "ch": "堅硬的；嚴格的",
+    "lv": "5"
+  },
+  {
+    "num": "216",
+    "word": "sacred",
+    "part": "adj.",
+    "ch": "神聖的；宗教性的",
+    "lv": "5"
+  },
+  {
+    "num": "217",
+    "word": "saint",
+    "part": "n.",
+    "ch": "聖人；聖徒",
+    "lv": "5"
+  },
+  {
+    "num": "218",
+    "word": "scar",
+    "part": "n.",
+    "ch": "傷痕；傷疤",
+    "lv": "5"
+  },
+  {
+    "num": "219",
+    "word": "scheme",
+    "part": "n.",
+    "ch": "計畫；方案",
+    "lv": "5"
+  },
+  {
+    "num": "220",
+    "word": "secure",
+    "part": "v.",
+    "ch": "使免於危險(保護…以防危險)；保證(權利…等)",
+    "lv": "5"
+  },
+  {
+    "num": "221",
+    "word": "segment",
+    "part": "n.",
+    "ch": "部分",
+    "lv": "5"
+  },
+  {
+    "num": "222",
+    "word": "sensation",
+    "part": "n.",
+    "ch": "感覺；感受",
+    "lv": "5"
+  },
+  {
+    "num": "223",
+    "word": "sensitivity",
+    "part": "n.",
+    "ch": "敏感度；反應能力",
+    "lv": "5"
+  },
+  {
+    "num": "224",
+    "word": "sentiment",
+    "part": "n.",
+    "ch": "感情(情緒)；多愁善感",
+    "lv": "5"
+  },
+  {
+    "num": "225",
+    "word": "sergeant",
+    "part": "n.",
+    "ch": "(陸空軍的)中士",
+    "lv": "5"
+  },
+  {
+    "num": "226",
+    "word": "series",
+    "part": "n.",
+    "ch": "一系列；一連串",
+    "lv": "5"
+  },
+  {
+    "num": "227",
+    "word": "setting",
+    "part": "n.",
+    "ch": "安裝(放置)；背景",
+    "lv": "5"
+  },
+  {
+    "num": "228",
+    "word": "sharpen",
+    "part": "v.",
+    "ch": "使銳利；加重",
+    "lv": "5"
+  },
+  {
+    "num": "229",
+    "word": "shatter",
+    "part": "v.",
+    "ch": "使…粉碎；使…破滅",
+    "lv": "5"
+  },
+  {
+    "num": "230",
+    "word": "shortage",
+    "part": "n.",
+    "ch": "短缺；缺乏",
+    "lv": "5"
+  },
+  {
+    "num": "231",
+    "word": "shortcoming",
+    "part": "n.",
+    "ch": "缺點",
+    "lv": "5"
+  },
+  {
+    "num": "232",
+    "word": "smash",
+    "part": "v.",
+    "ch": "打破；重擊",
+    "lv": "5"
+  },
+  {
+    "num": "233",
+    "word": "soak",
+    "part": "v.",
+    "ch": "浸泡；使溼透",
+    "lv": "5"
+  },
+  {
+    "num": "234",
+    "word": "soften",
+    "part": "v.",
+    "ch": "使…變軟；使…變溫和",
+    "lv": "5"
+  },
+  {
+    "num": "235",
+    "word": "specialist",
+    "part": "n.",
+    "ch": "專家；專科醫生",
+    "lv": "5"
+  },
+  {
+    "num": "236",
+    "word": "specimen",
+    "part": "n.",
+    "ch": "樣品；標本",
+    "lv": "5"
+  },
+  {
+    "num": "237",
+    "word": "spectacle",
+    "part": "n.",
+    "ch": "景象；奇觀",
+    "lv": "5"
+  },
+  {
+    "num": "238",
+    "word": "spectator",
+    "part": "n.",
+    "ch": "觀眾",
+    "lv": "5"
+  },
+  {
+    "num": "239",
+    "word": "stake",
+    "part": "n.",
+    "ch": "棍棒；(股票的)股份",
+    "lv": "5"
+  },
+  {
+    "num": "240",
+    "word": "startling",
+    "part": "adj.",
+    "ch": "驚人的；令人吃驚的",
+    "lv": "5"
+  },
+  {
+    "num": "241",
+    "word": "statistics",
+    "part": "n.",
+    "ch": "統計數字；統計學",
+    "lv": "5"
+  },
+  {
+    "num": "242",
+    "word": "stereotype",
+    "part": "n.",
+    "ch": "刻板印象",
+    "lv": "5"
+  },
+  {
+    "num": "243",
+    "word": "stock",
+    "part": "n.",
+    "ch": "庫存；儲存",
+    "lv": "5"
+  },
+  {
+    "num": "244",
+    "word": "straighten",
+    "part": "v.",
+    "ch": "弄清楚；把…弄直",
+    "lv": "5"
+  },
+  {
+    "num": "245",
+    "word": "strain",
+    "part": "v.",
+    "ch": "拉傷；竭盡全力",
+    "lv": "5"
+  },
+  {
+    "num": "246",
+    "word": "stride",
+    "part": "n.",
+    "ch": "大步的行走；闊步",
+    "lv": "5"
+  },
+  {
+    "num": "247",
+    "word": "stumble",
+    "part": "v.",
+    "ch": "蹣跚而行(跌跌撞撞地走)；結巴",
+    "lv": "5"
+  },
+  {
+    "num": "248",
+    "word": "submit",
+    "part": "v.",
+    "ch": "繳交；服從",
+    "lv": "5"
+  },
+  {
+    "num": "249",
+    "word": "substantially",
+    "part": "adv.",
+    "ch": "大體上；本質上",
+    "lv": "5"
+  },
+  {
+    "num": "250",
+    "word": "substitute",
+    "part": "v.",
+    "ch": "代替；代理",
+    "lv": "5"
+  },
+  {
+    "num": "251",
+    "word": "superstition",
+    "part": "n.",
+    "ch": "迷信",
+    "lv": "5"
+  },
+  {
+    "num": "252",
+    "word": "supreme",
+    "part": "adj.",
+    "ch": "極端的；極度的",
+    "lv": "5"
+  },
+  {
+    "num": "253",
+    "word": "suspend",
+    "part": "v.",
+    "ch": "懸吊下來(吊掛)；暫時停止",
+    "lv": "5"
+  },
+  {
+    "num": "254",
+    "word": "sustain",
+    "part": "v.",
+    "ch": "支撐；遭受",
+    "lv": "5"
+  },
+  {
+    "num": "255",
+    "word": "thrust",
+    "part": "v.",
+    "ch": "推入；擠進",
+    "lv": "5"
+  },
+  {
+    "num": "256",
+    "word": "title",
+    "part": "n.",
+    "ch": "標題；頭銜",
+    "lv": "5"
+  },
+  {
+    "num": "257",
+    "word": "tilt",
+    "part": "v.",
+    "ch": "傾斜",
+    "lv": "5"
+  },
+  {
+    "num": "258",
+    "word": "tournament",
+    "part": "n.",
+    "ch": "錦標賽；比賽",
+    "lv": "5"
+  },
+  {
+    "num": "259",
+    "word": "treasury",
+    "part": "n.",
+    "ch": "財寶；名詩集",
+    "lv": "5"
+  },
+  {
+    "num": "260",
+    "word": "treaty",
+    "part": "n.",
+    "ch": "條約",
+    "lv": "5"
+  },
+  {
+    "num": "261",
+    "word": "tribute",
+    "part": "n.",
+    "ch": "(表示敬意的)禮物或行為；貢品(金)",
+    "lv": "5"
+  },
+  {
+    "num": "262",
+    "word": "underline",
+    "part": "v.",
+    "ch": "在…處畫底線；強調",
+    "lv": "5"
+  },
+  {
+    "num": "263",
+    "word": "undoubtedly",
+    "part": "adv.",
+    "ch": "無疑地(肯定地)",
+    "lv": "5"
+  },
+  {
+    "num": "264",
+    "word": "upward",
+    "part": "adv.",
+    "ch": "向上地；上升地",
+    "lv": "5"
+  },
+  {
+    "num": "265",
+    "word": "vacancy",
+    "part": "n.",
+    "ch": "空缺；空房",
+    "lv": "5"
+  },
+  {
+    "num": "266",
+    "word": "vacuum",
+    "part": "n.",
+    "ch": "真空；空虛",
+    "lv": "5"
+  },
+  {
+    "num": "267",
+    "word": "vague",
+    "part": "adj.",
+    "ch": "模糊的；不明確的",
+    "lv": "5"
+  },
+  {
+    "num": "268",
+    "word": "vein",
+    "part": "n.",
+    "ch": "血管；靜脈",
+    "lv": "5"
+  },
+  {
+    "num": "269",
+    "word": "versus",
+    "part": "prep.",
+    "ch": "對抗…；和…相比",
+    "lv": "5"
+  },
+  {
+    "num": "270",
+    "word": "vigorous",
+    "part": "adj.",
+    "ch": "精力充沛的(強健的)；強而有力的",
+    "lv": "5"
+  },
+  {
+    "num": "271",
+    "word": "whereas",
+    "part": "conj.",
+    "ch": "雖然；然而",
+    "lv": "5"
+  },
+  {
+    "num": "272",
+    "word": "whirl",
+    "part": "v.",
+    "ch": "旋轉；疾飛聲",
+    "lv": "5"
+  },
+  {
+    "num": "273",
+    "word": "widespread",
+    "part": "adj.",
+    "ch": "廣泛的(分佈廣的；蔓延的)",
+    "lv": "5"
+  },
+  {
+    "num": "274",
+    "word": "widow",
+    "part": "n.",
+    "ch": "未亡人(寡婦；遺孀)",
+    "lv": "5"
+  },
+  {
+    "num": "275",
+    "word": "wildlife",
+    "part": "n.",
+    "ch": "野生動物",
+    "lv": "5"
+  },
+  {
+    "num": "276",
+    "word": "worship",
+    "part": "v.",
+    "ch": "信奉；崇拜",
+    "lv": "5"
+  },
+  {
+    "num": "277",
+    "word": "worthy",
+    "part": "adj.",
+    "ch": "有價值的；值得的",
+    "lv": "5"
+  }
+]
