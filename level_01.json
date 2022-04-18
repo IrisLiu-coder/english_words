@@ -1,0 +1,2774 @@
+[
+  {
+    "num": "1",
+    "word": "able",
+    "part": "adj.",
+    "ch": "能夠…的；有能力的",
+    "lv": "1"
+  },
+  {
+    "num": "2",
+    "word": "according",
+    "part": "adj.",
+    "ch": "相符的；依據",
+    "lv": "1"
+  },
+  {
+    "num": "3",
+    "word": "across",
+    "part": "prep.",
+    "ch": "到對面；橫過",
+    "lv": "1"
+  },
+  {
+    "num": "4",
+    "word": "act",
+    "part": "n.",
+    "ch": "行為；動作",
+    "lv": "1"
+  },
+  {
+    "num": "5",
+    "word": "action",
+    "part": "n.",
+    "ch": "行動；行為",
+    "lv": "1"
+  },
+  {
+    "num": "6",
+    "word": "actor",
+    "part": "n.",
+    "ch": "參加者；演員",
+    "lv": "1"
+  },
+  {
+    "num": "7",
+    "word": "actress",
+    "part": "n.",
+    "ch": "女演員",
+    "lv": "1"
+  },
+  {
+    "num": "8",
+    "word": "add",
+    "part": "v.",
+    "ch": "加；增添",
+    "lv": "1"
+  },
+  {
+    "num": "9",
+    "word": "address",
+    "part": "n.",
+    "ch": "致詞；住址",
+    "lv": "1"
+  },
+  {
+    "num": "10",
+    "word": "adult",
+    "part": "n.",
+    "ch": "成人；成年人",
+    "lv": "1"
+  },
+  {
+    "num": "11",
+    "word": "afraid",
+    "part": "adj.",
+    "ch": "害怕的；畏懼的",
+    "lv": "1"
+  },
+  {
+    "num": "12",
+    "word": "age",
+    "part": "v.",
+    "ch": "變老；使酒的味道變醇",
+    "lv": "1"
+  },
+  {
+    "num": "13",
+    "word": "agree",
+    "part": "v.",
+    "ch": "意見一致；贊成",
+    "lv": "1"
+  },
+  {
+    "num": "14",
+    "word": "agreement",
+    "part": "n.",
+    "ch": "協定；同意",
+    "lv": "1"
+  },
+  {
+    "num": "15",
+    "word": "airplane",
+    "part": "n.",
+    "ch": "飛機",
+    "lv": "1"
+  },
+  {
+    "num": "16",
+    "word": "allow",
+    "part": "v.",
+    "ch": "允許；准許",
+    "lv": "1"
+  },
+  {
+    "num": "17",
+    "word": "alone",
+    "part": "adv.",
+    "ch": "獨自地；單獨地",
+    "lv": "1"
+  },
+  {
+    "num": "18",
+    "word": "anger",
+    "part": "n.",
+    "ch": "忿怒；發怒",
+    "lv": "1"
+  },
+  {
+    "num": "19",
+    "word": "angry",
+    "part": "adj.",
+    "ch": "生氣的；惱怒的(at",
+    "lv": "1"
+  },
+  {
+    "num": "20",
+    "word": "appear",
+    "part": "v.",
+    "ch": "出現；似乎",
+    "lv": "1"
+  },
+  {
+    "num": "21",
+    "word": "area",
+    "part": "n.",
+    "ch": "地區；領域",
+    "lv": "1"
+  },
+  {
+    "num": "22",
+    "word": "arm",
+    "part": "n.",
+    "ch": "手臂",
+    "lv": "1"
+  },
+  {
+    "num": "23",
+    "word": "army",
+    "part": "n.",
+    "ch": "軍隊",
+    "lv": "1"
+  },
+  {
+    "num": "24",
+    "word": "art",
+    "part": "n.",
+    "ch": "藝術；技巧",
+    "lv": "1"
+  },
+  {
+    "num": "25",
+    "word": "band",
+    "part": "n.",
+    "ch": "樂隊；條狀物",
+    "lv": "1"
+  },
+  {
+    "num": "26",
+    "word": "base",
+    "part": "n.",
+    "ch": "根基；底部",
+    "lv": "1"
+  },
+  {
+    "num": "27",
+    "word": "basic",
+    "part": "adj.",
+    "ch": "基本的；基礎的",
+    "lv": "1"
+  },
+  {
+    "num": "28",
+    "word": "bathe",
+    "part": "v.",
+    "ch": "洗澡；使沈浸其中",
+    "lv": "1"
+  },
+  {
+    "num": "29",
+    "word": "beach",
+    "part": "n.",
+    "ch": "海濱；海灘",
+    "lv": "1"
+  },
+  {
+    "num": "30",
+    "word": "beat",
+    "part": "n.",
+    "ch": "節奏",
+    "lv": "1"
+  },
+  {
+    "num": "31",
+    "word": "beauty",
+    "part": "n.",
+    "ch": "美的事物；美麗",
+    "lv": "1"
+  },
+  {
+    "num": "32",
+    "word": "beginning",
+    "part": "n.",
+    "ch": "開始；起初",
+    "lv": "1"
+  },
+  {
+    "num": "33",
+    "word": "belong",
+    "part": "v.",
+    "ch": "屬於；適合",
+    "lv": "1"
+  },
+  {
+    "num": "34",
+    "word": "believe",
+    "part": "v.",
+    "ch": "相信；認為",
+    "lv": "1"
+  },
+  {
+    "num": "35",
+    "word": "below",
+    "part": "prep.",
+    "ch": "在…下方；在…以下",
+    "lv": "1"
+  },
+  {
+    "num": "36",
+    "word": "birth",
+    "part": "n.",
+    "ch": "出生",
+    "lv": "1"
+  },
+  {
+    "num": "37",
+    "word": "bite",
+    "part": "v.",
+    "ch": "咬住；咬上",
+    "lv": "1"
+  },
+  {
+    "num": "38",
+    "word": "block",
+    "part": "n.",
+    "ch": "一塊；片",
+    "lv": "1"
+  },
+  {
+    "num": "39",
+    "word": "blood",
+    "part": "n.",
+    "ch": "血液",
+    "lv": "1"
+  },
+  {
+    "num": "40",
+    "word": "blow",
+    "part": "v.",
+    "ch": "吹；吹動",
+    "lv": "1"
+  },
+  {
+    "num": "41",
+    "word": "bone",
+    "part": "n.",
+    "ch": "骨；骨頭",
+    "lv": "1"
+  },
+  {
+    "num": "42",
+    "word": "bottom",
+    "part": "n.",
+    "ch": "底部；基部",
+    "lv": "1"
+  },
+  {
+    "num": "43",
+    "word": "brave",
+    "part": "adj.",
+    "ch": "勇敢的；英勇的",
+    "lv": "1"
+  },
+  {
+    "num": "44",
+    "word": "bread",
+    "part": "n.",
+    "ch": "麵包；生計",
+    "lv": "1"
+  },
+  {
+    "num": "45",
+    "word": "break",
+    "part": "v.",
+    "ch": "破裂；違反",
+    "lv": "1"
+  },
+  {
+    "num": "46",
+    "word": "bridge",
+    "part": "n.",
+    "ch": "橋；橋梁",
+    "lv": "1"
+  },
+  {
+    "num": "47",
+    "word": "bright",
+    "part": "adj.",
+    "ch": "光亮的；聰明的",
+    "lv": "1"
+  },
+  {
+    "num": "48",
+    "word": "build",
+    "part": "v.",
+    "ch": "建造；創立",
+    "lv": "1"
+  },
+  {
+    "num": "49",
+    "word": "building",
+    "part": "n.",
+    "ch": "建築物；樓房",
+    "lv": "1"
+  },
+  {
+    "num": "50",
+    "word": "cage",
+    "part": "n.",
+    "ch": "鳥籠",
+    "lv": "1"
+  },
+  {
+    "num": "51",
+    "word": "call",
+    "part": "v.",
+    "ch": "打電話；稱呼",
+    "lv": "1"
+  },
+  {
+    "num": "52",
+    "word": "camera",
+    "part": "n.",
+    "ch": "照相機",
+    "lv": "1"
+  },
+  {
+    "num": "53",
+    "word": "camp",
+    "part": "v.",
+    "ch": "露營",
+    "lv": "1"
+  },
+  {
+    "num": "54",
+    "word": "care",
+    "part": "n.",
+    "ch": "謹慎；照顧",
+    "lv": "1"
+  },
+  {
+    "num": "55",
+    "word": "careless",
+    "part": "adj.",
+    "ch": "粗心的；不小心的",
+    "lv": "1"
+  },
+  {
+    "num": "56",
+    "word": "careful",
+    "part": "adj.",
+    "ch": "小心的；慎重的",
+    "lv": "1"
+  },
+  {
+    "num": "57",
+    "word": "carefully",
+    "part": "adv.",
+    "ch": "小心地；注意地",
+    "lv": "1"
+  },
+  {
+    "num": "58",
+    "word": "carry",
+    "part": "v.",
+    "ch": "運送；攜帶",
+    "lv": "1"
+  },
+  {
+    "num": "59",
+    "word": "case",
+    "part": "n.",
+    "ch": "例子；案子",
+    "lv": "1"
+  },
+  {
+    "num": "60",
+    "word": "cause",
+    "part": "n.",
+    "ch": "原因",
+    "lv": "1"
+  },
+  {
+    "num": "61",
+    "word": "center",
+    "part": "n.",
+    "ch": "中心；焦點",
+    "lv": "1"
+  },
+  {
+    "num": "62",
+    "word": "certain",
+    "part": "adj.",
+    "ch": "確信；有把握的",
+    "lv": "1"
+  },
+  {
+    "num": "63",
+    "word": "chair",
+    "part": "n.",
+    "ch": "椅子；席位",
+    "lv": "1"
+  },
+  {
+    "num": "64",
+    "word": "chance",
+    "part": "n.",
+    "ch": "機會；時機",
+    "lv": "1"
+  },
+  {
+    "num": "65",
+    "word": "chart",
+    "part": "n.",
+    "ch": "航海圖；圖表",
+    "lv": "1"
+  },
+  {
+    "num": "66",
+    "word": "chase",
+    "part": "v.",
+    "ch": "追捕；驅逐",
+    "lv": "1"
+  },
+  {
+    "num": "67",
+    "word": "check",
+    "part": "v.",
+    "ch": "停止；檢查",
+    "lv": "1"
+  },
+  {
+    "num": "68",
+    "word": "chief",
+    "part": "adj.",
+    "ch": "主要的",
+    "lv": "1"
+  },
+  {
+    "num": "69",
+    "word": "chiefly",
+    "part": "adv.",
+    "ch": "第一；主要",
+    "lv": "1"
+  },
+  {
+    "num": "70",
+    "word": "church",
+    "part": "n.",
+    "ch": "教堂；聖堂",
+    "lv": "1"
+  },
+  {
+    "num": "71",
+    "word": "cinema",
+    "part": "n.",
+    "ch": "電影院",
+    "lv": "1"
+  },
+  {
+    "num": "72",
+    "word": "clean",
+    "part": "adj.",
+    "ch": "清潔的；未污染的",
+    "lv": "1"
+  },
+  {
+    "num": "73",
+    "word": "clear",
+    "part": "adj.",
+    "ch": "晴朗的；清楚的",
+    "lv": "1"
+  },
+  {
+    "num": "74",
+    "word": "climb",
+    "part": "v.",
+    "ch": "登上；攀爬",
+    "lv": "1"
+  },
+  {
+    "num": "75",
+    "word": "closely",
+    "part": "adv.",
+    "ch": "接近地；緊密地",
+    "lv": "1"
+  },
+  {
+    "num": "76",
+    "word": "coast",
+    "part": "n.",
+    "ch": "海岸；沿岸",
+    "lv": "1"
+  },
+  {
+    "num": "77",
+    "word": "common",
+    "part": "adj.",
+    "ch": "常見的；普通的",
+    "lv": "1"
+  },
+  {
+    "num": "78",
+    "word": "commonly",
+    "part": "adv.",
+    "ch": "一般地；普通地",
+    "lv": "1"
+  },
+  {
+    "num": "79",
+    "word": "continue",
+    "part": "v.",
+    "ch": "繼續，持續",
+    "lv": "1"
+  },
+  {
+    "num": "80",
+    "word": "cool",
+    "part": "v.",
+    "ch": "使冷卻；使情緒平靜下來",
+    "lv": "1"
+  },
+  {
+    "num": "81",
+    "word": "correct",
+    "part": "adj.",
+    "ch": "正確的；適當的",
+    "lv": "1"
+  },
+  {
+    "num": "82",
+    "word": "cost",
+    "part": "n.",
+    "ch": "成本；價格",
+    "lv": "1"
+  },
+  {
+    "num": "83",
+    "word": "count",
+    "part": "v.",
+    "ch": "數；重要",
+    "lv": "1"
+  },
+  {
+    "num": "84",
+    "word": "county",
+    "part": "n.",
+    "ch": "郡；縣",
+    "lv": "1"
+  },
+  {
+    "num": "85",
+    "word": "country",
+    "part": "n.",
+    "ch": "國家；國土",
+    "lv": "1"
+  },
+  {
+    "num": "86",
+    "word": "course",
+    "part": "n.",
+    "ch": "課程；路線",
+    "lv": "1"
+  },
+  {
+    "num": "87",
+    "word": "cover",
+    "part": "v.",
+    "ch": "遮；蓋",
+    "lv": "1"
+  },
+  {
+    "num": "88",
+    "word": "cut",
+    "part": "v.",
+    "ch": "切；割",
+    "lv": "1"
+  },
+  {
+    "num": "89",
+    "word": "danger",
+    "part": "n.",
+    "ch": "危險；可成為危險的原因",
+    "lv": "1"
+  },
+  {
+    "num": "90",
+    "word": "dark",
+    "part": "adj.",
+    "ch": "暗的；深的",
+    "lv": "1"
+  },
+  {
+    "num": "91",
+    "word": "darkness",
+    "part": "n.",
+    "ch": "黑暗",
+    "lv": "1"
+  },
+  {
+    "num": "92",
+    "word": "date",
+    "part": "n.",
+    "ch": "日期；年代",
+    "lv": "1"
+  },
+  {
+    "num": "93",
+    "word": "daughter",
+    "part": "n.",
+    "ch": "女兒",
+    "lv": "1"
+  },
+  {
+    "num": "94",
+    "word": "dead",
+    "part": "adj.",
+    "ch": "已故的；死亡的",
+    "lv": "1"
+  },
+  {
+    "num": "95",
+    "word": "deal",
+    "part": "n.",
+    "ch": "交易；數量",
+    "lv": "1"
+  },
+  {
+    "num": "96",
+    "word": "death",
+    "part": "n.",
+    "ch": "死亡",
+    "lv": "1"
+  },
+  {
+    "num": "97",
+    "word": "decide",
+    "part": "v.",
+    "ch": "決心；決定",
+    "lv": "1"
+  },
+  {
+    "num": "98",
+    "word": "deep",
+    "part": "adj.",
+    "ch": "深的；深長的",
+    "lv": "1"
+  },
+  {
+    "num": "99",
+    "word": "deeper",
+    "part": "adj.",
+    "ch": "更深的",
+    "lv": "1"
+  },
+  {
+    "num": "100",
+    "word": "deeply",
+    "part": "adv.",
+    "ch": "深深地",
+    "lv": "1"
+  },
+  {
+    "num": "101",
+    "word": "die",
+    "part": "v.",
+    "ch": "死亡；喪生",
+    "lv": "1"
+  },
+  {
+    "num": "102",
+    "word": "different",
+    "part": "adj.",
+    "ch": "不同的；各種的",
+    "lv": "1"
+  },
+  {
+    "num": "103",
+    "word": "differently",
+    "part": "adv.",
+    "ch": "不同地",
+    "lv": "1"
+  },
+  {
+    "num": "104",
+    "word": "difficult",
+    "part": "adj.",
+    "ch": "困難的；艱難的",
+    "lv": "1"
+  },
+  {
+    "num": "105",
+    "word": "dig",
+    "part": "v.",
+    "ch": "挖掘",
+    "lv": "1"
+  },
+  {
+    "num": "106",
+    "word": "direct",
+    "part": "v.",
+    "ch": "引領；指揮",
+    "lv": "1"
+  },
+  {
+    "num": "107",
+    "word": "directly",
+    "part": "adv.",
+    "ch": "直接地；立刻",
+    "lv": "1"
+  },
+  {
+    "num": "108",
+    "word": "discover",
+    "part": "v.",
+    "ch": "發現；找到",
+    "lv": "1"
+  },
+  {
+    "num": "109",
+    "word": "downstairs",
+    "part": "adv.",
+    "ch": "向〈在〉樓下",
+    "lv": "1"
+  },
+  {
+    "num": "110",
+    "word": "dozen",
+    "part": "n.",
+    "ch": "打；十二(個)",
+    "lv": "1"
+  },
+  {
+    "num": "111",
+    "word": "dream",
+    "part": "v.",
+    "ch": "作夢",
+    "lv": "1"
+  },
+  {
+    "num": "112",
+    "word": "eagle",
+    "part": "n.",
+    "ch": "鷹；鷲",
+    "lv": "1"
+  },
+  {
+    "num": "113",
+    "word": "earth",
+    "part": "n.",
+    "ch": "地球；土壤",
+    "lv": "1"
+  },
+  {
+    "num": "114",
+    "word": "ease",
+    "part": "n.",
+    "ch": "舒適；輕鬆",
+    "lv": "1"
+  },
+  {
+    "num": "115",
+    "word": "edge",
+    "part": "n.",
+    "ch": "邊緣",
+    "lv": "1"
+  },
+  {
+    "num": "116",
+    "word": "end",
+    "part": "n.",
+    "ch": "末端；結束",
+    "lv": "1"
+  },
+  {
+    "num": "117",
+    "word": "enter",
+    "part": "v.",
+    "ch": "進入",
+    "lv": "1"
+  },
+  {
+    "num": "118",
+    "word": "equal",
+    "part": "adj.",
+    "ch": "平等的；相等的",
+    "lv": "1"
+  },
+  {
+    "num": "119",
+    "word": "equally",
+    "part": "adv.",
+    "ch": "相同地；同樣地",
+    "lv": "1"
+  },
+  {
+    "num": "120",
+    "word": "even",
+    "part": "v.",
+    "ch": "使相等；使穩定下來",
+    "lv": "1"
+  },
+  {
+    "num": "121",
+    "word": "examination",
+    "part": "n.",
+    "ch": "考試；檢查",
+    "lv": "1"
+  },
+  {
+    "num": "122",
+    "word": "examine",
+    "part": "v.",
+    "ch": "調查；診察",
+    "lv": "1"
+  },
+  {
+    "num": "123",
+    "word": "example",
+    "part": "n.",
+    "ch": "例子；榜樣",
+    "lv": "1"
+  },
+  {
+    "num": "124",
+    "word": "except",
+    "part": "prep.",
+    "ch": "除了…以外",
+    "lv": "1"
+  },
+  {
+    "num": "125",
+    "word": "fact",
+    "part": "n.",
+    "ch": "事實",
+    "lv": "1"
+  },
+  {
+    "num": "126",
+    "word": "factory",
+    "part": "n.",
+    "ch": "工廠；製造廠",
+    "lv": "1"
+  },
+  {
+    "num": "127",
+    "word": "FALSE",
+    "part": "adj.",
+    "ch": "錯誤的；不正確的",
+    "lv": "1"
+  },
+  {
+    "num": "128",
+    "word": "fan",
+    "part": "n.",
+    "ch": "風扇；…迷",
+    "lv": "1"
+  },
+  {
+    "num": "129",
+    "word": "fear",
+    "part": "n.",
+    "ch": "恐懼；害怕",
+    "lv": "1"
+  },
+  {
+    "num": "130",
+    "word": "feed",
+    "part": "v.",
+    "ch": "餵",
+    "lv": "1"
+  },
+  {
+    "num": "131",
+    "word": "feeling",
+    "part": "n.",
+    "ch": "看法；感覺",
+    "lv": "1"
+  },
+  {
+    "num": "132",
+    "word": "fight",
+    "part": "v.",
+    "ch": "打架；奮戰",
+    "lv": "1"
+  },
+  {
+    "num": "133",
+    "word": "fill",
+    "part": "v.",
+    "ch": "裝滿；填滿",
+    "lv": "1"
+  },
+  {
+    "num": "134",
+    "word": "final",
+    "part": "adj.",
+    "ch": "最終的；最後的",
+    "lv": "1"
+  },
+  {
+    "num": "135",
+    "word": "finding",
+    "part": "n.",
+    "ch": "發現；決定",
+    "lv": "1"
+  },
+  {
+    "num": "136",
+    "word": "fire",
+    "part": "n.",
+    "ch": "火；火災",
+    "lv": "1"
+  },
+  {
+    "num": "137",
+    "word": "fog",
+    "part": "n.",
+    "ch": "霧；困惑",
+    "lv": "1"
+  },
+  {
+    "num": "138",
+    "word": "follow",
+    "part": "v.",
+    "ch": "接著…而來；遵循",
+    "lv": "1"
+  },
+  {
+    "num": "139",
+    "word": "force",
+    "part": "n.",
+    "ch": "力量；暴力",
+    "lv": "1"
+  },
+  {
+    "num": "140",
+    "word": "foreign",
+    "part": "adj.",
+    "ch": "外國的",
+    "lv": "1"
+  },
+  {
+    "num": "141",
+    "word": "forest",
+    "part": "n.",
+    "ch": "森林",
+    "lv": "1"
+  },
+  {
+    "num": "142",
+    "word": "forget",
+    "part": "v.",
+    "ch": "忘；忽略",
+    "lv": "1"
+  },
+  {
+    "num": "143",
+    "word": "free",
+    "part": "adj.",
+    "ch": "空閒的；免費的",
+    "lv": "1"
+  },
+  {
+    "num": "144",
+    "word": "freely",
+    "part": "adv.",
+    "ch": "自由地；隨意地",
+    "lv": "1"
+  },
+  {
+    "num": "145",
+    "word": "fresh",
+    "part": "adj.",
+    "ch": "新鮮的；清新的",
+    "lv": "1"
+  },
+  {
+    "num": "146",
+    "word": "front",
+    "part": "n.",
+    "ch": "前面",
+    "lv": "1"
+  },
+  {
+    "num": "147",
+    "word": "fully",
+    "part": "adv.",
+    "ch": "十分地；完全地",
+    "lv": "1"
+  },
+  {
+    "num": "148",
+    "word": "fun",
+    "part": "n.",
+    "ch": "樂趣",
+    "lv": "1"
+  },
+  {
+    "num": "149",
+    "word": "funny",
+    "part": "adj.",
+    "ch": "滑稽的；有趣",
+    "lv": "1"
+  },
+  {
+    "num": "150",
+    "word": "gas",
+    "part": "n.",
+    "ch": "瓦斯；燃料",
+    "lv": "1"
+  },
+  {
+    "num": "151",
+    "word": "grand",
+    "part": "adj.",
+    "ch": "偉大的；豪華的",
+    "lv": "1"
+  },
+  {
+    "num": "152",
+    "word": "gray",
+    "part": "adj.",
+    "ch": "灰色的；面色蒼白的",
+    "lv": "1"
+  },
+  {
+    "num": "153",
+    "word": "ground",
+    "part": "n.",
+    "ch": "土地；地面",
+    "lv": "1"
+  },
+  {
+    "num": "154",
+    "word": "guess",
+    "part": "v.",
+    "ch": "推測；猜測",
+    "lv": "1"
+  },
+  {
+    "num": "155",
+    "word": "guest",
+    "part": "n.",
+    "ch": "來賓；客人",
+    "lv": "1"
+  },
+  {
+    "num": "156",
+    "word": "guide",
+    "part": "v.",
+    "ch": "指導；引領",
+    "lv": "1"
+  },
+  {
+    "num": "157",
+    "word": "happen",
+    "part": "v.",
+    "ch": "發生；碰巧",
+    "lv": "1"
+  },
+  {
+    "num": "158",
+    "word": "health",
+    "part": "n.",
+    "ch": "健康；衛生",
+    "lv": "1"
+  },
+  {
+    "num": "159",
+    "word": "heavy",
+    "part": "adj.",
+    "ch": "厚重的；繁忙的",
+    "lv": "1"
+  },
+  {
+    "num": "160",
+    "word": "history",
+    "part": "n.",
+    "ch": "歷史；由來",
+    "lv": "1"
+  },
+  {
+    "num": "161",
+    "word": "hit",
+    "part": "v.",
+    "ch": "撞；打擊",
+    "lv": "1"
+  },
+  {
+    "num": "162",
+    "word": "hole",
+    "part": "n.",
+    "ch": "破洞；巢穴",
+    "lv": "1"
+  },
+  {
+    "num": "163",
+    "word": "huge",
+    "part": "adj.",
+    "ch": "巨大的；龐大的",
+    "lv": "1"
+  },
+  {
+    "num": "164",
+    "word": "human",
+    "part": "adj.",
+    "ch": "人的；有人性的",
+    "lv": "1"
+  },
+  {
+    "num": "165",
+    "word": "hungry",
+    "part": "adj.",
+    "ch": "飢餓的；渴望的",
+    "lv": "1"
+  },
+  {
+    "num": "166",
+    "word": "hurt",
+    "part": "v.",
+    "ch": "使＜人；身體某部份＞受傷；弄痛",
+    "lv": "1"
+  },
+  {
+    "num": "167",
+    "word": "idea",
+    "part": "n.",
+    "ch": "主意；見解",
+    "lv": "1"
+  },
+  {
+    "num": "168",
+    "word": "important",
+    "part": "adj.",
+    "ch": "重要的；地位高的",
+    "lv": "1"
+  },
+  {
+    "num": "169",
+    "word": "interest",
+    "part": "n.",
+    "ch": "興趣；利息",
+    "lv": "1"
+  },
+  {
+    "num": "170",
+    "word": "interested",
+    "part": "adj.",
+    "ch": "感興趣的；有濃厚興趣的",
+    "lv": "1"
+  },
+  {
+    "num": "171",
+    "word": "interesting",
+    "part": "adj.",
+    "ch": "引起興趣的；有趣的",
+    "lv": "1"
+  },
+  {
+    "num": "172",
+    "word": "jam",
+    "part": "n.",
+    "ch": "果醬；阻塞",
+    "lv": "1"
+  },
+  {
+    "num": "173",
+    "word": "join",
+    "part": "v.",
+    "ch": "加入；連接",
+    "lv": "1"
+  },
+  {
+    "num": "174",
+    "word": "joke",
+    "part": "n.",
+    "ch": "笑話；玩笑",
+    "lv": "1"
+  },
+  {
+    "num": "175",
+    "word": "kick",
+    "part": "v.",
+    "ch": "踢",
+    "lv": "1"
+  },
+  {
+    "num": "176",
+    "word": "knife",
+    "part": "n.",
+    "ch": "菜刀；餐刀",
+    "lv": "1"
+  },
+  {
+    "num": "177",
+    "word": "unknown",
+    "part": "adj.",
+    "ch": "不出名；默默無聞",
+    "lv": "1"
+  },
+  {
+    "num": "178",
+    "word": "lack",
+    "part": "n.",
+    "ch": "缺乏；不足",
+    "lv": "1"
+  },
+  {
+    "num": "179",
+    "word": "lamb",
+    "part": "n.",
+    "ch": "羔羊(肉)",
+    "lv": "1"
+  },
+  {
+    "num": "180",
+    "word": "lamp",
+    "part": "n.",
+    "ch": "電燈",
+    "lv": "1"
+  },
+  {
+    "num": "181",
+    "word": "land",
+    "part": "n.",
+    "ch": "土地；國家",
+    "lv": "1"
+  },
+  {
+    "num": "182",
+    "word": "laugh",
+    "part": "v.",
+    "ch": "嘲笑(at)；發笑",
+    "lv": "1"
+  },
+  {
+    "num": "183",
+    "word": "law",
+    "part": "n.",
+    "ch": "法律；法學",
+    "lv": "1"
+  },
+  {
+    "num": "184",
+    "word": "lay",
+    "part": "v.",
+    "ch": "放置；雞生蛋",
+    "lv": "1"
+  },
+  {
+    "num": "185",
+    "word": "lead",
+    "part": "v.",
+    "ch": "引導；過某種生活",
+    "lv": "1"
+  },
+  {
+    "num": "186",
+    "word": "leader",
+    "part": "n.",
+    "ch": "領導者；首領",
+    "lv": "1"
+  },
+  {
+    "num": "187",
+    "word": "leave",
+    "part": "v.",
+    "ch": "離開；留下",
+    "lv": "1"
+  },
+  {
+    "num": "188",
+    "word": "level",
+    "part": "n.",
+    "ch": "水平面；水準",
+    "lv": "1"
+  },
+  {
+    "num": "189",
+    "word": "lie",
+    "part": "v.",
+    "ch": "躺；位在；說謊",
+    "lv": "1"
+  },
+  {
+    "num": "190",
+    "word": "light",
+    "part": "n.",
+    "ch": "點火物；燈",
+    "lv": "1"
+  },
+  {
+    "num": "191",
+    "word": "lightly",
+    "part": "adv.",
+    "ch": "輕輕地；輕視地",
+    "lv": "1"
+  },
+  {
+    "num": "192",
+    "word": "likely",
+    "part": "adj.",
+    "ch": "可能的；似真的",
+    "lv": "1"
+  },
+  {
+    "num": "193",
+    "word": "line",
+    "part": "n.",
+    "ch": "線；繩索",
+    "lv": "1"
+  },
+  {
+    "num": "194",
+    "word": "list",
+    "part": "n.",
+    "ch": "清單；列清單",
+    "lv": "1"
+  },
+  {
+    "num": "195",
+    "word": "machine",
+    "part": "n.",
+    "ch": "機器",
+    "lv": "1"
+  },
+  {
+    "num": "196",
+    "word": "mail",
+    "part": "n.",
+    "ch": "郵件；信件",
+    "lv": "1"
+  },
+  {
+    "num": "197",
+    "word": "mailman",
+    "part": "n.",
+    "ch": "郵差",
+    "lv": "1"
+  },
+  {
+    "num": "198",
+    "word": "market",
+    "part": "n.",
+    "ch": "市集；銷路",
+    "lv": "1"
+  },
+  {
+    "num": "199",
+    "word": "marry",
+    "part": "v.",
+    "ch": "結婚；使…結婚",
+    "lv": "1"
+  },
+  {
+    "num": "200",
+    "word": "married",
+    "part": "adj.",
+    "ch": "結婚的；婚姻的",
+    "lv": "1"
+  },
+  {
+    "num": "201",
+    "word": "master",
+    "part": "n.",
+    "ch": "主人",
+    "lv": "1"
+  },
+  {
+    "num": "202",
+    "word": "match",
+    "part": "v.",
+    "ch": "相配；與…相匹敵",
+    "lv": "1"
+  },
+  {
+    "num": "203",
+    "word": "matter",
+    "part": "n.",
+    "ch": "事情；有問題",
+    "lv": "1"
+  },
+  {
+    "num": "204",
+    "word": "mean",
+    "part": "v.",
+    "ch": "意謂(…意思)；意欲",
+    "lv": "1"
+  },
+  {
+    "num": "205",
+    "word": "meet",
+    "part": "v.",
+    "ch": "遇到；與…會面",
+    "lv": "1"
+  },
+  {
+    "num": "206",
+    "word": "middle",
+    "part": "adj.",
+    "ch": "居中的；中等的",
+    "lv": "1"
+  },
+  {
+    "num": "207",
+    "word": "mind",
+    "part": "n.",
+    "ch": "心思注意力；想法",
+    "lv": "1"
+  },
+  {
+    "num": "208",
+    "word": "miss",
+    "part": "v.",
+    "ch": "?打中；錯過",
+    "lv": "1"
+  },
+  {
+    "num": "209",
+    "word": "mistake",
+    "part": "n.",
+    "ch": "錯誤",
+    "lv": "1"
+  },
+  {
+    "num": "210",
+    "word": "moment",
+    "part": "n.",
+    "ch": "一會兒；片刻",
+    "lv": "1"
+  },
+  {
+    "num": "211",
+    "word": "mountain",
+    "part": "n.",
+    "ch": "山；山脈",
+    "lv": "1"
+  },
+  {
+    "num": "212",
+    "word": "movement",
+    "part": "n.",
+    "ch": "動作；移動",
+    "lv": "1"
+  },
+  {
+    "num": "213",
+    "word": "mud",
+    "part": "n.",
+    "ch": "泥土；泥巴",
+    "lv": "1"
+  },
+  {
+    "num": "214",
+    "word": "music",
+    "part": "n.",
+    "ch": "音樂；樂曲",
+    "lv": "1"
+  },
+  {
+    "num": "215",
+    "word": "nation",
+    "part": "n.",
+    "ch": "國家；國民",
+    "lv": "1"
+  },
+  {
+    "num": "216",
+    "word": "nature",
+    "part": "n.",
+    "ch": "自然(界)；本性",
+    "lv": "1"
+  },
+  {
+    "num": "217",
+    "word": "newly",
+    "part": "adv.",
+    "ch": "最近；(重)新地",
+    "lv": "1"
+  },
+  {
+    "num": "218",
+    "word": "newspaper",
+    "part": "n.",
+    "ch": "報紙；報社",
+    "lv": "1"
+  },
+  {
+    "num": "219",
+    "word": "note",
+    "part": "n.",
+    "ch": "備忘錄；筆記",
+    "lv": "1"
+  },
+  {
+    "num": "220",
+    "word": "notice",
+    "part": "n.",
+    "ch": "預先通知；注意到",
+    "lv": "1"
+  },
+  {
+    "num": "221",
+    "word": "number",
+    "part": "n.",
+    "ch": "數字；號碼",
+    "lv": "1"
+  },
+  {
+    "num": "222",
+    "word": "office",
+    "part": "n.",
+    "ch": "辦公室",
+    "lv": "1"
+  },
+  {
+    "num": "223",
+    "word": "officer",
+    "part": "n.",
+    "ch": "警官；公務員",
+    "lv": "1"
+  },
+  {
+    "num": "224",
+    "word": "opening",
+    "part": "n.",
+    "ch": "開始；開啟",
+    "lv": "1"
+  },
+  {
+    "num": "225",
+    "word": "openly",
+    "part": "adv.",
+    "ch": "公開地；公然地",
+    "lv": "1"
+  },
+  {
+    "num": "226",
+    "word": "order",
+    "part": "n.",
+    "ch": "順序；整理",
+    "lv": "1"
+  },
+  {
+    "num": "227",
+    "word": "outside",
+    "part": "n.",
+    "ch": "外部；外面",
+    "lv": "1"
+  },
+  {
+    "num": "228",
+    "word": "own",
+    "part": "v.",
+    "ch": "持有；擁有",
+    "lv": "1"
+  },
+  {
+    "num": "229",
+    "word": "paint",
+    "part": "v.",
+    "ch": "塗上油漆",
+    "lv": "1"
+  },
+  {
+    "num": "230",
+    "word": "pants",
+    "part": "n.",
+    "ch": "褲子",
+    "lv": "1"
+  },
+  {
+    "num": "231",
+    "word": "pass",
+    "part": "v.",
+    "ch": "時間經過；傳遞",
+    "lv": "1"
+  },
+  {
+    "num": "232",
+    "word": "perhaps",
+    "part": "adv.",
+    "ch": "可能；也許",
+    "lv": "1"
+  },
+  {
+    "num": "233",
+    "word": "picture",
+    "part": "n.",
+    "ch": "圖畫；照片",
+    "lv": "1"
+  },
+  {
+    "num": "234",
+    "word": "place",
+    "part": "n.",
+    "ch": "地點；地區(指某個城鎮，國家，建築物等)",
+    "lv": "1"
+  },
+  {
+    "num": "235",
+    "word": "plan",
+    "part": "n.",
+    "ch": "計劃；設計圖",
+    "lv": "1"
+  },
+  {
+    "num": "236",
+    "word": "planning",
+    "part": "n.",
+    "ch": "計劃",
+    "lv": "1"
+  },
+  {
+    "num": "237",
+    "word": "plant",
+    "part": "v.",
+    "ch": "種植",
+    "lv": "1"
+  },
+  {
+    "num": "238",
+    "word": "playground",
+    "part": "n.",
+    "ch": "(學校或公園的)運動場；遊樂場",
+    "lv": "1"
+  },
+  {
+    "num": "239",
+    "word": "please",
+    "part": "v.",
+    "ch": "使快樂；想要",
+    "lv": "1"
+  },
+  {
+    "num": "240",
+    "word": "pleased",
+    "part": "adj.",
+    "ch": "高興的；滿意的",
+    "lv": "1"
+  },
+  {
+    "num": "241",
+    "word": "pocket",
+    "part": "n.",
+    "ch": "口袋；金錢",
+    "lv": "1"
+  },
+  {
+    "num": "242",
+    "word": "poetry",
+    "part": "n.",
+    "ch": "詩",
+    "lv": "1"
+  },
+  {
+    "num": "243",
+    "word": "point",
+    "part": "n.",
+    "ch": "要點；特點",
+    "lv": "1"
+  },
+  {
+    "num": "244",
+    "word": "police",
+    "part": "n.",
+    "ch": "警方",
+    "lv": "1"
+  },
+  {
+    "num": "245",
+    "word": "policeman",
+    "part": "n.",
+    "ch": "警察；警員",
+    "lv": "1"
+  },
+  {
+    "num": "246",
+    "word": "pool",
+    "part": "n.",
+    "ch": "水坑；水池",
+    "lv": "1"
+  },
+  {
+    "num": "247",
+    "word": "position",
+    "part": "n.",
+    "ch": "位置；職位",
+    "lv": "1"
+  },
+  {
+    "num": "248",
+    "word": "possible",
+    "part": "adj.",
+    "ch": "可能的；可能發生的",
+    "lv": "1"
+  },
+  {
+    "num": "249",
+    "word": "impossible",
+    "part": "adj.",
+    "ch": "無法完成的；不可能的",
+    "lv": "1"
+  },
+  {
+    "num": "250",
+    "word": "possibly",
+    "part": "adv.",
+    "ch": "或許；說不定",
+    "lv": "1"
+  },
+  {
+    "num": "251",
+    "word": "power",
+    "part": "n.",
+    "ch": "影響力；能力",
+    "lv": "1"
+  },
+  {
+    "num": "252",
+    "word": "practice",
+    "part": "n.",
+    "ch": "練習；實施",
+    "lv": "1"
+  },
+  {
+    "num": "253",
+    "word": "prepare",
+    "part": "v.",
+    "ch": "準備",
+    "lv": "1"
+  },
+  {
+    "num": "254",
+    "word": "pretty",
+    "part": "adj.",
+    "ch": "漂亮的；美妙的",
+    "lv": "1"
+  },
+  {
+    "num": "255",
+    "word": "price",
+    "part": "n.",
+    "ch": "價格；代價",
+    "lv": "1"
+  },
+  {
+    "num": "256",
+    "word": "print",
+    "part": "v.",
+    "ch": "印刷；列印",
+    "lv": "1"
+  },
+  {
+    "num": "257",
+    "word": "problem",
+    "part": "n.",
+    "ch": "問題",
+    "lv": "1"
+  },
+  {
+    "num": "258",
+    "word": "prove",
+    "part": "v.",
+    "ch": "證明，證實",
+    "lv": "1"
+  },
+  {
+    "num": "259",
+    "word": "public",
+    "part": "adj.",
+    "ch": "公立的；公開的",
+    "lv": "1"
+  },
+  {
+    "num": "260",
+    "word": "publicly",
+    "part": "adv.",
+    "ch": "公開地",
+    "lv": "1"
+  },
+  {
+    "num": "261",
+    "word": "pull",
+    "part": "v.",
+    "ch": "拉；拔起",
+    "lv": "1"
+  },
+  {
+    "num": "262",
+    "word": "purpose",
+    "part": "n.",
+    "ch": "目的；意圖",
+    "lv": "1"
+  },
+  {
+    "num": "263",
+    "word": "push",
+    "part": "v.",
+    "ch": "推擠；按(鈕)",
+    "lv": "1"
+  },
+  {
+    "num": "264",
+    "word": "question",
+    "part": "n.",
+    "ch": "問題；懷疑",
+    "lv": "1"
+  },
+  {
+    "num": "265",
+    "word": "quick",
+    "part": "adj.",
+    "ch": "迅速的；敏捷的",
+    "lv": "1"
+  },
+  {
+    "num": "266",
+    "word": "quickly",
+    "part": "adv.",
+    "ch": "迅速地",
+    "lv": "1"
+  },
+  {
+    "num": "267",
+    "word": "quiet",
+    "part": "adj.",
+    "ch": "安靜的；寧靜的",
+    "lv": "1"
+  },
+  {
+    "num": "268",
+    "word": "quietly",
+    "part": "adv.",
+    "ch": "安靜地；低聲地",
+    "lv": "1"
+  },
+  {
+    "num": "269",
+    "word": "quite",
+    "part": "adv.",
+    "ch": "完全；相當",
+    "lv": "1"
+  },
+  {
+    "num": "270",
+    "word": "race",
+    "part": "n.",
+    "ch": "比賽；種族",
+    "lv": "1"
+  },
+  {
+    "num": "271",
+    "word": "radio",
+    "part": "n.",
+    "ch": "收音機；無線電廣播",
+    "lv": "1"
+  },
+  {
+    "num": "272",
+    "word": "railroad",
+    "part": "n.",
+    "ch": "鐵路",
+    "lv": "1"
+  },
+  {
+    "num": "273",
+    "word": "raise",
+    "part": "v.",
+    "ch": "將(物)舉起；增加",
+    "lv": "1"
+  },
+  {
+    "num": "274",
+    "word": "reach",
+    "part": "v.",
+    "ch": "到達；伸手(取)",
+    "lv": "1"
+  },
+  {
+    "num": "275",
+    "word": "reader",
+    "part": "n.",
+    "ch": "讀者；讀本",
+    "lv": "1"
+  },
+  {
+    "num": "276",
+    "word": "real",
+    "part": "adj.",
+    "ch": "真實的；真正的",
+    "lv": "1"
+  },
+  {
+    "num": "277",
+    "word": "really",
+    "part": "adv.",
+    "ch": "非常；確實",
+    "lv": "1"
+  },
+  {
+    "num": "278",
+    "word": "reason",
+    "part": "n.",
+    "ch": "理由；原因",
+    "lv": "1"
+  },
+  {
+    "num": "279",
+    "word": "receive",
+    "part": "v.",
+    "ch": "收受；挨受",
+    "lv": "1"
+  },
+  {
+    "num": "280",
+    "word": "remember",
+    "part": "v.",
+    "ch": "記住；記得",
+    "lv": "1"
+  },
+  {
+    "num": "281",
+    "word": "report",
+    "part": "n.",
+    "ch": "報告；報導",
+    "lv": "1"
+  },
+  {
+    "num": "282",
+    "word": "rest",
+    "part": "n.",
+    "ch": "休息",
+    "lv": "1"
+  },
+  {
+    "num": "283",
+    "word": "return",
+    "part": "v.",
+    "ch": "歸還；回去",
+    "lv": "1"
+  },
+  {
+    "num": "284",
+    "word": "rider",
+    "part": "n.",
+    "ch": "騎士；騎者",
+    "lv": "1"
+  },
+  {
+    "num": "285",
+    "word": "right",
+    "part": "adj.",
+    "ch": "對的；適當的",
+    "lv": "1"
+  },
+  {
+    "num": "286",
+    "word": "rise",
+    "part": "v.",
+    "ch": "上升；站起來",
+    "lv": "1"
+  },
+  {
+    "num": "287",
+    "word": "robot",
+    "part": "n.",
+    "ch": "機器人",
+    "lv": "1"
+  },
+  {
+    "num": "288",
+    "word": "roll",
+    "part": "v.",
+    "ch": "滾動；行駛",
+    "lv": "1"
+  },
+  {
+    "num": "289",
+    "word": "root",
+    "part": "n.",
+    "ch": "植物的根；根源",
+    "lv": "1"
+  },
+  {
+    "num": "290",
+    "word": "row",
+    "part": "n.",
+    "ch": "排；划船",
+    "lv": "1"
+  },
+  {
+    "num": "291",
+    "word": "rub",
+    "part": "v.",
+    "ch": "摩擦；擦掉(擦去)",
+    "lv": "1"
+  },
+  {
+    "num": "292",
+    "word": "rule",
+    "part": "n.",
+    "ch": "法規；習慣",
+    "lv": "1"
+  },
+  {
+    "num": "293",
+    "word": "safe",
+    "part": "adj.",
+    "ch": "安全的",
+    "lv": "1"
+  },
+  {
+    "num": "294",
+    "word": "scared",
+    "part": "adj.",
+    "ch": "受驚嚇的；害怕的",
+    "lv": "1"
+  },
+  {
+    "num": "295",
+    "word": "scene",
+    "part": "n.",
+    "ch": "風景；出事現場",
+    "lv": "1"
+  },
+  {
+    "num": "296",
+    "word": "seat",
+    "part": "v.",
+    "ch": "使入座；有…人的座席",
+    "lv": "1"
+  },
+  {
+    "num": "297",
+    "word": "seed",
+    "part": "n.",
+    "ch": "種子；根源",
+    "lv": "1"
+  },
+  {
+    "num": "298",
+    "word": "seem",
+    "part": "v.",
+    "ch": "看似；似乎",
+    "lv": "1"
+  },
+  {
+    "num": "299",
+    "word": "selfish",
+    "part": "adj.",
+    "ch": "自私的",
+    "lv": "1"
+  },
+  {
+    "num": "300",
+    "word": "sense",
+    "part": "n.",
+    "ch": "感覺；意義",
+    "lv": "1"
+  },
+  {
+    "num": "301",
+    "word": "sentence",
+    "part": "n.",
+    "ch": "句子；判決",
+    "lv": "1"
+  },
+  {
+    "num": "302",
+    "word": "serve",
+    "part": "v.",
+    "ch": "招呼(顧客)；上菜",
+    "lv": "1"
+  },
+  {
+    "num": "303",
+    "word": "service",
+    "part": "n.",
+    "ch": "(旅館等的)服務；貢獻",
+    "lv": "1"
+  },
+  {
+    "num": "304",
+    "word": "set",
+    "part": "v.",
+    "ch": "安置；安放",
+    "lv": "1"
+  },
+  {
+    "num": "305",
+    "word": "shake",
+    "part": "v.",
+    "ch": "搖動；發抖",
+    "lv": "1"
+  },
+  {
+    "num": "306",
+    "word": "shape",
+    "part": "n.",
+    "ch": "形狀；(健康等的)狀況",
+    "lv": "1"
+  },
+  {
+    "num": "307",
+    "word": "sharp",
+    "part": "adj.",
+    "ch": "尖銳的；急轉的",
+    "lv": "1"
+  },
+  {
+    "num": "308",
+    "word": "sharply",
+    "part": "adv.",
+    "ch": "嚴厲地；突然地",
+    "lv": "1"
+  },
+  {
+    "num": "309",
+    "word": "sheet",
+    "part": "n.",
+    "ch": "床單；薄片",
+    "lv": "1"
+  },
+  {
+    "num": "310",
+    "word": "shine",
+    "part": "v.",
+    "ch": "發光照耀；(表面)發亮",
+    "lv": "1"
+  },
+  {
+    "num": "311",
+    "word": "ship",
+    "part": "v.",
+    "ch": "用船運；(空、路)發送",
+    "lv": "1"
+  },
+  {
+    "num": "312",
+    "word": "shop",
+    "part": "n.",
+    "ch": "商店；修理部",
+    "lv": "1"
+  },
+  {
+    "num": "313",
+    "word": "store",
+    "part": "n.",
+    "ch": "商店；儲備",
+    "lv": "1"
+  },
+  {
+    "num": "314",
+    "word": "shore",
+    "part": "n.",
+    "ch": "(海洋、江河、湖泊的)岸；濱",
+    "lv": "1"
+  },
+  {
+    "num": "315",
+    "word": "shot",
+    "part": "n.",
+    "ch": "(槍)射擊；(球)擲",
+    "lv": "1"
+  },
+  {
+    "num": "316",
+    "word": "shoulder",
+    "part": "n.",
+    "ch": "肩膀",
+    "lv": "1"
+  },
+  {
+    "num": "317",
+    "word": "shout",
+    "part": "v.",
+    "ch": "叫喊；大叫",
+    "lv": "1"
+  },
+  {
+    "num": "318",
+    "word": "show",
+    "part": "v.",
+    "ch": "出示；證明",
+    "lv": "1"
+  },
+  {
+    "num": "319",
+    "word": "shut",
+    "part": "v.",
+    "ch": "關上；把…關進",
+    "lv": "1"
+  },
+  {
+    "num": "320",
+    "word": "sight",
+    "part": "n.",
+    "ch": "視力；觀光地",
+    "lv": "1"
+  },
+  {
+    "num": "321",
+    "word": "silver",
+    "part": "n.",
+    "ch": "銀；銀器",
+    "lv": "1"
+  },
+  {
+    "num": "322",
+    "word": "simple",
+    "part": "adj.",
+    "ch": "簡單的；簡樸的",
+    "lv": "1"
+  },
+  {
+    "num": "323",
+    "word": "size",
+    "part": "n.",
+    "ch": "大小；尺碼",
+    "lv": "1"
+  },
+  {
+    "num": "324",
+    "word": "skill",
+    "part": "n.",
+    "ch": "熟練；(特殊的)技術",
+    "lv": "1"
+  },
+  {
+    "num": "325",
+    "word": "slow",
+    "part": "v.",
+    "ch": "減緩；放慢",
+    "lv": "1"
+  },
+  {
+    "num": "326",
+    "word": "slowly",
+    "part": "adv.",
+    "ch": "緩慢地；慢慢地",
+    "lv": "1"
+  },
+  {
+    "num": "327",
+    "word": "smell",
+    "part": "v.",
+    "ch": "(聞出)氣味；(發出)氣味",
+    "lv": "1"
+  },
+  {
+    "num": "328",
+    "word": "smoke",
+    "part": "n.",
+    "ch": "煙；抽菸",
+    "lv": "1"
+  },
+  {
+    "num": "329",
+    "word": "soft",
+    "part": "adj.",
+    "ch": "柔軟的；柔和的",
+    "lv": "1"
+  },
+  {
+    "num": "330",
+    "word": "softly",
+    "part": "adv.",
+    "ch": "輕輕地；溫和地",
+    "lv": "1"
+  },
+  {
+    "num": "331",
+    "word": "soil",
+    "part": "n.",
+    "ch": "土壤；泥土",
+    "lv": "1"
+  },
+  {
+    "num": "332",
+    "word": "soul",
+    "part": "n.",
+    "ch": "靈魂；情感",
+    "lv": "1"
+  },
+  {
+    "num": "333",
+    "word": "sour",
+    "part": "adj.",
+    "ch": "酸的；不友善的",
+    "lv": "1"
+  },
+  {
+    "num": "334",
+    "word": "space",
+    "part": "n.",
+    "ch": "空地；空間(間隔)",
+    "lv": "1"
+  },
+  {
+    "num": "335",
+    "word": "speak",
+    "part": "v.",
+    "ch": "說；使用語言",
+    "lv": "1"
+  },
+  {
+    "num": "336",
+    "word": "special",
+    "part": "adj.",
+    "ch": "特別的；獨特的",
+    "lv": "1"
+  },
+  {
+    "num": "337",
+    "word": "speech",
+    "part": "n.",
+    "ch": "演說；口音",
+    "lv": "1"
+  },
+  {
+    "num": "338",
+    "word": "sport",
+    "part": "n.",
+    "ch": "運動",
+    "lv": "1"
+  },
+  {
+    "num": "339",
+    "word": "stair",
+    "part": "n.",
+    "ch": "階梯；樓梯",
+    "lv": "1"
+  },
+  {
+    "num": "340",
+    "word": "stand",
+    "part": "v.",
+    "ch": "站立；站著",
+    "lv": "1"
+  },
+  {
+    "num": "341",
+    "word": "state",
+    "part": "n.",
+    "ch": "情況；(精神或身體)狀況",
+    "lv": "1"
+  },
+  {
+    "num": "342",
+    "word": "statement",
+    "part": "n.",
+    "ch": "聲明；對帳單",
+    "lv": "1"
+  },
+  {
+    "num": "343",
+    "word": "station",
+    "part": "n.",
+    "ch": "車站",
+    "lv": "1"
+  },
+  {
+    "num": "344",
+    "word": "stay",
+    "part": "v.",
+    "ch": "留下來；保持",
+    "lv": "1"
+  },
+  {
+    "num": "345",
+    "word": "step",
+    "part": "n.",
+    "ch": "腳步；足跡",
+    "lv": "1"
+  },
+  {
+    "num": "346",
+    "word": "stop",
+    "part": "n.",
+    "ch": "停止；站",
+    "lv": "1"
+  },
+  {
+    "num": "347",
+    "word": "store",
+    "part": "v.",
+    "ch": "儲存",
+    "lv": "1"
+  },
+  {
+    "num": "348",
+    "word": "strange",
+    "part": "adj.",
+    "ch": "陌生的；奇怪的",
+    "lv": "1"
+  },
+  {
+    "num": "349",
+    "word": "strongly",
+    "part": "adv.",
+    "ch": "強烈地；極力地",
+    "lv": "1"
+  },
+  {
+    "num": "350",
+    "word": "stupid",
+    "part": "adj.",
+    "ch": "愚蠢的；無聊的",
+    "lv": "1"
+  },
+  {
+    "num": "351",
+    "word": "supper",
+    "part": "n.",
+    "ch": "晚餐",
+    "lv": "1"
+  },
+  {
+    "num": "352",
+    "word": "surprise",
+    "part": "n.",
+    "ch": "驚訝；驚人的事",
+    "lv": "1"
+  },
+  {
+    "num": "353",
+    "word": "surprised",
+    "part": "adj.",
+    "ch": "感到驚訝的；感到意外的",
+    "lv": "1"
+  },
+  {
+    "num": "354",
+    "word": "surprising",
+    "part": "adj.",
+    "ch": "令人意外的，令人驚訝的",
+    "lv": "1"
+  },
+  {
+    "num": "355",
+    "word": "tale",
+    "part": "n.",
+    "ch": "虛構的故事；謠言",
+    "lv": "1"
+  },
+  {
+    "num": "356",
+    "word": "taste",
+    "part": "n.",
+    "ch": "味覺；味道",
+    "lv": "1"
+  },
+  {
+    "num": "357",
+    "word": "thinking",
+    "part": "n.",
+    "ch": "看法；想法",
+    "lv": "1"
+  },
+  {
+    "num": "358",
+    "word": "though",
+    "part": "conj.",
+    "ch": "雖然",
+    "lv": "1"
+  },
+  {
+    "num": "359",
+    "word": "thought",
+    "part": "n.",
+    "ch": "思考；考慮",
+    "lv": "1"
+  },
+  {
+    "num": "360",
+    "word": "throw",
+    "part": "v.",
+    "ch": "投；迅速隨意放置",
+    "lv": "1"
+  },
+  {
+    "num": "361",
+    "word": "thus",
+    "part": "adv.",
+    "ch": "因此",
+    "lv": "1"
+  },
+  {
+    "num": "362",
+    "word": "ticket",
+    "part": "n.",
+    "ch": "票；罰單",
+    "lv": "1"
+  },
+  {
+    "num": "363",
+    "word": "tie",
+    "part": "n.",
+    "ch": "領帶",
+    "lv": "1"
+  },
+  {
+    "num": "364",
+    "word": "tiny",
+    "part": "adj.",
+    "ch": "很小的",
+    "lv": "1"
+  },
+  {
+    "num": "365",
+    "word": "tire",
+    "part": "v.",
+    "ch": "使…疲倦；使…疲憊",
+    "lv": "1"
+  },
+  {
+    "num": "366",
+    "word": "tone",
+    "part": "n.",
+    "ch": "音質；語氣",
+    "lv": "1"
+  },
+  {
+    "num": "367",
+    "word": "tool",
+    "part": "n.",
+    "ch": "工具",
+    "lv": "1"
+  },
+  {
+    "num": "368",
+    "word": "total",
+    "part": "adj.",
+    "ch": "總數的；完全的",
+    "lv": "1"
+  },
+  {
+    "num": "369",
+    "word": "touch",
+    "part": "n.",
+    "ch": "觸摸；觸覺",
+    "lv": "1"
+  },
+  {
+    "num": "370",
+    "word": "train",
+    "part": "v.",
+    "ch": "訓練；培養",
+    "lv": "1"
+  },
+  {
+    "num": "371",
+    "word": "training",
+    "part": "n.",
+    "ch": "訓練；培訓",
+    "lv": "1"
+  },
+  {
+    "num": "372",
+    "word": "trouble",
+    "part": "n.",
+    "ch": "麻煩",
+    "lv": "1"
+  },
+  {
+    "num": "373",
+    "word": "truly",
+    "part": "adv.",
+    "ch": "真實地(不虛假地)；真正地",
+    "lv": "1"
+  },
+  {
+    "num": "374",
+    "word": "understand",
+    "part": "v.",
+    "ch": "理解；了解",
+    "lv": "1"
+  },
+  {
+    "num": "375",
+    "word": "understanding",
+    "part": "n.",
+    "ch": "了解；諒解",
+    "lv": "1"
+  },
+  {
+    "num": "376",
+    "word": "unit",
+    "part": "n.",
+    "ch": "單元；(計量的)單位",
+    "lv": "1"
+  },
+  {
+    "num": "377",
+    "word": "useful",
+    "part": "adj.",
+    "ch": "有用的；有益的",
+    "lv": "1"
+  },
+  {
+    "num": "378",
+    "word": "vegetable",
+    "part": "n.",
+    "ch": "蔬菜；植物人",
+    "lv": "1"
+  },
+  {
+    "num": "379",
+    "word": "view",
+    "part": "n.",
+    "ch": "觀點；視野",
+    "lv": "1"
+  },
+  {
+    "num": "380",
+    "word": "visit",
+    "part": "n.",
+    "ch": "訪問；拜訪",
+    "lv": "1"
+  },
+  {
+    "num": "381",
+    "word": "voice",
+    "part": "n.",
+    "ch": "聲音",
+    "lv": "1"
+  },
+  {
+    "num": "382",
+    "word": "warm",
+    "part": "adj.",
+    "ch": "溫暖的",
+    "lv": "1"
+  },
+  {
+    "num": "383",
+    "word": "waste",
+    "part": "n.",
+    "ch": "浪費；廚餘",
+    "lv": "1"
+  },
+  {
+    "num": "384",
+    "word": "weak",
+    "part": "adj.",
+    "ch": "虛弱的；弱的",
+    "lv": "1"
+  },
+  {
+    "num": "385",
+    "word": "weather",
+    "part": "n.",
+    "ch": "天氣；氣象",
+    "lv": "1"
+  },
+  {
+    "num": "386",
+    "word": "wedding",
+    "part": "n.",
+    "ch": "結婚典禮",
+    "lv": "1"
+  },
+  {
+    "num": "387",
+    "word": "weigh",
+    "part": "v.",
+    "ch": "稱重；重量有…",
+    "lv": "1"
+  },
+  {
+    "num": "388",
+    "word": "weight",
+    "part": "n.",
+    "ch": "重量",
+    "lv": "1"
+  },
+  {
+    "num": "389",
+    "word": "whether",
+    "part": "conj.",
+    "ch": "是否",
+    "lv": "1"
+  },
+  {
+    "num": "390",
+    "word": "whole",
+    "part": "adj.",
+    "ch": "全部的；整個的",
+    "lv": "1"
+  },
+  {
+    "num": "391",
+    "word": "will",
+    "part": "n.",
+    "ch": "意志；遺囑",
+    "lv": "1"
+  },
+  {
+    "num": "392",
+    "word": "wind",
+    "part": "n.",
+    "ch": "風(大風)",
+    "lv": "1"
+  },
+  {
+    "num": "393",
+    "word": "wish",
+    "part": "n.",
+    "ch": "希望；願望",
+    "lv": "1"
+  },
+  {
+    "num": "394",
+    "word": "worry",
+    "part": "v.",
+    "ch": "(使)擔心",
+    "lv": "1"
+  },
+  {
+    "num": "395",
+    "word": "worse",
+    "part": "adj.",
+    "ch": "(bad,",
+    "lv": "1"
+  },
+  {
+    "num": "396",
+    "word": "zero",
+    "part": "n.",
+    "ch": "(數字)零；(刻度上的)零",
+    "lv": "1"
+  }
+]
